@@ -1,0 +1,117 @@
+Làm thế nào để não liên kết các sự kiện để hình thành trí nhớ
+
+Bộ não có khả năng mạnh mẽ để ghi nhớ và kết nối các sự kiện được phân tách theo thời gian. Và bây giờ, trong một nghiên cứu mới trên chuột, các nhà khoa học đã làm sáng tỏ làm thế nào bộ não có thể hình thành các liên kết bền bỉ như vậy.
+
+
+
+
+
+
+
+Một người phụ nữ đi bộ xuống phố nghe thấy một tiếng nổ. Một lát sau cô phát hiện ra bạn trai của mình, người đã đi trước cô, đã bị bắn. Một tháng sau, người phụ nữ vào phòng cấp cứu. Những tiếng ồn do xe rác tạo ra, cô nói, đang gây ra những cơn hoảng loạn. Não cô đã hình thành một mối liên hệ sâu sắc, lâu dài giữa những âm thanh lớn và cảnh tượng tàn khốc mà cô chứng kiến.
+
+
+
+
+
+Câu chuyện này, được đưa ra bởi bác sĩ tâm thần lâm sàng và đồng tác giả của một nghiên cứu mới Mohsin Ahmed, MD, Tiến sĩ, là một ví dụ mạnh mẽ về khả năng mạnh mẽ của bộ não để ghi nhớ và kết nối các sự kiện theo thời gian. Và bây giờ, trong nghiên cứu mới trên chuột được công bố hôm nay tại Neuron , các nhà khoa học tại Viện Zuckerman của Columbia đã làm sáng tỏ cách thức bộ não có thể hình thành các liên kết bền bỉ như vậy.
+
+
+
+
+
+Các nhà khoa học đã phát hiện ra một cơ chế đáng ngạc nhiên mà hồi hải mã, một vùng não quan trọng đối với trí nhớ, xây dựng những cây cầu xuyên thời gian: bằng cách bắn ra những đợt hoạt động có vẻ ngẫu nhiên, nhưng thực tế tạo nên một mô hình phức tạp, theo thời gian, giúp não học hỏi các hiệp hội. Bằng cách tiết lộ các mạch cơ bản đằng sau việc học tập kết hợp, các phát hiện đặt nền tảng cho sự hiểu biết tốt hơn về các rối loạn lo âu và chấn thương và căng thẳng, như rối loạn căng thẳng hoảng loạn và sau chấn thương, trong đó một sự kiện dường như trung tính có thể gây ra phản ứng tiêu cực.
+
+
+
+
+
+"Chúng tôi biết rằng hồi hải mã rất quan trọng trong các hình thức học tập liên quan đến việc liên kết hai sự kiện xảy ra cách nhau đến 10 đến 30 giây", Attila Losonczy, MD, Tiến sĩ, một nhà điều tra chính tại Viện nghiên cứu hành vi não bộ của Mortimer B. Zuckerman và đồng tác giả của bài báo. "Khả năng này là chìa khóa để sinh tồn, nhưng các cơ chế đằng sau nó đã được chứng minh là khó nắm bắt. Với nghiên cứu ngày nay trên chuột, chúng tôi đã lập bản đồ các tính toán phức tạp mà bộ não thực hiện để liên kết các sự kiện riêng biệt được tách ra theo thời gian."
+
+
+
+
+
+Hồi hải mã - một khu vực nhỏ, hình cá ngựa chôn sâu trong não - là một vùng quan trọng cho việc học tập và ghi nhớ. Các thí nghiệm trước đây trên chuột cho thấy sự gián đoạn đối với hải mã khiến những con vật gặp khó khăn trong việc học cách liên kết hai sự kiện cách nhau hàng chục giây.
+
+
+
+
+
+"Quan điểm phổ biến là các tế bào ở vùng hồi hải mã giữ mức độ hoạt động bền bỉ để liên kết các sự kiện như vậy", Tiến sĩ Ahmed, trợ lý giáo sư tâm thần học lâm sàng tại Đại học Bác sĩ và Bác sĩ phẫu thuật Vagelos của Columbia, đồng tác giả đầu tiên của nghiên cứu ngày nay. "Tắt các tế bào này do đó sẽ phá vỡ việc học."
+
+
+
+
+
+
+
+
+
+Để kiểm tra quan điểm truyền thống này, các nhà nghiên cứu đã chụp hình các bộ phận của đồi hải mã của chuột khi các con vật tiếp xúc với hai kích thích khác nhau: một âm thanh trung tính theo sau là một luồng không khí nhỏ nhưng khó chịu. Một sự chậm trễ mười lăm giây ngăn cách hai sự kiện. Các nhà khoa học đã lặp lại thí nghiệm này qua nhiều thử nghiệm. Theo thời gian, những con chuột đã học cách liên kết giai điệu với luồng không khí sớm theo sau. Sử dụng kính hiển vi hai photon tiên tiến và hình ảnh canxi chức năng, họ đã ghi lại hoạt động của hàng ngàn tế bào thần kinh, một loại tế bào não, trong đồi hải mã của động vật đồng thời trong suốt quá trình thử nghiệm trong nhiều ngày.
+
+
+
+
+
+"Với cách tiếp cận này, chúng ta có thể bắt chước, mặc dù theo cách đơn giản hơn, quá trình bộ não của chúng ta trải qua khi chúng ta học cách kết nối hai sự kiện", Tiến sĩ Losonczy, cũng là giáo sư khoa học thần kinh tại Đại học Bác sĩ và Bác sĩ phẫu thuật của Columbia. .
+
+
+
+
+
+Để hiểu được thông tin họ thu thập được, các nhà nghiên cứu đã hợp tác với các nhà thần kinh học tính toán, người phát triển các công cụ toán học mạnh mẽ để phân tích lượng lớn dữ liệu thực nghiệm.
+
+
+
+
+
+"Chúng tôi dự kiến ​​sẽ thấy hoạt động thần kinh liên tục, lặp đi lặp lại kéo dài trong khoảng cách mười lăm giây, một dấu hiệu của đồi hải mã khi làm việc liên kết giai điệu thính giác và thở hổn hển", nhà khoa học thần kinh tính toán của Stefano Fusi, Tiến sĩ, nhà nghiên cứu chính của Zuckerman nói. Viện và đồng tác giả của bài báo. "Nhưng khi chúng tôi bắt đầu phân tích dữ liệu, chúng tôi không thấy hoạt động nào như vậy."
+
+
+
+
+
+Thay vào đó, hoạt động thần kinh được ghi lại trong khoảng thời gian mười lăm giây là thưa thớt. Chỉ có một số lượng nhỏ tế bào thần kinh bị bắn, và chúng dường như ngẫu nhiên. Hoạt động lẻ tẻ này trông khác biệt với hoạt động liên tục mà não bộ hiển thị trong các nhiệm vụ học tập và trí nhớ khác, như ghi nhớ số điện thoại.
+
+
+
+
+
+James Priestley, một ứng cử viên tiến sĩ do Tiến sĩ đồng sáng lập cho biết: Losonczy và Fusi tại Viện Zuckerman của Columbia và là đồng tác giả đầu tiên của bài báo. "Để hiểu hoạt động, chúng tôi đã phải thay đổi cách chúng tôi phân tích dữ liệu và sử dụng các công cụ được thiết kế để hiểu được các quy trình ngẫu nhiên."
+
+
+
+
+
+Cuối cùng, các nhà nghiên cứu đã phát hiện ra một mô hình ngẫu nhiên: một phong cách điện toán tinh thần dường như là một cách hiệu quả đáng kể mà các nơ-ron lưu trữ thông tin. Thay vì liên lạc với nhau liên tục, các nơ-ron tiết kiệm năng lượng - có lẽ bằng cách mã hóa thông tin trong các kết nối giữa các tế bào, được gọi là khớp thần kinh, thay vì thông qua hoạt động điện của các tế bào.
+
+
+
+
+
+Tiến sĩ Fusi, cũng là giáo sư khoa học thần kinh tại Đại học Vagelos của Columbia cho biết: "Chúng tôi rất vui khi thấy não không duy trì hoạt động liên tục trong tất cả các giây này bởi vì, về mặt trao đổi chất, đó không phải là cách hiệu quả nhất để lưu trữ thông tin". của các bác sĩ và bác sĩ phẫu thuật. "Bộ não dường như có một cách hiệu quả hơn để xây dựng cây cầu này, mà chúng tôi nghi ngờ có thể liên quan đến việc thay đổi sức mạnh của các khớp thần kinh."
+
+
+
+
+
+Ngoài việc giúp lập bản đồ mạch liên quan đến học tập kết hợp, những phát hiện này còn cung cấp một điểm khởi đầu để khám phá sâu hơn các rối loạn liên quan đến rối loạn chức năng trong bộ nhớ kết hợp, chẳng hạn như rối loạn căng thẳng hoảng loạn và căng thẳng.
+
+
+
+
+
+Tiến sĩ Ahmed, người cũng là thành viên của phòng thí nghiệm Losonczy tại Viện Zuckerman của Columbia cho biết: "Mặc dù nghiên cứu của chúng tôi không mô hình hóa rõ ràng các hội chứng lâm sàng của một trong những rối loạn này, nhưng nó có thể mang lại nhiều thông tin". "Ví dụ, nó có thể giúp chúng ta mô hình hóa một số khía cạnh của những gì có thể xảy ra trong não khi bệnh nhân trải qua mối liên hệ đáng sợ giữa hai sự kiện, với người khác, không gây ra sự sợ hãi hay hoảng loạn."
+
+
+
+
+
+Theo sciencedaily
+
+
+
+
+
+Nguồn: Viện Zuckerman tại Đại học Columbia

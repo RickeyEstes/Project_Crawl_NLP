@@ -1,0 +1,95 @@
+Kẻ ngăn chặn sốt xuất dengue
+
+Cập nhật lúc 20:15 18/08/2016
+
+Để góp thêm một nguồn tư liệu mới cho việc kiểm soát véc tơ truyền bệnh sốt xuất huyết dengue ở nước ta, xin gửi tới Ban Biên tập và Bạn đọc bản dịch nguyên văn bài báo “The Dengue Stopper” của tác giả Scott O’Neill, đăng trên tạp chí “Scientific American” xuất bản tháng Sáu năm 2015
+
+Các nhà khoa học đang thử nghiệm miễn dịch loài muỗi để ngăn chặn bệnh sốt xuất huyết dengue (SXHD) nhờ một vi khuẩn thông thường.
+
+
+
+Mỗi tuần một lần, trong khoảng ba tháng năm 2011, Scott O’Neill và cộng sự (Đại học Monash, Úc) đi thả muỗi. Họ tập trung vào hai khu dân cư ở thành phố Cairns (Úc) - một địa điểm du lịch quen thuộc. Cứ ở một trong bốn nhà, họ thả chừng 50 con muỗi. Đây không phải là muỗi thường gặp trong vườn mà là muỗi đã được nhiễm một giống vi khuẩn quen thuộc có tên Wolbachia, sống trong các tế bào côn trùng. Đúng với ý định của các tác giả, đặc tính đáng chú ý nhất của Wolbachia là kìm hãm sinh sản của virut dengue trong các mô của muỗi. Do virut không thể sao chép, chúng không được côn trùng truyền sang người và bệnh được kiểm soát.
+
+Gây nhiễm vi khuẩn vào muỗi là một cách gián tiếp để ngăn ngừa dengue. Với biệt danh là “sốt gãy xương” do gây đau đớn cơ xương khớp, bệnh SXHD mỗi năm gặp ở 390 triệu người. Vì chưa có cách phòng trừ hoặc điều trị nên chiến lược chủ yếu vẫn là tấn công vào Aedes aegypti là loài muỗi truyền virut. Hơn nữa, các chất diệt ấu trùng muỗi thông thường như temphos đã mất hiệu lực vì muỗi phát triển tính kháng. Màn ngủ cũng hầu như vô dụng vì A. aegypti thường hút máu vào ban ngày. Hiện giờ, một trong các biện pháp sinh học có triển vọng nhất ngăn chặn vi rút dengue và các bệnh khác do muỗi có lẽ là sử dụng Wolbachia trong các muỗi hoang dại.
+
+
+
+Wolbachia không phải là thiên địch thực sự dùng thanh toán bệnh dengue vì chúng thường không có mặt trong muỗi A. aegypti. Các nhà khoa học phải nhiễm nhân tạo Wolbachia vào muỗi truyền bệnh dengue, sau đó thả chúng vào tự nhiên hi vọng muỗi sẽ truyền vi khuẩn cho con cháu chúng. Nói chung, Wolbachia vô hại cho muỗi và môi trường tuy có thể làm giảm sản xuất trứng của côn trùng. Nhìn ở một góc độ khác, lợi ích tiềm tàng đối với người là rõ rệt: nếu muỗi Aedes nhiễm Wolbachia chiếm ưu thế trong tự nhiên, tốc độ nhiễm dengue ở người sẽ giảm.
+
+
+
+Kiểm soát dịch bệnh
+
+
+
+Muỗi thuộc các loài sinh vật đáng sợ nhất trên trái đất. Sốt vàng cũng được truyền bởi A. aegypti đã xóa sổ nhiều đoàn quân Mỹ hơn là hỏa lực của kẻ thù trong chiến tranh Mỹ-Tây Ban Nha năm 1898. Sốt rét được truyền bởi một kí sinh vật cư trú trong muỗi đã làm chết 627.000 người chỉ trong năm 2012. Hiện nay A. aegypti đang nhanh chóng lan truyền dengue khắp thế giới. Khoảng 50% dân số thế giới đang có nguy cơ mắc bệnh SXHD. Muỗi A. aegypti có thể sinh sản trong bất kì ổ nước mưa hay nước tủ lạnh đọng lại, giúp cho chúng rất khó bị kiểm soát. Muỗi có mặt ở những vùng khí hậu nhiệt đới và cận nhiệt đới thuộc châu Phi, châu Mỹ, Địa Trung Hải, Đông Nam Á, Tây Thái Bình Dương. Tuy nhiên, vi rút dengue không tự nhiên tồn tại trong các muỗi trên, muỗi nhận được vi rút từ con người.
+
+
+
+Cơ chế nhiễm dengue đơn giản: muỗi cái đốt người vì chúng cần 1 protein có trong máu chúng ta để đẻ trứng (muỗi đực không đốt người). Nếu muỗi đốt 1 người đang nhiễm vi rút dengue chúng sẽ nhiễm và sau 8-12 ngày sinh sản, lại đốt 1 người khác, muỗi sẽ truyền vi rút vào máu người này. Tuy nhiên, Wolbachia phá vỡ quá trình lan truyền trên bằng cách ngăn cản sự sinh sản của muỗi.
+
+
+
+Wolbachia được nhận biết vào năm 1924 khi nhà nghiên cứu phân tích các loài muỗi nhà nhưng chỉ được chú ý khi nhận thấy rằng trong một số trường hợp Wolbachia có thể kìm hãm sự nở của trứng muỗi. Trong những năm 1990, các nhà khoa học cho biết 1 số chủng Wolbachia cũng có thể rút ngắn thời gian sống của côn trùng, mở ra khả năng sử dụng vi khuẩn để kiểm soát sinh sản của côn trùng, qua đó ngăn chặn bệnh do chúng lây truyền.
+
+
+
+Theo các nhà khoa học, nếu có thể giảm thời gian sống của muỗi, dù ở mức độ vừa phải, ta sẽ giảm được đáng kể khả năng truyền bệnh của muỗi đối với người. Khó khăn là ở chỗ Wolbachia kém ái lực đối với A. aegypti. Vi khuẩn gặp trong 60% các loài côn trùng, kể cả một số muỗi đốt người, nhưng việc lây nhiễm không dễ dàng truyền giữa các loài. Thách thức là tìm cách truyền các chủng gây bệnh SXHD. Việc thăm dò đã làm mất hơn một thập kỉ của các nhà khoa học.
+
+
+
+Nhiễm vào muỗi thế nào?
+
+
+
+Hãy tưởng tượng ta lấy kim chọc vào một quả bóng rồi rút kim ra mà không làm xì hơi. Quá trình tương tự như việc nhiễm Wolbachia vào trứng muỗi. Trong phòng thí nghiệm, các nhà khoa học đã dùng kim hiển vi lấy vi khuẩn từ ruồi quả rồi tiêm trực tiếp vào trứng muỗi còn non. Đầu tiên, tương tự như quả bóng bị kim chọc thủng, trứng bị vỡ. Phải tốn nhiều nghìn trứng các nhà khoa học mới thành công. Có lần Scott O’Neill và cộng sự nhiễm trứng muỗi mà không phá hoại trứng đã vấp phải các vấn đề khác cần giải quyết. Có lẽ, Wolbachia thường biến mất sau một hoặc hai thế hệ sinh sản của muỗi, nghĩa là không có cách nào vi khuẩn lan truyền trong tự nhiên như ta mong muốn. Cuối cùng, các nhà khoa học nhận thấy cần phải kiểm tra vi khuẩn trước khi tiêm chủng vào muỗi nhằm thu được các vi khuẩn thường sống trong ruồi quả, làm quen với các chủ mới của chúng. Muốn vậy, họ đã tách Wolbachia từ ruồi quả rồi nuôi chúng trong các dòng tế bào muỗi. Và năm 2005, các nhà khoa học đã thành công: nhiễm muỗi với Wolbachia rồi theo dõi chúng truyền vi khuẩn từ thế hệ này sang thế hệ khác, tổng cộng 13 thế hệ. Từ đó, Wolbachia đã phát triển trong muỗi ở tất cả các thế hệ sau đó. Như các nhà khoa học mong đợi, ít nhất thu được một chủng Wolbachia đã rút ngắn sự sống của A. aegypti. Hơn nữa, Wolbachia, thậm chí còn kháng SXHD hiệu quả hơn ta tưởng. Do các nguyên nhân di truyền, virut dengue bị suy yếu khi sinh trưởng trong muỗi nhiễm Wolbachia. Chỉ mấy năm sau khi cấy truyền thành công Wolbachia vào A. aegypti các nhà khoa học mới biết: trong ruồi quả vi khuẩn cũng kìm hãm sao chép virut Drosophila C gây chết ruồi. Các nhà khoa học đã tiêm virut dengue trực tiếp vào muỗi chứa Wolbachia và nhận thấy virut mất sao chép trong cơ thể muỗi. Thí nghiệm được lặp lại một số lần, mỗi lần với nhiều muỗi và nhận thấy các kết quả là ổn định, phù hợp.
+
+
+
+Hiện giờ, các nhà khoa học sử dụng một chủng Wolbachia ngăn cản lan truyền vi rút dengue nhưng không rút ngắn thời gian sống của muỗi. Họ muốn muỗi sống trong thời gian dài và đẻ nhiều trứng nhiễm Wolbachia.
+
+
+
+Một trong các thí nghiệm ở miền Bắc Úc của Scott O’Neil chứng minh rằng sau khi thả khoảng 10 muỗi/nhà/tuần thì chỉ sau 10 tuần có trên 80% muỗi hoang dại trong vùng chứa Wolbachia và chúng còn chứa Wolbachia sau khi đã ngừng thả muỗi hai tháng. Wolbachia truyền dễ dàng qua các thế hệ muỗi nên không cần phải thả lặp lại do chúng sẽ tự phát tán.
+
+
+
+Thả vào tự nhiên
+
+
+
+Trước khi thả muỗi nhiễm Wolbachia vào tự nhiên, các nhà khoa học đã quan tâm nhiều đến cộng đồng dân cư, phải mất hàng tháng đi gõ cửa từng nhà để xin phép thả muỗi, cũng như tổ chức các buổi họp cộng đồng trình bày ý nghĩa của công việc. Các công chức liên bang Úc cũng kiểm tra độ an toàn của phương pháp trước khi chấp nhận cho thả muỗi nhiễm vi khuẩn.
+
+Với người, Wolbachia không có gì đe dọa rõ ràng. Các thí nghiệm trong phòng thí nghiệm cho biết vi khuẩn không thể truyền cho người vì chúng quá lớn không lọt qua được ống nước bọt của muỗi để vào được dòng máu của người. Các nhà khoa học cũng đã tiến hành thử nghiệm cho muỗi đốt trong 3 năm liền, những người này vẫn không có dấu hiệu của nhiễm khuẩn. Các nhân viên phòng thí nghiệm và những người tình nguyện thường vén tay áo và giữ 15 phút trong lồng muỗi cho phép muỗi đốt thỏa thích.
+
+
+
+Không có dấu hiệu nào cho thấy Wolbachia tác hại đến môi trường từ khi bắt đầu thả muỗi nhiễm Wolbachia. Năm 2011, các nhà khoa học đã nghiên cứu các động vật và côn trùng bị muỗi đốt và tái khẳng định rằng vi khuẩn chỉ trú ngụ bên trong các tế bào của côn trùng và các động vật chân đốt khác. Hơn nữa, Wolbachia cũng khó sống sót nếu như lọt vào máu của người hoặc các động vật có vú khác do tính miễn dịch theo loài. Trên thực tế, Wolbachia đã gặp trong nhiều loài muỗi khác kể cả một số loài thường đốt người. Các thử nghiệm tiến hành trên nhện và tắc kè đã từng ăn muỗi nhiễm Wolbachia không phát hiện thấy tác dụng gì có hại và cũng không thấy dấu hiệu nào về sự có mặt của vi khuẩn trong mô của hai động vật trên.
+
+
+
+Trước khi thả muỗi nhiễm Wolbachialần đầu tiên vào năm 2011, Scott O’Neill đã ủy nhiệm cho cơ quan khoa học quốc gia Úc đánh giá những rủi ro có thể xảy ra do thả muỗi nhiễm Wolbachia như ảnh hưởng đến sinh thái và đến cộng đồng dân cư. Những vấn đề trên bao gồm: sự thay đổi mật độ muỗi, khả năng tiến hóa của virut dengue, tác hại của số lượng muỗi đốt tăng lên và cảm nhận của người dân về các nguy cơ liên quan đến SXHD. Tuy nhiên, báo cáo của cơ quan khoa học Úc kết luận rằng việc thả muỗi nhiễm Wolbachia có nguy cơ không đáng kể đến con người và lên môi trường.
+
+
+
+Wolbachia phổ biến toàn cầu
+
+
+
+Ngoài các thử nghiệm diễn ra ở Úc trong 4 năm qua, các nhà khoa học cũng đang tiến hành thử nghiệm ở Việt Nam, Indonesia và Braxin và nhận thấy Wolbachia có thể tồn tại trong các quần thể nhỏ muỗi tự nhiên. Nuôi đủ số lượng muỗi trưởng thành nhiễm Wolbachia rất tốn sức lao động. Vì vậy, các nhà khoa học đang thử nghiệm hiệu quả của việc thả trứng muỗi nhiễm Wolbachia vào môi trường. Mốt số nhà khoa học khác lại kiểm soát muỗi bằng cách thả các muỗi đực đã cải biến di truyền sao cho các tế bào tinh trùng của các con đực mang một gen chết. Khi các muỗi này giao phối với các con cái trong tự nhiên, con chúng sẽ chết. Cách tiếp cận này mới có hiệu quả, nhưng có thể rất tốn kém. Ở qui mô lớn, cần phải liên tục thả các muỗi đã biến đổi gen, nếu không các muỗi chưa biến đổi từ các vùng xung quanh sẽ chuyển vào chỗ trống bổ sung vào quần thể. Việc sử dụng muỗi chuyển gen cũng vấp phải sự chỉ trích mạnh mẽ của những người phản đối việc gây biến đổi gen cho các loài sinh vật trong tự nhiên.
+
+
+
+Trái lại, chi phí cho việc kiểm soát SXHD phụ thuộc vào Wolbachia là vừa phải: sau đầu tư ban đầu cho muỗi nhiễm vi khuẩn, quá trình sẽ ổn định. Đây có thể là biện pháp loại trừ SXHD tương đối rẻ tiền, rất quan trọng cho các nước nhiệt đới, nghèo nhưng bệnh lại lưu hành nặng. Một lợi ích nữa của cách tiếp cận trên là không có sự cải biến gen bảo đảm rằng nghiên cứu không ảnh hưởng đến sự an toàn của quần thể người và động vật.
+
+
+
+Trước mắt các nhà khoa học vẫn còn một khó khăn, đó là đánh giá hiệu quả giảm bệnh SXHD khi đưa Wolbachia vào cộng đồng. Khó khăn vì một số lý do: Trong các vùng thử nghiệm, các dẫn liệu đáng tin cậy về SXHD và vi rút dengue nói chung còn thiếu, hơn nữa tốc độ nhiễm có thể rất thay đổi tùy theo năm. Để khẳng định hiệu quả của phương pháp, các nhà khoa học cần so sánh tình trạng nhiễm ở các vùng thả muỗi nhiễm Wolbachia với các vùng không thả. Công việc này đòi hỏi nhiều mẫu máu khá tốn kém. Nghiên cứu trên không chỉ có ý nghĩa trong phòng chống SXHD mà còn có thể làm giảm khả năng lây truyền của những bệnh khác do muỗi. Chứng cớ là Wolbachia cũng có thể làm giảm khả năng truyền bệnh chikungunia xuất hiện đầu tiên ở Mỹ tháng 7 vừa qua và bệnh sốt vàng. Các nhà khoa học cũng đang cố gắng nghiên cứu sử dụng muỗi nhiễm Wolbachia kìm hãm truyền sốt rét và bệnh giun chỉ bạch huyết, một bệnh gây biến dạng sâu sắc.
+
+
+
+Những kết quả mới thu được là khá hấp dẫn. Tuy nhiên, hiện thời các nhà khoa học vẫn đang tập trung đánh giá phương pháp ngăn chăn, kiểm soát SXHD và hi vọng một ngày gần đây vết muỗi đốt sẽ để lại hậu quả không gì hơn là một nốt ngứa trên da
+
+GS.TS Nguyễn Đình Quyến
+
+(Theo Scott O'Neill. Scientific American 312, 72 - 77 (2015) )
