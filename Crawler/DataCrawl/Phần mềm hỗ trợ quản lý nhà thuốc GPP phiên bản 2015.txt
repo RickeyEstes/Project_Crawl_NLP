@@ -1,0 +1,15 @@
+Phần mềm hỗ trợ quản lý nhà thuốc GPP phiên bản 2015Phần mềm hỗ trợ quản lý nhà thuốc GPP phiên bản 2015
+
+Hướng dẫn:
+
+
+
+Tải về tập tin đính kèm phía dưới. Giải nén vào cùng một thư mục. Sau đó chạy file setup.exe để tiến hành cài đặt.
+
+Lưu ý: Phần mềm không có chức năng sao lưu, phục hồi. Do đó, người dùng cần lưu ý khi cài đặt lại máy hoặc phần mềm.
+
+(Để có thể lấy lại dữ liệu cũ, trước khi cài đặt phần mềm mới chép file QLNTHUOC_GPP.Gok trong Program files (Program files(x86))\SoftSolution\GPP\ vào nơi khác. Sau khi cài đặt lại phần mềm, chép đè file cũ lên file mới tạo sau khi cài đặt).
+
+Tải phần mềm
+
+SỞ Y TẾ TP.HCM

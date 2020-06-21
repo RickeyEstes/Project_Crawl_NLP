@@ -1,0 +1,7 @@
+1	Thu_hồi	V	O	0	root
+2	giấy	N	O	1	dob
+3	chứng_nhận	V	O	2	nmod
+4	đủ	A	O	2	nmod
+5	điều_kiện	N	O	4	dob
+6	kinh_doanh	V	O	5	nmod
+7	dược	N	O	5	nmod

@@ -1,0 +1,19 @@
+Nước nào có nhiều máy CT Scanner và MRI nhất ?Công nghệ ngày càng đóng vai trò quan trọng trong hệ thống y tế, cho phép các bác sĩ chẩn đoán và điều trị bệnh nhân ngày càng tốt hơn. Tuy nhiên, cũng chính các công nghệ mới cũng làm tăng chi phí điều trị và thường được thừa nhận là một trong những nguyên nhân chính của sự gia tăng chi tiêu cho y tế.
+
+Dưới đây là các dữ liệu về tính khả dụng và tình hình sử dụng hai công nghệ chẩn đoán hình ảnh phổ biến là máy chụp cắt lớp vi tính (CT scanner) và máy chụp cộng hưởng từ (MRI) tại các nước thuộc Tổ chức Hợp tác và Phát triển Kinh tế (OECD):
+
+- Tính khả dụng của máy CT Scanner và MRI đã tăng nhanh tại hầu hết các nước thuộc OECD trong hai thập kỷ qua. Nhật Bản là nước có số lượng máy MRI và CT Scanner cao nhất tính theo đầu người, tiếp theo là Mỹ là quốc gia có nhiều máy MRI và Úc là quốc gia có nhiều CT scanner. Các nước Áo, Đức, Hy Lạp, Iceland, Ý, Hàn Quốc và Thụy Sĩ cũng có nhiều máy quét MRI và CT tính trên đầu người nhiều hơn đáng kể so với mức trung bình của các nước thuộc Tổ chức OECD. Số lượng MRI và CT tính đầu người thấp nhất ở Mexico, Hungary, Israel và Anh, tương đối thấp ở Colombia, Costa Rica và Liên bang Nga.
+
+- Không có một hướng dẫn chung nào hoặc chuẩn quốc tế nào về số lượng máy CT hoặc MRI phù hợp tính trên một triệu dân. Tuy nhiên, nếu quá ít có thể dẫn đến các vấn đề tiếp cận dịch vụ liên quan đến khoảng cách địa lý hoặc thời gian chờ đợi của người bệnh. Nhưng nếu có quá nhiều máy CT và MRI có thể dẫn đến việc sử dụng quá mức các kỹ thuật chẩn đoán tốn kém này, với lợi ích mang lại rất ít cho người bệnh. Dữ liệu về việc sử dụng các máy chẩn đoán hình ảnh này luôn có sẵn tại hầu hết các nước OECD. Trong đó, số lần chụp MRI tính trên đầu người cao nhất ở Đức, Mỹ, Nhật Bản và Pháp, các nước này đều có hơn 100 lượt chụp MRI/1.000 dân. Riêng tại Pháp, số lượt chụp MRI tăng hơn gấp đôi nếu so sánh giữa 2 năm 2007 và 2017. Số lượt chụp CT tính theo đầu người cao nhất ở Mỹ, tiếp theo là Nhật Bản và Iceland. Có sự khác biệt lớn trong việc sử dụng máy CT và MRI giữa các quốc gia và giữa các khu vực trong cùng một nước.
+
+- Hướng dẫn lâm sàng thúc đẩy sử dụng hợp lý hơn các xét nghiệm MRI và CT đã có ở một số nước. Thông qua chiến dịch Lựa chọn khôn ngoan (Choosing Wisely campaign), bắt đầu ở Mỹ vào năm 2012 và đã được nhân rộng ở một số quốc gia khác, các hội y khoa đã xác định nhiều trường hợp bệnh lý không cần thiết phải chụp MRI hoặc CT. Ví dụ, Hội thầy thuốc Hoàng gia (Royal College of Physicians) ở Anh khuyến nghị dựa trên bằng chứng từ Viện Sức khỏe và Chăm sóc Sức khỏe Quốc gia (NICE) cho rằng bệnh nhân bị đau thắt lưng hoặc nghi ngờ bị migraine không nhất thiết phải chỉ định thường quy chẩn đoán hình ảnh.
+
+Số máy CT Scanner và MRI tính trên triệu dân tại các nước OECD
+
+Số lần chụp MRI tính trên 1.000 dân mỗi năm tại các nước OECD (năm 2007 và năm 2017)
+
+Số lần chụp CT tính trên 1.000 dân mỗi năm tại các nước OECD (năm 2007 và năm 2017)
+
+(Tài liệu tham khảo: “Medical technologies” - Health at a Glance 2019, OECD INDICATORS)
+
+SỞ Y TẾ TP.HCM

@@ -1,0 +1,99 @@
+Nguyên nhân và thưc trạng kháng thuốc kháng sinh.Kháng thuốc kháng sinh: Thực trạng và nguyên nhân
+
+Hiện nay tình trạng vi khuẩn kháng kháng sinh không còn là vấn đề của một quốc gia mà đã trở thành vấn nạn toàn cầu. Việt Nam vẫn đang nằm trong nhóm các nước có tỉ lệ kháng kháng sinh cao nhất trên thế giới với 33% người bệnh bị kháng thuốc.
+
+1. Kháng kháng sinh là gì?
+
+Kháng kháng sinh là tình trạng xảy ra khi vi sinh vật (vi khuẩn, virus, nấm và ký sinh trùng) thay đổi khi chúng tiếp xúc với các loại thuốc kháng khuẩn (như thuốc kháng sinh, kháng nấm, kháng virus).
+
+2. Thực trạng kháng kháng sinh hiện nay
+
+2.1. Tại các quốc gia và vùng lãnh thổ trên thế giới
+
+Những hồi chuông cảnh báo tình trạng kháng kháng sinh trên toàn cầu vẫn đang ngày một vang lên to hơn khi mà mới đây, các hãng Dược phẩm hàng đầu thế giới như AstraZeneca (Anh), Sanofi (Pháp), Eli Lily (Mỹ) và Novartis (Thụy Sĩ), lần lượt tuyên bố đóng cửa chương trình nghiên cứu kháng sinh của họ.
+
+Tại thời điểm này, hàng ngày trên thế giới có trung bình khoảng 2000 người tử vong vì siêu vi khuẩn kháng thuốc. Nếu không có biện pháp ngăn chặn kịp thời, đến năm 2050 con số này có thể tăng gấp 15 lần, theo một báo cáo ủy quyền bởi chính phủ Anh.
+
+2.2. Tại Việt Nam
+
+Tại Việt Nam, tình trạng kháng kháng sinh cũng đang ngày càng gia tăng. Chi phí cho việc sử dụng thuốc kháng sinh chiếm đến gần 30% tổng chi phí thuốc và đang có chiều hướng gia tăng.
+
+Một số loại vi khuẩn có tỉ lệ kháng kháng sinh cao
+
+Thống kê tại các bệnh viện lớn như bệnh viện Việt Đức, bệnh viện Bạch Mai, Bệnh viện TWQĐ 108, bệnh viện Chợ Rẫy… một số loại vi khuẩn như S.pneumoniae, E.coli, tụ cầu vàng có tỷ lệ kháng kháng sinh rất cao. Cụ thể:
+
+chủng S.pneumoniae đã kháng penicillin ~70%, kháng erythromycin ~90%;
+
+chủng E.coli kháng gentamicin và cefotaxim với tỷ lệ trên 50%;
+
+tụ cầu vàng kháng methicilline với tỷ lệ ~40%.
+
+Nghiên cứu gần đây về chủng vi khuẩn Gram âm mang gen NDM-1 (New Delhi Metallo Beta lactamase 1) kháng nhóm kháng sinh Carpapenem – là những kháng sinh diệt khuẩn có phổ kháng khuẩn rộng nhất trong thời điểm hiện nay. Trường hợp đầu tiên bị nhiễm vi khuẩn có gen NDM-1 được tìm thấy ở Ấn Độ, nhưng đến nay nó đã có mặt ở nhiều nước trên thế giới như Anh, Mỹ, Nhật Bản và cả Việt Nam.
+
+Kết quả của các chương trình hành động liên quan tới kháng kháng sinh
+
+Đáng lo ngại hơn, Việt Nam đã xây dựng chương trình hành động liên quan tới kháng kháng sinh (2013-2020), nhưng mức sử dụng kháng sinh trong giai đoạn 2009-2015 lại tăng gần 3 lần so với giai đoạn 2005-2009. Trên thực tế, rất nhiều loại kháng sinh cho người được dùng cho cả động vật. Giám sát quốc gia về các nhiễm khuẩn cộng đồng mắc phải tại bệnh viện cho thấy tỉ lệ nhiễm tụ cầu vàng kháng methicillin (MRSA) lên tới 40%. Tỉ lệ kháng Penicillin ở Streptococcus pneumo tăng từ 8% lên 75% từ năm 1999 đến 2007 trong khu vực Ba Vì, Việt Nam.
+
+3. Vậy đâu là nguyên nhân dẫn đến tình trạng kháng kháng sinh?
+
+3.1. Vi khuẩn kháng thuốc
+
+Vi khuẩn có rất nhiều cách để làm mất tác dụng của kháng sinh, nhưng cơ bản có 3 nhóm nguyên
+
+nhân chính:
+
+Vi khuẩn đột biến gen, tạo enzyme phân hủy hoặc biến đổi cấu trúc của kháng sinh:
+
+Một số vi khuẩn có khả năng kháng với kháng sinh nhóm Betalactam là do chúng tiết ra men betalactamase phá hủy vòng lactam làm mất tác dụng diệt khuẩn của kháng sinh.
+
+Một số vi khuẩn tiết enzyme làm biến đổi kháng sinh aminoglycoside khiến kháng sinh này không thể gắn vào vị trí đặc hiệu trên ribosome vi khuẩn, quá trình tổng hợp của vi khuẩn không bị ức chế do đó kháng sinh không tác động được tới vi khuẩn gây bệnh.
+
+Vi khuẩn giảm nồng độ thuốc kháng sinh bên trong tế bào
+
+Theo thời gian các dòng kháng sinh mới, phổ rộng ưu việt hơn được tìm ra nhưng đồng thời trong thời gian này vi khuẩn cũng không ngừng phát triển, đột biến để đối phó với tác động của kháng sinh.
+
+Các vi khuẩn kháng Tetracycline, Macrolide, Quinolone nhờ biến đổi hệ thống bơm chủ động của chính nó khiến kháng sinh không thể vào tế bào vi khuẩn được.
+
+Một số vi khuẩn củng cố các màng bảo vệ của chúng để kháng sinh không thấm được vào ví dụ như màng ngoài ở các vi khuẩn gram âm như trực khuẩn mủ xanh.
+
+Vi khuẩn làm thay đổi đích tác động nên kháng sinh không gắn được vào đích:
+
+Việc sử dụng kháng sinh bừa bãi, không theo đơn, sử dụng kết hợp nhiều loại kháng sinh cùng lúc tạo điều kiện cho vi khuẩn đột biến. Kháng sinh Penicillin muốn có tác dụng diệt khuẩn trước tiên phải gắn được vào các phân tử protein (PBPs) của vi khuẩn phế cầu, nhưng do quá trình đột biến phân tử PBPs làm kháng sinh không nhận diện ra vi khuẩn do đó không có tác dụng diệt khuẩn.
+
+3.2. Do tình trạng sử dụng kháng sinh không đúng cách
+
+Ngoài ra nguyên nhân dẫn đến tình trạng kháng thuốc còn do việc sử dụng, kê đơn kháng sinh bừa bãi, thiếu khoa học của người dân:
+
+Việc sử dụng kháng sinh bừa bãi trong cộng đồng
+
+Tại Việt Nam, người dân có thể tự mua kháng sinh một cách dễ dàng. Đôi khi chỉ với những triệu chứng như ho, hắt hơi, sổ mũi chưa rõ nguyên nhân cũng dùng đến kháng sinh.
+
+Việc kê đơn có phần chưa hợp lí của bác sĩ
+
+Việc kê đơn kháng sinh cho bệnh nhân phải phù hợp với nguyên nhân gây bệnh, dùng kháng sinh nhẹ trước, kháng sinh mạnh sau. Đôi khi, để bệnh nhân nhanh khỏi, một số bác sĩ cho bệnh nhân dùng các kháng sinh mạnh ngay từ đầu, dẫn đến tình trạng vi khuẩn dễ kháng thuốc.
+
+Việc bán thuốc kháng sinh tùy ý của các dược sĩ
+
+Với cơ chế quản lý lỏng lẻo của Y tế Việt Nam, việc tự ý mua kháng sinh mà không cần tới đơn của bác sỹ đã quá phổ biến. Người bán thuốc không có y đức bán thuốc kháng sinh phổ rộng, liều cao nhằm lấy lòng tin của người bệnh, trong khi đó người bệnh vừa tốn kém vừa tạo điều kiện cho vi khuẩn đột biến kháng kháng sinh.
+
+Việc lạm dụng kháng sinh trong chăn nuôi
+
+Sử dụng quá nhiều kháng sinh cho vật nuôi cũng làm gia tăng tình trạng kháng thuốc ở vi khuẩn, khi gây bệnh cho người trở thành vi khuẩn kháng kháng sinh. Rất nhiều thực phẩm chúng ta ăn hàng ngày như thịt, trứng, sữa… có dư một lượng kháng sinh đáng kể trong đó.
+
+Việc kiểm soát nhiễm khuẩn ở bệnh viện và các cơ sở y tế chưa tốt.
+
+Bệnh viện là nơi rất nhiều vi khuẩn, rất dễ xảy ra tình trạng nhiễm khuẩn chéo và tình trạng vi khuẩn đa kháng thuốc nếu bệnh viện không có biện pháp kiểm soát tốt.
+
+Bệnh nhân không tuân thủ liều lượng, thời gian điều trị:
+
+Thời gian điều trị kháng sinh cho các nhiễm khuẩn nhẹ thường là 7-10 ngày. Đối với các nhiễm khuẩn nặng hay nhiễm khuẩn ở mô mà kháng sinh khó xâm nhập như viêm màng não, tủy xương thì đợt điều trị thường kéo dài hơn.
+
+Tuy nhiên do người bệnh còn thiếu hiểu biết, khi thấy không còn triệu chứng đã dừng thuốc nhưng lúc này trong cơ thể vi khuẩn gây bệnh vẫn tồn tại và có thể đột biến gây kháng thuốc.
+
+Vi khuẩn kháng kháng sinh gây gánh nặng y tế. Việc điều trị sẽ trở nên khó khăn hơn, các kháng sinh rẻ tiền thường dùng không còn có tác dụng do vi khuẩn đã kháng thuốc ngay cả khi sử dụng kháng sinh với liều cao, kéo dài. Do đó phải kết hợp nhiều loại kháng sinh để có tác dụng trên vi khuẩn gây tốn kém, lãng phí mà còn tăng tác dụng không mong muốn trên gan, thận cho bệnh nhân. Chưa kể việc kết hợp kháng sinh không có hiệu quả đối với các loại “siêu vi khuẩn” có thể gây tử vong cho bệnh nhân.
+
+(Visited 1.214 times, 1 visits today)
+
+Bài viết cùng chủ đề
+
+Bài viết liên quan

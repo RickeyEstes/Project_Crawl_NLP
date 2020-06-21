@@ -1,0 +1,15 @@
+1	Tăng	V	O	0	root
+2	động	N	O	1	vmod
+3	(	CH	O	1	punct
+4	ADD-ADHD	X	O	1	xprd
+5	)	CH	O	1	punct
+6	.	CH	O	1	punct
+1	Các	L	O	2	det
+2	câu	N	O	0	pob
+3	hỏi	V	O	2	nmod
+4	về	E	O	2	nmod
+5	Tăng	Np	O	4	pob
+6	động	N	O	5	nmod
+7	(	CH	O	2	punct
+8	ADD-ADHD	X	O	2	x
+9	)	CH	O	2	punct

@@ -1,0 +1,7 @@
+1	Tóm_tắt	V	O	0	root
+2	số_liệu_thống	N	O	1	dob
+3	kế	V	O	2	nmod
+4	y_tế	N	O	3	dob
+5	năm	N	O	4	nmod
+6	2009-2013	M	O	5	det
+7	.	CH	O	1	punct

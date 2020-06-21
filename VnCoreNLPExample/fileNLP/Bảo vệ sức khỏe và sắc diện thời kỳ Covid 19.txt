@@ -1,0 +1,12 @@
+1	Bảo_vệ	V	O	0	root
+2	sức_khoẻ	N	O	1	dob
+3	và	Cc	O	2	coord
+4	sắc_diện	N	O	3	conj
+5	thời_kỳ	N	O	4	nmod
+6	Covid-19	V	O	2	nmod
+7	Số	N	O	6	dob
+8	người	N	O	7	nmod
+9	truy_cập	V	O	7	nmod
+10	trong	E	O	9	tmp
+11	ngày	N	O	10	pob
+12	28	M	O	11	det

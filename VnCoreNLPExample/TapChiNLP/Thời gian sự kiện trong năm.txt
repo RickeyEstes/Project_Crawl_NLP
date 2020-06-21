@@ -1,0 +1,15 @@
+1	Thời_gian	N	O	0	root
+2	sự_kiện	N	O	1	nmod
+3	trong	E	O	1	nmod
+4	năm.Thư	N	O	3	pob
+5	́	CH	O	1	punct
+6	ba	M	O	1	nmod
+7	,	CH	O	1	punct
+8	ngày	N	O	4	nmod
+9	1	M	O	8	det
+10	tháng	N	O	8	nmod
+11	11	M	O	10	det
+12	năm	N	O	10	nmod
+13	2016	M	O	12	det
+14	|	CH	O	12	punct
+15	11:25:17	M	O	8	det

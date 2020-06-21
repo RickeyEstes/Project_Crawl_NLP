@@ -1,0 +1,95 @@
+Các bộ phận của hệ thần kinh và một số bệnh đặt trưng.A.Tổng quang hệ thần kinh
+
+Hệ thần kinh là một hệ cơ quan phân hóa cao nhất trong cơ thể người, ở dưới dạng ống và mạng lưới đi khắp cơ thể, được cấu tạo bởi một loại mô chuyên biệt là mô thần kinh, gồm các tế bào thần kinh — nơ-ron và các tế bào thần kinh đệm (thần kinh giao). Cũng chính các nơ-ron đã tạo ra hai thành phần cơ bản của não, tủy sống và hạch thần kinh là chất xám và chất trắng.
+
+Về mặt cấu tạo, hệ thần kinh được chia ra làm 2 bộ phận là bộ phận trung ương (não, tủy sống) và bộ phận ngoại biên (các dây thần kinh, hạch thần kinh), trong đó bộ phận trung ương giữ vai trò chủ đạo.
+
+Về chức năng, hệ thần kinh được chia thành hệ thần kinh vận động (điều khiển cơ, xương) và hệ thần kinh sinh dưỡng (hệ thần kinh thực vật). Hệ thần kinh sinh dưỡng lại gồm 2 phân hệ là phân hệ giao cảm và phân hệ đối giao cảm. Hoạt động thần kinh cấp cao ở người hình thành nên nhiều các phản xạ được tập quen (PXĐTQ) rất phức tạp mà không sinh vật nào có được.
+
+Một nơ-ron và cấu tạo của nó: sợi nhánh (dendrite), thân nơ-ron (soma), sợi trục (axon), bao mi-ê-lin (myelin sheath), eo răng-vi-ê (node of ranvier), xi-nap (synapse)
+
+Bộ phận trung ương
+
+Bộ phận trung ương gồm có: não nằm trong hộp sọ, gồm đại não (có rãnh chia thành hai bán cầu đại não), gian não, tiểu não và trụ não; tủy sống nằm trong ống xương sống. Phía ngoài tủy sống và bộ não có chung một màng bọc được gọi là màng não - tủy. Màng não - tủy gồm 3 lớp: màng cứng, màng nhện và màng mềm. Màng cứng là một màng dày và dai, nằm ở ngoài cùng, có nhiệm vụ bảo vệ não, tủy sống; ở bộ não, màng cứng nằm sát với khối xương sọ, còn ở tủy sống nó nằm cách ống xương sống bởi một lớp mỡ mỏng. Màng nhện là một màng liên kết nằm ở phía trong màng cứng, sát màng nuôi. Màng này có những khoang chứa một chất dịch trong suốt gọi là dịch não - tủy; nhờ dịch não - tủy mà bộ não và tủy sống được bảo vệ khỏi những chấn thương mạnh gây hại. Trong cùng, màng mềm cũng là một màng liên kết nhưng rất mỏng, bên trong có nhiều mạch máu đến nuôi mô thần kinh.
+
+Trong bộ não và tủy sống người ta phân biệt 2 thành phần cấu tạo chung của chúng là: chất xám và chất trắng.
+
+Chất xám do thân và các sợi nhánh có màu nâu xám đặc trưng của các nơ-ron tạo nên. Ở bộ não, chất xám làm thành lớp vỏ não bao phía ngoài, còn ở tủy sống làm thành một dải liên tục ở phía trong, hoặc thành từng vùng rải rác (các nhân não) trong trụ não, đều là những trung khu thần kinh quan trọng.
+
+Chất trắng do sợi trục của những nơ-ron có bao mi-ê-lin tạo nên, làm thành những đường thần kinh nối các miền của vỏ não với nhau và với các trung khu thần kinh ở các phần khác của thân não và tủy sống. Những sợi trục đi từ trong chất trắng ra khỏi bộ phận trung ương làm thành 43 dây thần kinh não - tủy.
+
+Bộ phận ngoại biên
+
+Các dây thần kinh não - tủy: gồm 12 đôi dây thần kinh não, xuất phát từ trụ não và tỏa ra khắp các cơ quan ở mặt, cổ (riêng dây thần kinh X còn gọi là dây phế vị phân nhánh đến tận các cơ quan ở khoang ngực, khoang bụng); và 31 đôi dây thần kinh tủy xuất phất từ tủy sống phân bố ra tận các cơ quan ở thân, cổ và các chi.
+
+Các hạch thần kinh là những khối nơ-ron nằm ngoài phần thần kinh trung ương. Tất cả các hạch thần kinh đều thuộc phần thần kinh ngoại biên của hệ thần kinh sinh dưỡng. Chúng có thể nằm ở xa hoặc ngay bên cạnh một số cơ quan. Trong số hạch này có 2 chuỗi hạch nằm hai bên cột sống và một hạch lớn nằm trong khoang bụng (gọi là hạch mặt trời).
+
+Dây thần kinh là một loại tế bào thần kinh dài và mảnh được bó vào thành một nhóm trong hệ dây thần kinh ngoại biên. Dây thần kinh là nguồn cung cấp con đường chung cho các xung điện thần kinh được truyền dọc sợi trục thần kinh tới các cơ quan ngoại biên.
+
+Từ lâu, các nhà giải phẫu đã phát hiện ra vị trí 12 dây thần kinh sọ não, đi qua các lỗ của hộp sọ, phân nhánh vào các cơ ở mặt, cổ, cơ quan nội tạng và đầu. Mỗi dây thần kinh đều có nhiệm vụ riêng của mình, nếu chúng bị tổn thương sẽ gây ra các bệnh đặc trưng.
+
+
+
+
+
+Dây thần kinh số 1 – khứu giác
+
+Dây thần kinh số 1 là các sợi dây bắt nguồn từ niêm mạc mũi, chui qua lỗ sáng xương bướm vào hành khứu và đi vào não. Chúng nhận nhiệm vụ về các mùi khi ngửi.
+
+Tình trạng rối loạn về việc ngửi mùi vị có thể do khối thịt thừa (polyp mũi), viêm niêm mạc mũi. Hiện tượng mất hẳn cảm giác ngửi có thể là do dây thần kinh này bị khối u chèn ép hoặc đứt do chấn thương.
+
+Dây thần kinh số 2 – thị giác
+
+Dây thần kinh số 2 xuất phát từ nguồn từ tế bào võng mạc, tập trung thành dây thần kinh thị giác, chui vào 2 lỗ thị giác vào trong sọ, điểm tận cùng là trung tâm thị giác ở vỏ não. Dây thần kinh thị giác có nhiệm vụ dẫn truyền cảm giác về đồ vật và ánh sáng về não.
+
+Nếu dây thần kinh 2 ngày bị teo sẽ khiến bệnh nhân nhìn đồ vật như một ống nứa, bên cạnh đó nếu khối u đè vào dây thần kinh thị giác này sẽ gây bệnh bán manh, chỉ nhìn được bằng một bên mắt.
+
+Dây thần kinh số 3 – vận nhãn chung
+
+Dây thần kinh số 3 xuất phát từ trung não (cuống đại não), chạy ra phía trước và chạy vào ổ mắt. Nhiệm vụ của dây thần kinh số 3 là vận động 1 số cơ mặt đưa nhãn cầu vào trong và lên xuống.
+
+Khi dây thần kinh số 3 bị tổn thương sẽ gây tình trạng mắt lác ra ngoài, nguyên nhân gây tổn thương là do hiện tượng chảy máu cuống não, viêm màng não, viêm tắc tĩnh mạch xoang hang hoặc chấn thương nền sọ.
+
+Dây thần kinh số 4 – cảm động
+
+Dây thần kinh số 4 bắt nguồn từ cuống đại não (trung não), chạy vào trong ổ mắt, chi phối cơ chéo to, vận động đưa mắt xuống dưới, ra ngoài. Khi dây thần kinh số 4 bị tổn thương, mắt sẽ không đưa được xuống thấp, nguyên nhân gây tổn thương cũng tương tự dây thần kinh số 3.
+
+Dây thần kinh số 5 – tam thoa
+
+Dây thần kinh số 5 xuất phát từ cầu não và chia thành 3 nhánh gồm nhánh hàm trên, hàm dưới và nhánh mắt. Nhánh hàm trên và nhánh mắt có nhiệm vụ nhận cảm giác vùng hốc mũi, hốc mắt, trán, da trên mí, da dầu, phần trên đầu, cùng các tuyến hạnh nhân. Nhánh hàm dưới đảm nhận cảm giác ⅔ trước lưỡi, tuyến nước bọt, răng hàm dưới.
+
+Dây thần kinh số 5 bị tổn thương gây mất cảm giác phần dây phân nhánh, khiến người bệnh bị đau đầu, cắn không chặt, hàm dưới vận động kém. Nguyên nhân do viêm đa dây thần kinh, tổn thương nền sọ hoặc bệnh Zona thần kinh.
+
+Dây thần kinh số 6 – vận nhãn ngoài
+
+Dây thần kinh số 6 xuất phát từ rãnh hành – cầu ra trước, đi vào trong ổ mắt, phân nhánh vào cơ thẳng, đưa nhãn cầu liếc ra ngoài. Dây thần kinh số 6 tổn thương khiến mắt người bệnh bị lác vào bên trong. Nguyên nhân tổn thương giống với dây thần kinh số 3.
+
+Dây thần kinh số 7 nằm ở đâu?
+
+Dây thần kinh số 7 hay còn gọi là dây thần kinh mặt, xuất phát từ rãnh hành cầu, đi qua lỗ ức – chũm, xương đá và bám vào cơ ở mặt. Dây thần kinh số 7 nhận nhiệm vụ nhận cảm giác cho tuyến nước mắt, nước bọt.
+
+Khi dây thần kinh số 7 bị liệt sẽ khiến mặt lệch về bên lành, nhân trung thì kéo về bên không bị liệt. Mắt ở bên bị liệt thường nhắm không kín nếu dây thần kinh ngoại biên liệt. Có người thường liệt rõ, người liệt kín đáo (chỉ thấy rõ khi huýt sáo, cười, há miệng), uống nước và ăn bị rơi vãi, nói khó.
+
+Nguyên nhân gây liệt dây thần kinh số 7 là do tai biến mạch máu não (nhũn não), chảy máu não, úng não kèm liệt nửa thân, viêm màng não, bệnh xương đá, viêm tai giữa, viêm đa dây thần kinh, Zona thần kinh, liệt do lạnh,…
+
+Dây thần kinh số 8 – thính giác
+
+Dây thần kinh số 8 gồm 2 nhóm sợi là phần tiền đình có nhiệm vụ giữ thăng bằng, giữ vững tư thế và phần ốc tai phụ trách nghe. Dây thần kinh số 8 chui vào trong hộp sọ và đi tới tận cùng vỏ não. Dây thần kinh số 8 bị tổn thương có thể gây hội chứng tiền đình (ù tai, chóng mặt) và ảnh hưởng tới khả năng nghe. Nguyên nhân thường do chấn thương sọ não, u chèn ép sọ, cao huyết áp, bệnh xơ vữa động mạch ở ốc tai, suy thận mãn tính, viêm màng não,…
+
+Dây thần kinh số 9 – thiệt hầu
+
+Dây thần kinh số 9 xuất phát từ rãnh phía bên hành não, đi vào trong khoang hầu. Nó có nhiệm vụ vận động cơ vùng hầu, vận động cảm giác ⅓ sau lưỡi. Dây thần kinh số 9 không bị liệt riêng.
+
+Dây thần kinh số 10 – phế vị
+
+Dây thần kinh số 10 là dây thần kinh giao cảm lớn nhất cơ thể, nó có nhiệm vụ chi phối cảm giác, vận động của các phủ tạng ở ổ bụng và ngực (phổi, tim, hệ tiêu hóa, hệ tiết niệu và sinh dục). Dây thần kinh số 10 thoát qua hộp sọ xuống cổ, ngực, bụng. Khi tới ngực chúng tách ra 2 nhanh đi ngược lên để vận động dây âm thanh.
+
+Khi dây thần kinh số 10 tổn thương người bệnh thường rất hay bị nghẹn thức ăn đặc, sặc thức ăn lỏng, liệt dây quặt ngược lại giọng nói sẽ bị khàn. Nguyên nhân tổn thương do bệnh nhân đã thực hiện các cuộc phẫu thuật vùng ngực, cổ hoặc do khối u trung thất chèn ép.
+
+Dây thần kinh số 11 – gai sống
+
+Dây thần kinh số 11 đi từ phía rãnh bên trong của hành não, chui qua hộp sọ và đi xuống phân nhánh, giúp vận động cơ thanh quản, cơ thang và cơ ức đòn chũm. Dây thần kinh số 11 bị liệt là do tổn thương hành tủy.
+
+Dây thần kinh số 12 – dưới lưỡi (hạ thiệt)
+
+Dây thần kinh số 12 xuất phát từ rãnh trước hành vào và chui qua nền sọ đi vào vùng hàm hầu giúp chi phối vận động cơ lưỡi. Khi dây thần kinh số 12 bị liệt, lưỡi sẽ bị đẩy sang 1 bên khi thè lưỡi, nguyên nhân do vỡ xương nền sọ hoặc viêm màng não.

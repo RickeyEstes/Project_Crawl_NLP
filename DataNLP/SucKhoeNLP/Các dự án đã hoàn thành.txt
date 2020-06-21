@@ -1,0 +1,5 @@
+1	Các	L	O	2	det
+2	dự_án	N	O	4	sub
+3	đã	R	O	4	adv
+4	hoàn_thành	V	O	0	root
+5	.	CH	O	4	punct

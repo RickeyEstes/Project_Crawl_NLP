@@ -1,0 +1,8 @@
+1	Rối_loạn	N	O	2	sub
+2	lưỡng	V	O	0	root
+3	cực.Các	N	O	2	dob
+4	câu	N	O	3	nmod
+5	hỏi	V	O	3	nmod
+6	về	E	O	1	nmod
+7	Rối_loạn	Np	O	6	pob
+8	lưỡng_cực	V	O	2	vmod

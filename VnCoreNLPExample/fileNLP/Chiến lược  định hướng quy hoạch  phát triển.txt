@@ -1,0 +1,6 @@
+1	Chiến_lược	N	O	3	sub
+2	,	CH	O	3	punct
+3	định_hướng	V	O	0	root
+4	quy_hoạch	V	O	3	vmod
+5	,	CH	O	3	punct
+6	phát_triển	V	O	3	vmod

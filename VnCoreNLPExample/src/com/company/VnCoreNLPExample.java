@@ -49,7 +49,7 @@ public class VnCoreNLPExample {
         return arrFile;
     }
     public static void main(String[] args) throws IOException {
-        String pathNameImport = "C:\\Users\\duclt\\PycharmProjects\\Crawler\\yte";
+        String pathNameImport = "C:\\Users\\duclt\\PycharmProjects\\Crawler\\SucKhoe";
         String pathNameExport = "";
         // "wseg", "pos", "ner", and "parse" refer to as word segmentation, POS tagging, NER and dependency parsing, respectively.
         String[] annotators = {"wseg", "pos", "ner", "parse"};
@@ -67,7 +67,7 @@ public class VnCoreNLPExample {
             //Write to file
             // nếu muốn chỉ định thư mục out put thêm hàm xử lí tạo
             //PrintStream outputPrinter = new PrintStream(pathNameExport+"/"+arrNameFile[i]);
-            PrintStream outputPrinter = new PrintStream("yte/"+arrNameFile[i]);
+            PrintStream outputPrinter = new PrintStream("SucKhoeNLP/"+arrNameFile[i]);
             pipeline.printToFile(annotation, outputPrinter);
         }
 //        String str = readFile("a.txt");
@@ -83,6 +83,6 @@ public class VnCoreNLPExample {
 
         // You can also get a single sentence to analyze individually
 //        Sentence firstSentence = annotation.getSentences().get(0);
-//        System.out.println(firstSentence.toString());
+//        System.out.println(firstSentence.toString());1
     }
 }

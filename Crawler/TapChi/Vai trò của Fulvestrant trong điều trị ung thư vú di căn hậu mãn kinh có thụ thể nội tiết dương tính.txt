@@ -1,0 +1,71 @@
+Vai trò của Fulvestrant trong điều trị ung thư vú di căn hậu mãn kinh có thụ thể nội tiết dương tính.BS.CK2. Hoàng Thị Mai Hiền
+
+(Lược dịch và biên soạn từ: “The therapeutic role of fulvestrant in the management of patients with hormone receptor-positive breast cancer”. Eva Ciruelos, et al. The Breast 2014; 23:201-208.)
+
+Ung thư vú là loại bệnh lý ác tính thường gặp nhất ở phụ nữ, khoảng 50-70% trường hợp ung thư vú di căn là do tái phát sau điều trị ung thư vú giai đoạn sớm, chỉ có 6-10% bệnh nhân đến với giai đoạn di căn ngay từ đầu.
+
+Ung thư vú di căn vẫn còn là bệnh không chữa khỏi, trung vị sống còn toàn bộ của bệnh nhân ung thư vú di căn khoảng 2-3 năm. Những liệu pháp điều trị mới đối với ung thư vú di căn đã giúp kéo dài sống còn toàn bộ nhưng còn khiêm tốn.
+
+Đối với bệnh nhân ung thư vú di căn, mục tiêu điều trị là làm giảm nhẹ triệu chứng, cải thiện hoặc duy trì chất lượng sống bằng cách làm giảm các triệu chứng có liên quan tới ung thư cũng như hạn chế các tác dụng phụ do điều trị gây ra và kéo dài thời gian sống còn toàn bộ.
+
+Đa số các bệnh nhân ung thư vú di căn đều cần điều trị toàn thân. Lựa chọn điều trị toàn thân tùy thuộc vào diễn tiến của bệnh, bệnh nhân có triệu chứng hay không, mức độ trầm trọng của triệu chứng, tình trạng thụ thể nội tiết dương tính hay âm tính. Điều trị nội tiết thường được lựa chọn trên những bệnh nhân có di căn ít, di căn cơ quan không trọng yếu (ví dụ hạch, xương, phần mềm), hoặc di căn cơ quan trọng yếu nhưng không có triệu chứng hoặc có thời gian sống còn không bệnh dài.
+
+Ung thư vú di căn có thụ thể nội tiết dương tính là thể bệnh rất thường gặp (1). Điều trị nội tiết thường được đặt ra đối với nhóm bệnh nhân này.
+
+Nếu có chỉ định điều trị nội tiết thì bệnh nhân ung thư vú di căn hậu mãn kinh có thụ thể nội tiết dương tính thường được điều trị bước 1 với các thuốc nhóm ức chế men aromatase (AIs) như Anastrozole, Letrozole và Exemestane hoặc nhóm điều hòa thụ thể estrogen chọn lọc (SERMs) như Tamoxifen. Theo thời gian, bệnh nhân ung thư vú di căn có đáp ứng với điều trị nội tiết bước 1, bệnh sẽ tiến triển và kháng với điều trị nội tiết bước 1. Sự lựa chọn tiếp theo có thể là điều trị nội tiết bước 2 (2) và sau đó là bước 3, bước 4…
+
+Fulvestrant là chất đối vận cạnh tranh với thụ thể estrogen (ER), có ái lực tương đương với estradiol. Cơ chế tác động có liên quan với việc điều hòa giảm nồng độ ER-protein, chống sự tăng sinh tế bào và gây chết tế bào. Fulvestrant cho thấy không có kháng chéo với Tamoxifen (3).
+
+Có nhiều nghiên cứu đã được tiến hành để cho thấy hiệu quả của Fulvestrant với mức liều 250mg và 500mg trong điều trị ung thư vú di căn hậu mãn kinh có thụ thể nội tiết dương tính.
+
+
+
+Hiệu quả của Fulvestrant với liều 250mg
+
+
+
+Fulvestrant so với Anastrozole
+
+Có 2 thử nghiệm pha 3, ngẫu nhiên, đa trung tâm, so sánh Fulvestrant với Anastrozole là thử nghiệm 0020 ở Châu Âu, Châu Úc, Nam Mỹ và thử nghiệm 0021 ở Bắc Mỹ (5,6). Thử nghiệm so sánh tiêm bắp Fulvestrant 250mg/tháng với uống Anastrozole 1mg/ngày trong 851 phụ nữ hậu mãn kinh ung thư vú tiến xa, bệnh tiến triển với điều trị nội tiết trước đó. Phần lớn bệnh nhân trong nghiên cứu này đã được điều trị với Tamoxifen hay bệnh tiến triển khi đang điều trị với Tamoxifen. Đây là các thiết kế nghiên cứu tiền cứu cho phép kết hợp dữ liệu để phân tích (7). Kết quả cho thấy trung vị thời gian đến khi bệnh tiến triển là 5,5 tháng ở nhánh Fulvestrant và 4,1 tháng ở nhánh Anastrozole (hazard ratio [HR]: 0,95; 95% CI: 0,82-1,10; p=0,48); tỉ lệ đáp ứng toàn bộ là 19,2% ở nhánh Fulvestrant và 16,5% ở nhánh Anastrozole (95% CI: 2,27-9,05; p= 0,31). Tỉ lệ lợi ích lâm sàng lần lượt là 43,5% và 40,9% (95% CI: 4,42-9,36; p = 0,51). Mặc dù sự khác biệt không có ý nghĩa thống kê nhưng kết quả này cho thấy hiệu quả của Fulvestrant không thấp hơn Anastrozole.
+
+Trung vị thời gian có đáp ứng (từ lúc chọn ngẫu nhiên đến khi bệnh tiến triển) ở các bệnh nhân có đáp ứng ở nhánh Fulvestrant là 16,7 tháng và 13,7 tháng ở nhánh Anastrozole. Phân tích theo dân số chủ đích điều trị thì nhánh điều trị với Fulvestrant có thời gian đáp ứng dài hơn nhánh Anastrozole, sự khác biệt có ý nghĩa thống kê (HR: 1,30; 95% CI: 1,13-1,50; p < 0,01). Tại thời điểm trung vị theo dõi 27 tháng, trung vị sống còn toàn bộ ở 2 nhóm tương đương nhau, lần lượt là 27,4 tháng và 27,7 tháng (HR: 1,30; 95% CI: 1,13-1,50; p < 0,01) (8). Dựa trên các kết quả nghiên cứu này Fulvestrant được xem là một lựa chọn cho bệnh nhân hậu mãn kinh bị ung thư vú tiến xa có thụ thể nội tiết dương tính, tiến triển với điều trị nội tiết trước đó.
+
+
+
+Fulvestrant so với Exemestane
+
+EFECT là thử nghiệm pha 3, ngẫu nhiên, mù đôi, đa trung tâm gồm 693 phụ nữ hậu mãn kinh bị ung thư vú tiến xa, thụ thể nội tiết dương tính, bệnh tiến triển hoặc tái phát sau khi điều trị với nhóm ức chế men aromatase. Bệnh nhân được chọn ngẫu nhiên vào nhánh điều trị Exemestan (uống 25mg/ngày) hoặc Fulvestrant (500mg tiêm bắp ngày 1, 250mg tiêm bắp ngày 14 và ngày 28, sau đó 500mg/28 ngày). Kết quả cho thấy trung vị thời gian đến khi bệnh tiến triển là 3,7 tháng ở cả 2 nhánh (HR: 0,96; 95% CI: 0,82-1,13; p = 0,653); tỉ lệ đáp ứng toàn bộ là 7,4% ở nhánh Fulvestrant và 6,7% ở nhánh Exemestane (OR: 1,12; 95% CI: 0,58-2,19; p = 0,736); Tỉ lệ lợi ích lâm sàng lần lượt là 32,2% và 31,5% (OR: 1,03; 95% CI: 0,72-1,49; p = 0,853); Trung vị thời gian đáp ứng là 13,5 tháng ở nhánh Fulvestrant và 9,8 tháng nhánh Exemestane. Các tác giả kết luận rằng cả 2 thuốc Fulvestrant và Exemestane có hiệu quả như nhau ở phụ nữ hậu mãn kinh bị ung thư vú tiến xa có thụ thể nội tiết dương tính, tiến triển với thuốc ức chế men aromatase không steroid (9).
+
+Một câu hỏi được đặt ra là có thể tối ưu hóa hiệu quả của Fulvestrant trong điều trị ung thư vú di căn khi tăng liều Fulvestrant cao hơn hay không?
+
+Kết quả của nghiên cứu pha 2, ngẫu nhiên, nhãn mở, điều trị tân hỗ trợ bệnh nhân hậu mãn kinh bị ung thư vú tiến xa tại chỗ tại vùng, có thụ thể nội tiết dương tính (nghiên cứu NEWEST) cho thấy thụ thể estrogen và progesterol cũng như Ki- 67LI giảm nhiều hơn với liều Fulvestrant 500mg so với liều 250mg (p lần lượt là p < 0,0001, p = 0,0018, p < 0,000) (10). Nhiều tác giả đã dựa vào dữ liệu này để thiết kế ra những nghiên cứu Fulvestrant liều 500mg trong điều trị bệnh nhân hậu mãn kinh bị ung thư vú di căn, thụ thể nội tiết dương tính (4,10,11).
+
+Nghiên cứu FIRST: Nghiên cứu pha 2, ngẫu nhiên, nhãn mở, đa trung tâm so sánh hiệu quả của Fulvestrant 500mg với Anastrozole 1mg trong điều trị bước 1 bệnh nhân hậu mãn kinh ung thư vú tiến xa có thụ thể nội tiết dương tính (12,13). Kết cục chính là tỉ lệ lợi ích lâm sàng.
+
+Kết quả nghiên cứu cho thấy không có sự khác biệt về tỉ lệ lợi ích lâm sàng và tỉ lệ đáp ứng toàn bộ giữa 2 nhánh (p lần lượt là 0,386 và 0,947). Tuy nhiên, có sự khác biệt có ý nghĩa thống kê về thời gian đến khi bệnh tiến triển (23,4 tháng so với 13,1 tháng; HR: 0.66; 95% CI: 0,47-0,92; p = 0,01); trung vị thời gian đến khi thất bại điều trị là 17,6 tháng đối với Fulvestrant 500mg và 12,7 tháng với Anastrozole (HR:0,73; 95% CI: 0,54-1,00; p= 0,05). Nghiên cứu này cho thấy có thể có một tác nhân nội tiết khác hiệu quả hơn Anastrozole trong điều trị bước 1 ở bệnh nhân hậu mãn kinh ung thư vú di căn, có thụ thể nội tiết dương tính. Tuy nhiên, cần có nghiên cứu pha 3 để khẳng định điều này.
+
+
+
+Fulvestrant liều 250mg so với liều 500mg
+
+Nghiên cứu CONFIRM: Nghiên cứu pha 3, mù đôi, đa trung tâm so sánh Fulvestrant liều 500mg và 250mg trên bệnh nhân hậu mãn kinh bị ung thư vú tái phát hoặc di căn, có thụ thể nội tiết dương tính, đã điều trị trước đó với Tamoxifen hoặc AIs (11,14).
+
+Kết quả cho thấy thời gian đến khi bệnh tiến triển ở nhánh Fulvestrant 500mg dài hơn nhánh 250mg (6,5 tháng so với 5,5 tháng; HR: 0,80; 95% CI: 0,68-0,94; p = 0,006); trung vị sống còn toàn bộ dài hơn ở nhánh Fulvestrant 500mg so với nhánh 250mg (26,4 tháng so với 22,3 tháng; HR: 0,8; 95% CI: 0,69-0,96; p = 0,016). Tuy nhiên, tỉ lệ đáp ứng toàn bộ và tỉ lệ lợi ích lâm sàng ở 2 nhánh tương đương nhau (p lần lượt là 0,795 và 0,1).
+
+Lợi ích về sống còn toàn bộ của liều Fulvestrant 500mg ở nghiên cứu này rất đáng quan tâm vì rất ít thuốc chứng minh được lợi ích về sống còn toàn bộ. Vì thế sau khi nghiên cứu được công bố, Fulvestrant với liều 500mg thường được các bác sĩ chuyên khoa ung thư lựa chọn khi chỉ định điều trị với Fulvestrant.
+
+
+
+Tính an toàn của Fulvestrant 500mg và 250mg trong ung thư vú tiến xa
+
+Các thử nghiệm lâm sàng ở Châu Âu và Châu Mỹ (thử nghiệm 0020, 0021) so sánh Fuvestrant 250mg với Anastrozole 1mg cho thấy không có sự khác biệt về tác dụng phụ (5-7). Tác dụng phụ thường gặp nhất ở cả 2 nhánh là nôn (26,0% so với 25,3%), suy nhược (22,7% so với 27,0%), đau (18,9% so với 20,3%), giãn mạch (17,7% so với 17,3%) và nhức đầu (15,4% so với 16,8%). Ngưng điều trị do tác dụng phụ của thuốc ở nhánh Fulvestrant 250mg là 0,9% và nhánh Anastrolole là 1,2%.
+
+Đối với liều Fulvestrant 500mg và 250mg, nghiên cứu CONFIRM cho thấy cả 2 liều Fulvestrant 250mg và 500mg đều được dung nạp tốt, không có sự khác nhau về xuất độ và mức độ của tác dụng phụ. Chất lượng sống cũng không khác nhau giữa 2 liều Fulvestrant 250mg và 500mg (36). Có 2 bệnh nhân có tác dung phụ trầm trọng là viêm phế quản, khó thở và nôn ở nhánh Fulvestrant 500mg.
+
+Các dữ liệu từ nghiên cứu FIRST cho thấy tác dụng phụ của Fulvestrant 500mg giống như của Anastrozole và các nghiên cứu CONFIRM và NEWEST đã báo cáo trước đó cũng cho thấy như vậy (10-12). Tác dụng phụ trầm trọng là 11,9% ở nhánh Fulvestrant 500mg và 9,7% ở nhánh Anastrozole. Các tác dụng phụ thường gặp ở nhánh Fulvestrant 500mg là đau xương (13,9%), buồn nôn (10,9%), đau khớp (9,9%), táo bón (9,9%), nôn (8,9%) và khó thở (8,9%) (12). Đối với nhánh Anastrozole tác dụng phụ thường gặp là nóng bừng (13,6%), nhức đầu (12,6%), đau xương (9,7%), đau khớp (8,7%) và đau cơ (8,7%). Xuất độ đau khớp thì tương đương nhau ở 2 nhánh nhưng nhức đầu và suy nhược thì ít gặp ở nhánh Fulvestrant hơn (12).
+
+Tóm lại, Fulvestrant được dung nạp tốt, rất ít trường hợp phải ngưng điều trị vì tác dụng phụ. Điều này rất quan trọng đối với điều trị ung thư vú di căn, do chất lượng sống là một trong những tiêu chí quan trọng khi quyết định chọn lựa điều trị cho bệnh nhân ung thư vú di căn. Ngoài ra, không có sự khác biệt về tác dung phụ của Fulvestrant với các điều trị nội tiết khác như Anastrozole, Exemestance, Tamoxifen hoặc giữa 2 liều Fulvestrant 250mg và 500mg trong điều trị ung thư vú di căn sau mãn kinh có thụ thể nội tiết dương tính.
+
+Với sự phát triển của sinh học phân tử, các thuốc điều trị nhắm trúng đích đã được đưa vào điều trị ung thư nói chung và ung thư vú nói riêng. Trong đà phát triển đó đang có nhiều nghiên cứu được thiết kế kết hợp Fulvestrant với các thuốc nhắm trúng đích như Fulvestrant kết hợp với thuốc ức chế mTOR-PI3KCA, kết hợp với thuốc ức chế EGFR…Ngoài ra, Fulvestrant còn đang được nghiên cứu trong điều trị bước 1 ung thư vú di căn hậu mãn kinh có thụ thể nội tiết dương tính cũng như ở bệnh nhân tiền mãn kinh ung thư vú di căn có thụ thể nội tiết dương tính.
+
+Tóm lại, hiện nay Fulvestrant đã được chấp thuận trong chỉ định điều trị bước 2 cho phụ nữ hậu mãn kinh bị ung thư vú tiến triển tại chỗ hoặc di căn có thụ thể nội 6 tiết dương tính; Bệnh nhân ung thư vú giai đoạn sớm hậu mãn kinh có thụ thể nội tiết dương tính có bệnh tiến triển khi đang điều trị nội tiết hỗ trợ. Fulvestrant với liều 500mg được ưa thích chọn lựa khi có chỉ định điều trị và thuốc còn nhiều tiềm năng trong tương lai.

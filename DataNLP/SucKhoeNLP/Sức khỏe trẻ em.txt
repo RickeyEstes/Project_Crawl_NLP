@@ -1,0 +1,8 @@
+1	Sức_khoẻ	N	O	0	root
+2	trẻ	A	O	1	nmod
+3	em.Các	Np	B-PER	1	nmod
+4	câu	N	O	3	nmod
+5	hỏi	V	O	4	nmod
+6	về	E	O	4	nmod
+7	Sức_khoẻ	N	O	6	pob
+8	trẻ_em	N	O	7	nmod

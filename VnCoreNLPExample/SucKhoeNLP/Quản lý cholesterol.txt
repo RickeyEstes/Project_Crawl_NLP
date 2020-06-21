@@ -1,0 +1,7 @@
+1	Quản_lý	V	O	0	root
+2	cholesterol.Các	N	O	1	dob
+3	câu	N	O	2	nmod
+4	hỏi	V	O	2	nmod
+5	về	E	O	2	nmod
+6	Quản_lý	V	O	5	vmod
+7	cholesterol	N	O	6	dob

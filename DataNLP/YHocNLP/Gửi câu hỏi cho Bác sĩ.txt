@@ -1,0 +1,10 @@
+1	Gửi	V	O	0	root
+2	câu	N	O	1	dob
+3	hỏi	V	O	2	nmod
+4	cho	E	O	1	iob
+5	Bác	Np	O	4	pob
+6	sĩ.Gửi	V	O	1	vmod
+7	câu	N	O	6	dob
+8	hỏi	V	O	7	nmod
+9	cho	E	O	6	iob
+10	Bác_sĩ	N	O	9	pob

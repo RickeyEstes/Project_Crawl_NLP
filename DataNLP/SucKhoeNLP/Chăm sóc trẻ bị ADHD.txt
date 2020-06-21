@@ -1,0 +1,13 @@
+1	Chăm_sóc	V	O	0	root
+2	trẻ	A	O	1	vmod
+3	bị	V	O	1	vmod
+4	ADH	Ny	O	3	dob
+5	D.C	Ny	O	4	nmod
+6	ác	V	O	1	vmod
+7	câu	N	O	6	dob
+8	hỏi	V	O	7	nmod
+9	về	E	O	7	nmod
+10	Chăm_sóc	Np	O	9	pob
+11	trẻ	A	O	7	nmod
+12	bị	V	O	7	nmod
+13	ADHD	Np	O	12	dob

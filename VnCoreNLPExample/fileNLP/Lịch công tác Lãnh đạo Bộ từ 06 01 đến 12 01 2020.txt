@@ -1,0 +1,8 @@
+1	Lịch	N	O	0	root
+2	công_tác	V	O	1	nmod
+3	Lãnh_đạo	N	O	1	nmod
+4	Bộ	Np	O	3	nmod
+5	từ	E	O	2	tmp
+6	06.01	M	O	5	dep
+7	đến	E	O	5	pmod
+8	12.01.2020	M	O	7	dep

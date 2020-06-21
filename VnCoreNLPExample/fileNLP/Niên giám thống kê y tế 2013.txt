@@ -1,0 +1,4 @@
+1	Niên_giám	N	O	0	root
+2	thống_kê	V	O	1	nmod
+3	y_tế	N	O	2	vmod
+4	2013	M	O	3	det

@@ -1,0 +1,10 @@
+1	Trung_tâm	N	O	6	sub
+2	trẻ	A	O	1	nmod
+3	sơ	A	O	1	nmod
+4	sinh.Các	N	O	3	amod
+5	câu	N	O	4	nmod
+6	hỏi	V	O	0	root
+7	về	E	O	6	vmod
+8	Trung_tâm	N	O	7	pob
+9	trẻ	N	O	8	nmod
+10	sơ_sinh	A	O	8	nmod

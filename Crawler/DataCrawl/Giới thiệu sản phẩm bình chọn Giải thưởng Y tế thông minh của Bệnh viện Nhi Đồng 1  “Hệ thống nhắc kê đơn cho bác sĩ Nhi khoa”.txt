@@ -1,0 +1,55 @@
+Giới thiệu sản phẩm bình chọn Giải thưởng Y tế thông minh của Bệnh viện Nhi Đồng 1: “Hệ thống nhắc kê đơn cho bác sĩ Nhi khoa”Trong hoạt động khám và kê đơn thuốc cho người bệnh, một trong những mối quan tâm lớn nhất của lãnh đạo bệnh viện và bác sĩ kê đơn là làm sao đảm bảo kê đơn thuốc an toàn, hiệu quả, hợp lý, tránh được những sai sót đáng tiếc do các lỗi dễ xảy ra trong quá trình kê đơn. Các lỗi thường hay gặp như: kê đơn thuốc có chống chỉ định, có tương tác thuốc hoăc tác dụng phụ, kê đơn cùng lúc nhiều thuốc cùng hoạt chất, kê đơn không tuân thủ phác đồ điều trị. Trong lĩnh vực Nhi khoa, mối quan tâm đó lại càng lớn hơn khi mà ngoài những sai sót có thể gặp tương tự ở người lớn, ở trẻ em còn có nhiều yếu tố nguy cơ đặc thù theo từng độ tuổi khi kê đơn như liều thuốc tính theo cân nặng, chống chỉ định dùng thuốc theo từng lứa tuổi, dạng bào chế không phù hợp,…Những năm gần đây, lỗi do kê đơn tại BV Nhi Đồng 1 đã giảm đáng kể, đó là kết quả của việc triển khai hiệu quả ứng dụng phần mềm nhắc kê đơn do chính Bệnh viện Nhi Đồng 1 xây dựng và hoàn thiện dần qua nhiều năm.
+
+Cảnh báo chống chỉ đinh theo tuổi: bệnh nhân 11 tháng, bác sĩ không thể kê thuốc Laratadine (chống chỉ định ở trẻ dưới 2 tuổi)
+
+“Hệ thống nhắc kê đơn cho bác sĩ Nhi khoa” do Bệnh viện bắt đầu tự xây dựng từ năm 2006 ngay sau khi đưa phần mềm kê đơn vào sử dụng, và đã được bổ sung, hoàn thiện theo từng năm dựa trên thực tiễn lâm sàng tại bệnh viện.
+
+Điểm nổi bật đầu tiên là hệ thống cảnh báo kê đơn của BV Nhi Đồng 1 được xây dựng theo 2 cấp độ: (1) Cấp độ nghiêm trọng (như chống chỉ định, quá liều, tương tác gây hại nghiêm trọng…), với cảnh báo này phần mềm sẽ không cho phép bác sĩ tiếp tục kê đơn và phải thay thế bằng phương thức điều trị khác; (2) Cấp độ thận trọng (như chống chỉ định tương đối, tác dụng phụ, thuốc chưa có chỉ định trong chẩn đoán…), với cảnh báo này phần mềm sẽ khuyến cáo bác sĩ không nên dùng thuốc đó và chọn phương thức khác, trường hợp bác sĩ vẫn muốn sử dụng thì phải nêu rõ lý do trong phần mềm và các lý do này sẽ được thống kê, giám sát, phản hồi sau đó bởi Phòng kế hoạch tổng hợp và Khoa Dược.
+
+Điểm nổi bật thứ hai là hệ thống này được tích hợp tất cả những cảnh báo đối với các sai sót thông dụng khi kê đơn, như cảnh báo về chống chỉ định, tác dụng phụ, tương tác thuốc, các thuốc “nghe giống nhau, nhìn giống nhau”, cảnh báo quá liều, sai số lần dùng trong ngày; cảnh báo kê đơn nhiều thuốc cùng tác dụng dược lý trong một đơn thuốc hoặc trong các đơn thuốc của nhiều chuyên khoa trong một lần khám bệnh. Đặc biệt, để đảm bảo bác sĩ tuân thủ phác đồ điều trị, hệ thống sẽ hiện cảnh báo khi bác sĩ kê thuốc không phù hợp với chẩn đoán (ví dụ khi bác sĩ cho antihistamin ở bệnh nhân viêm tiểu phế quản, phần mềm sẽ cảnh báo “Thuốc này không có chỉ định trong viêm tiểu phế quản” và bác sĩ phải xem lại, trong một số trường hợp đặc biệt nếu bác sĩ vẫn muốn tiếp tục kê đơn antihistamin, bác sĩ phải nêu rõ lý do trong phần mềm để có thể tiếp tục thao tác kê đơn).
+
+Điểm nổi bật thứ ba của hệ thống này là tích hợp nhiều cảnh báo đặc thù trong Nhi khoa như cảnh báo chống chỉ định theo tuổi, quá liều theo từng nhóm tuổi (cảnh báo quá liều khi vượt liều tối đa tính theo mg/kg/ngày hoặc mg/ngày hoặc mg/lần cho bệnh nhi). Đặc biệt, các cảnh báo trong hệ thống cũng rất chuyên biệt theo khuyến cáo của từng nhà sản xuất, vì cùng một hoạt chất nhưng 2 biệt dược của 2 nhà sản xuất khác nhau có thể có chống chỉ định theo tuổi khác nhau. Ngoài ra, hệ thống cũng cung cấp cảnh báo đối với những chỉ định “off-label” (chỉ định không có trong tờ hướng dẫn sử dụng thuốc của nhà sản xuất) để bác sĩ cân nhắc khi sử dụng nhất là cho bệnh nhân bảo hiểm y tế. Một cảnh báo rất đặc thù cho nhi khoa của hệ thống này là cảnh báo dạng thuốc sử dụng (viên, xirô, bột…) phù hợp theo tuổi, ví dụ bệnh nhân 15 tuổi, nhưng khi bác sĩ kê thuốc Augmentin dạng xirô ngày 2 lần, lần 15ml, thì sẽ có cảnh báo “Sử dụng xirô 15ml/lần, đề nghị xem xét đổi dạng bào chế khác”, giúp hạn chế việc kê đơn thuốc đắc tiền không cần thiết cho người bệnh.
+
+Điểm nổi bật thứ tư của “Hệ thống nhắc kê đơn cho bác sĩ Nhi khoa” chính là vận dụng nguyên lý “Máy học” (Machine learning) vào phần mềm cảnh báo, trong đó các chuyên gia công nghệ thông tin của bệnh viện đã vận dụng nguồn dữ liệu lớn về kê đơn thuốc sẵn có của chính các bác sĩ của bệnh viện trong nhiều năm để tích hợp thêm nội dung nhắc các bác sĩ kê đơn về tần suất kê đơn một loại thuốc nào đó cho một bệnh lý cụ thể nào đó. Theo đó, khi bác sĩ kê một loại thuốc và được phần mềm thống kê cảnh báo là “chưa có ai kê cho bệnh lý này trước đó” thì bác sĩ phải xem lại có phù hợp không hay đã gỏ nhầm thuốc.
+
+Điểm nổi bật thứ năm không thể không nhắc đến vì đảm bảo cho hệ thống nhắc kê đơn luôn giữ giá trị của nó đó là hệ thống này luôn được cập nhật liên tục nhằm đảm bảo tính kịp thời của các cảnh báo, mỗi khi có bổ sung thuốc mới thì đều có cảnh báo (nếu có) đi kèm. Tất cả các cảnh báo đều dựa trên các tài liệu tham khảo là sách giáo khoa hoặc các tài liệu khoa học có chứng cớ khoa học mới nhất và phải thông qua Hội đồng khoa học công nghệ bệnh viện trước khi đưa vào hệ thống.
+
+Dưới đây là những hình ảnh mà đoàn đánh giá của Sở Y tế ghi nhận được (30/10/2019):
+
+
+
+
+
+Cảnh báo tương tác thuốc nghiệm trọng: Aziphar và Motilium
+
+
+
+
+
+Cảnh báo kê đơn thuốc quá liều: bác sĩ phải điều chỉnh lại
+
+
+
+
+
+Cảnh báo thuốc “Nghe giống nhau” Hapacol và Haloperidol
+
+
+
+
+
+Cảnh báo dạng thuốc phù hợp theo tuổi: bệnh nhân 15 tuổi, bác sĩ kê xirô Zinnat mỗi lần uống 10ml: phần mềm đề nghị đổi sang dạng viên phù hợp và tiết kiệm hơn
+
+
+
+
+
+Cảnh báo kê đơn thuốc không phù hợp phác đồ điều trị: Asmodil (Montelukast) không có chỉ định trong Viêm phế quản, đề nghị bác sĩ xem lại và điều chỉnh
+
+
+
+
+
+Ứng dụng “máy học” trong phần mềm cảnh báo: Bác sĩ phải xem lại ngay khi chỉ định Acetylcystein cho bệnh nhân suyễn vì thống kê trong 3 năm qua không có bác sĩ nào cho chỉ định tương tự
+
+SỞ Y TẾ TP.HCM

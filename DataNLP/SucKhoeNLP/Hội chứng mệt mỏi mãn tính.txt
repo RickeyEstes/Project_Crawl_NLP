@@ -1,0 +1,10 @@
+1	Hội_chứng	N	O	3	sub
+2	mệt_mỏi	A	O	1	nmod
+3	mãn	V	O	0	root
+4	tính.Các	N	O	3	dob
+5	câu	N	O	4	nmod
+6	hỏi	V	O	4	nmod
+7	về	E	O	4	nmod
+8	Hội_chứng	N	O	7	pob
+9	mệt_mỏi	A	O	8	nmod
+10	mãn_tính	N	O	3	iob

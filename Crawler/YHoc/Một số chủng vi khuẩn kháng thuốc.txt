@@ -1,0 +1,105 @@
+Một số chủng vi khuẩn kháng thuốc.Một số chủng vi khuẩn kháng thuốc
+
+Vi khuẩn kháng thuốc là một trong những mối đe dọa nghiêm trọng đến sức khỏe con người, cộng đồng, cần được quan tâm nhất hiện nay.
+
+1. Phân loại vi khuẩn kháng thuốc
+
+Theo WHO, vi khuẩn kháng thuốc phân thành 3 loại:
+
+Nhóm kháng thuốc nguy kịch: Acinetobacter Baumannii, Pseudomonas Aeruginosa, Enterobacteriaceae
+
+Nhóm kháng thuốc cao: Enterococcus Faecium, Staphylococcus Aureus, Helicobacter Pylori, Campylobacter spp, Salmonellae, Neisseria Gonorrhoeae.
+
+Nhóm kháng thuốc trung bình: Streptococcus Pneumoniae, Haemophilus Influenzae, Shigella spp.
+
+2. Đặc điểm của từng loại vi khuẩn kháng thuốc
+
+2.1. Nhóm vi khuẩn kháng thuốc Gram dương
+
+Staphylococcus Aureus (MRSA)
+
+Nhiễm MRSA gây ra các triệu chứng bao gồm da và vết thương bị nhiễm trùng, viêm phổi, hay nhiễm trùng máu. Vài chứng bệnh có thể trầm trọng, và đòi hỏi điều trị trong bệnh viện. Hiện nay, MRSA kháng tất cả các penicillin và các β-lactam khác. Tỉ lệ kháng kháng sinh của MRSA khác nhau giữa các bệnh viện: 68,8% các chủng phân lập tại Chợ Rẫy kháng với Gentamicin. Tỉ lệ kháng Oxacillin tại Bệnh viện Đa khoa Trung ương Huế với 63,8%; kháng Vancomycin tại bệnh viện Uông Bí với 60,9%.
+
+MRSA đề kháng với nhiều kháng sinh, nhưng cũng có kháng sinh có thể tiêu diệt vi khuẩn này. Kháng sinh đồ giúp xác định loại kháng sinh nào sẽ chống lại vi khuẩn MRSA. Các loại thuốc mới như Quinupristin-dalfopristin, Linezolid, Daptomycine, Ligecyline có thể trị nhiễm trùng do MRSA.
+
+Streptococcus pneumoniae
+
+Streptococcus pneumonia gây nhiễm trùng viêm phổi, viêm màng não, nhiễm trùng máu nghiêm trọng, đe dọa tới tính mạng con người.
+
+S.pneumoniae kháng thuốc với nhiều loại kháng sinh, bao gồm penicillin, cephalosporin, macrolide, fluoroquinolone, thậm chí đã xuất hiện đa kháng thuốc. Tình hình kháng thuốc với macrolide cao, nghiêm trọng trên phạm vi toàn cầu.
+
+Hiện nay, một phiên bản mới của vắc-xin phế cầu khuẩn PV13 không chỉ bảo vệ chống lại các bệnh nhiễm trùng do phế cầu, còn giảm khả năng kháng thuốc bằng cách ngăn chặn sự lây truyền các chủng S.pneumoniae kháng thuốc.
+
+2.2. Nhóm vi khuẩn kháng thuốc Gram âm
+
+Klebsiella pneumonia
+
+Kháng thuốc của Klebsiella pneumoniae cực kì nguy hiểm bởi vì bản thân vi khuẩn có khả năng sinh hai loại enzyme: β lactamase phổ rộng và carbapenemase. β lactamase phổ rộng có khả năng phân giải các loại kháng sinh nhóm β lactam, đặc biệt penicillin và cephalosporin thế hệ thứ 3.
+
+K.pneumoniae còn có khả năng sản sinh carbapenemase, phân giải carbapenem như imipenem, meropenem…. Phân lập được 35 chủng từ 680 mẫu bệnh phẩm tại Viện Pasteur TP Hồ Chí Minh từ tháng 1-6/2014, kết quả như sau: K. pneumonia kháng các kháng sinh với tỷ lệ lần lượt như sau:
+
+Ampiciline (94,29%)
+
+Trimethoprim/ sulfamethoxazol (79,31%)
+
+Cephalexine, Piperacillin (62,86%)
+
+Ceftazidime (51,43%)
+
+chỉ một tỉ lệ nhỏ kháng lại Colistin, Imipenem, Meropenem (2,86%);
+
+65,71% chủng sinh ESBL
+
+20% chủng sản xuất carbapenemase
+
+Enterobacteriaceae
+
+Enterobacteriaceae là một nhóm vi khuẩn lớn, đa dạng sinh sống trong ruột con người. Hầu hết các chủng khuẩn đều vô hại, nhưng có một số là những mầm bệnh nguy hiểm, bao gồm E.coli, Klebsiella và Shigella.
+
+Vi khuẩn Enterobacteriaceae mở rộng beta-lactamase (ESBL) tạo ra một enzyme β-lactamase phổ rộng cho phép kháng lại nhiều loại kháng sinh nhóm penicillin và cephalosporin. Trong những trường hợp như vậy, lựa chọn điều trị là kháng sinh carbapenem.
+
+Tuy nhiên, gần đây, các chủng Enterobacteriaceae kháng được carbapenem (CRE) đã xuất hiện và có thể gây tử vong cho 50% trường hợp nhiễm khuẩn. Colistin là lựa chọn thay thế cho nhiễm trùng nặng do vi khuẩn Enterobacteriaceae kháng carbapenem.
+
+Pseudomonas aeruginosa
+
+P.aeruginosa là một trong những nguyên nhân hàng đầu gây nhiễm khuẩn bệnh viện, bao gồm bệnh phổi, máu, tiết niệu, nhiễm trùng phẫu thuật, được gọi là chủng “kháng đa thuốc”. Cùng với sự gia tăng về tỷ lệ nhiễm khuẩn là sự gia tăng về khả năng kháng kháng sinh đặc biệt là carbapenem.
+
+P.aeruginosa có tỷ lệ đề kháng cao nhất đối với các fluoroquinolones, tỷ lệ đề kháng với ciprofloxacin và levofloxacin từ 20 đến 35%.Tỷ lệ cao nhất được báo cáo cho các chủng phân lập được từ những bệnh nhân điều trị trong ICU. P.aeruginosa phân lập từ bệnh nhân ICU cũng có xu hướng tỷ lệ kháng β-lactam cao hơn đối với các bệnh nhân mới nhập viện. Trong số các aminoglycosid, hầu hết các nghiên cứu đã tập trung vào gentamicin, với tỷ lệ kháng từ 12 đến 22%.Tỷ lệ kháng thấp hơn đối với tobramycin và amikacin trong hầu hết các nghiên cứu.
+
+Acinetobacter Baumannii
+
+Acinetobacter có thể gây viêm phổi hoặc nhiễm trùng máu, đặc biệt là ở những bệnh nhân nặng về thở máy và tỉ lệ kháng kháng sinh đang ở mức báo động.
+
+Vi khuẩn này đã có tỷ lệ kháng cao với hầu hết các kháng sinh thông thường dùng trong bệnh viện (tỷ lệ kháng trên 70% ở 13 trên tổng số 15 loại kháng sinh được thử nghiệm). Trong đó tỷ lệ kháng với nhóm carbapenem với 2 đại diện Imipenem và Meropenem lần lượt là: 76,5% và 81,3%. Nhóm cephalosporin kháng trên 80%, trong đó kháng 83,9% với cefepim, 86,7% với ceftazidin, 88% với cefotaxim, 93,1% với ceftriaxone.
+
+Enterococcus faecium
+
+Enterococcus faecium có thể gây nhiễm trùng đường tiểu, nhiễm trùng máu và viêm màng não. Vi khuẩn này có tính kháng nội tại với một số loại kháng sinh như penicillin và cephalosporin, đặc biệt nhất là khả năng kháng vancomycin. Hiện nay, phải sử dụng một số liệu pháp phối hợp cho nhiễm khuẩn Enterococci kháng vancomycin (VRE)
+
+Helicobacter pylori
+
+Vi khuẩn này sống trên niêm mạc dạ dày và ước tính xuất hiện trong cơ thể 2/3 dân số thế giới, phần lớn không có triệu chứng gì.
+
+Các phối hợp kháng sinh điều trị khác nhau đang được sử dụng để chống lại khả năng kháng thuốc của vi khuẩn HP.
+
+Neisseria Gonorrhoeae
+
+Neisseria Gonorrhoeae gâybệnh lậu lây truyền qua đường tình dục. Khả năng kháng kháng sinh của vi khuẩn được ghi nhận đang ngày một gia tăng từ những năm 1940.
+
+Neisseria Gonorrhoeae kháng lại các kháng sinh penicillin, tetracyclines, quinolones và kháng sinh macrolide.
+
+Gần đây, vi khuẩn đã bắt đầu thể hiện sức đề kháng với cephalosporin thế hệ thứ ba và được chính thức coi là “kháng đa thuốc”. Để điều trị bệnh lậu, phối hợp kháng sinh được ưu tiên hàng đầu (Ceftriaxone + Azithromycin/ Docyxyline)
+
+Mycobacterium Tuberculosis
+
+Vi khuẩn Mycobacterium tuberculosis kháng thuốc là một mối đe dọa nghiệm trong trên thế giới. Nhiễm trùng do vi khuẩn này có thể xảy ra ở bất cứ đâu trong cơ thể nhưng thường xuất hiện ở phổi.
+
+Vi khuẩn này lây lan qua không khí. Trong hầu hết trường hợp, nhiễm trùng lao vẫn điều trị bằng thuốc đầu tiên – isoniazid hoặc rifampicin. Tuy nhiên, gần đây, một số trường hợp, M. tuberculosis có thể kháng với một hoặc nhiều loại thuốc đầu tiên này.
+
+DS Nguyễn Thị Bạch Tuyết
+
+(Visited 480 times, 1 visits today)
+
+Bài viết cùng chủ đề
+
+Bài viết liên quan

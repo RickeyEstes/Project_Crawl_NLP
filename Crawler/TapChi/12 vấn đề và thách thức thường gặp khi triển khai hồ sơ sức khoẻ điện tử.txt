@@ -1,0 +1,35 @@
+12 vấn đề và thách thức thường gặp khi triển khai hồ sơ sức khoẻ điện tử.Quản lý hồ sơ sức khoẻ điện tử cá nhân là xu thế phát triển tất yếu của bất cứ hệ thống y tế nào, biết được những vấn đề và thách thức thường gặp phải của các nước đang phát triển khi triển khai hồ sơ sức khoẻ điện tử sẽ giúp cho công tác chuẩn bị và lập kế hoạch triển khai được đầy đủ và khả thi hơn.
+
+Để giúp cho công tác triển khai hồ sơ sức khoẻ điện tử thành công, TCYTTG đã đúc kết và nêu ra 12 vấn đề và thách thức thường gặp khi triển khai quản lý hồ sơ sức khoẻ điện tử tại các nước đang phát triển.
+
+Quản lý hồ sơ sức khoẻ điện tử cá nhân là công việc rất mới và phải triển khai đồng bộ trên diện rộng, đòi hỏi sự đầu tư và chuẩn bị rất kỹ, từ phần mềm ứng dụng, thống nhất chuẩn dữ liệu đầu ra, mẫu hồ sơ sức khoẻ, những quy định mang tính pháp lý đòi hỏi sự tuân thủ của mỗi cơ sở y tế. Công việc chuẩn bị không chỉ ở tầm vĩ mô của Bộ Y tế, còn đòi hỏi mỗi địa phương phải chuẩn bị nguồn lực và phương án, xây dựng kế hoạch và lộ trình triển khai phù hợp với chức năng và nhiệm vụ của từng loại hình cơ sở y tế.
+
+Bên cạnh việc phải đầu tư nguồn lực để xây dựng phần mềm ứng dụng cho công tác lập hồ sơ sức khoẻ điện tử cá nhân với đầy đủ tiện ích, còn nhiều vấn đề khác đòi hỏi phải được nhận diện và có sự chuẩn bị đồng bộ đảm bảo cho sự thành công khi triển khai lập hồ sơ sức khoẻ điện tử. Theo TCYTTG, chính do sự chuẩn bị chưa đồng bộ, thực tiễn cho thấy các nước trên thế giới thường gặp phải những khó khăn khi triển khai hồ sơ sức khoẻ điện tử cá nhân. Từ năm 2006, các chuyên gia của TCYTTG khu vực Tây Thái Bình Dương đã đúc kết và xuất bản tài liệu “Hồ sơ sức khoẻ điện tử - Sổ tay dành cho các nước đang phát triển” (Electronic Health Records – Manual for Developing Countries). Có thể nói, cho đến nay tài liệu này vẫn còn nguyên giá trị đối với các nước đang phát triển trên thế giới khi triển khai hồ sơ sức khoẻ điện tử, trong đó có Việt Nam (đến nay, TCYTTG chưa có cập nhật phiên bản mới).
+
+Dưới đây là 12 vấn đề và thách thức theo TCYTTG phải được xác định và giải quyết trước khi triển khai lập hồ sơ sức khoẻ điện tử cá nhân tại các nước đang phát triển:
+
+1. Nhận dạng chính xác người bệnh là “xương sống” trong hàng loạt các hoạt động cần được chuẩn bị kỹ khi bắt đầu triển khai lập hồ sơ sức khỏe điện tử của từng người dân. Mã số để nhận dạng chính xác người bệnh là một yêu cầu bắt buộc cần được giải quyết khi bắt đầu triển khai thực hiện hồ sơ sức khoẻ điện tử.
+
+2. Thiếu sự thống nhất về thuật ngữ lâm sàng khi nhập dữ liệu vào hồ sơ bệnh án điện tử là một vấn đề cần có giải pháp để đảm bảo dữ liệu được liên thông trên hồ sơ sức khoẻ điện tử.
+
+3. Không phải tất cả nhân viên y tế tại các cơ sở y tế khác nhau đều có nhận thức đúng về ý nghĩa của hồ sơ sức khoẻ điện tử, một số nhân viên y tế không thích làm việc với máy vi tính.
+
+4. Không phải tất cả các cơ sở khám, chữa bệnh ở nhiều loại hình khác nhau đều sẵn sàng cho việc triển khai hồ sơ sức khoẻ điện tử, một số cơ sở vẫn chưa thích ứng với sự chuyển đổi từ ghi chép trên hồ sơ giấy sang nhập dữ liệu trên hồ sơ sức khoẻ điện tử khi cung ứng các dịch vụ chăm sóc sức khỏe cho người bệnh.
+
+5. Chuẩn bị nguồn kinh phí hợp lý vẫn là khó khăn chính cho các cơ sở y tế khi triển khai hồ sơ sức khoẻ điện tử, thường gặp là kinh phí để trang bị máy tính, hệ thống truyền tải dữ liệu.
+
+6. Tâm lý lo ngại của các bác sĩ khi sử dụng hồ sơ sức khoẻ điện tử, liệu có đầy đủ thông tin về tình hình sức khoẻ và dữ liệu về khám, chữa bệnh trước đó của người bệnh hay không.
+
+7. Thầy thuốc, người bệnh và cộng đồng nói chung lo lắng về quyền riêng tư, bảo mật thông tin, chất lượng và độ chính xác của thông tin được tạo ra bằng hồ sơ điện tử.
+
+8. Chất lượng thông tin về chăm sóc sức khỏe trên hồ sơ điện tử và độ chính xác dữ liệu khi được nhập vào các mục trên hồ sơ sức khoẻ.
+
+9. Nhân viên chưa được trang bị có kiến thức đầy đủ về hệ thống phân loại bệnh.
+
+10. Các cơ sở khám, chữa bệnh thiếu nhân viên có kỹ năng đầy đủ để thực hiện hồ sơ sức khoẻ điện tử.
+
+11. Môi trường thuận lợi để thực hiện hồ sơ điện tử tại các cơ sở y tế cũng là một vấn đề cần được quan tâm, từ nguồn điện, số lượng máy tính và không gian cần thiết cho máy tính,…
+
+12. Sự tham gia đồng bộ của cả bác sĩ lâm sàng và các nhà quản trị của các cơ sở khám, chữa bệnh khi triển khai thực hiện hồ sơ sức khoẻ điện tử.
+
+SỞ Y TẾ TP.HCM

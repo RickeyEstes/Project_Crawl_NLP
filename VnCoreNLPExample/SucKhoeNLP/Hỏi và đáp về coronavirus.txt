@@ -1,0 +1,11 @@
+1	Hỏi	V	O	0	root
+2	và	Cc	O	1	coord
+3	đáp	V	O	2	conj
+4	về	E	O	3	vmod
+5	coronavirus.Các	N	O	4	pob
+6	câu	Nc	O	5	nmod
+7	hỏi_về_Hỏi	Np	O	6	nmod
+8	và	Cc	O	1	coord
+9	đáp	V	O	8	conj
+10	về	E	O	9	vmod
+11	coronavirus	N	O	10	pob

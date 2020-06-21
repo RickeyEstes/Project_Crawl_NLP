@@ -1,0 +1,6 @@
+1	Cổng	N	O	0	root
+2	thông_tin	N	O	1	nmod
+3	điện_tử	N	O	2	nmod
+4	Sở	N	B-ORG	2	nmod
+5	y_tế	N	I-ORG	4	nmod
+6	Hà_Nội	Np	I-ORG	1	nmod

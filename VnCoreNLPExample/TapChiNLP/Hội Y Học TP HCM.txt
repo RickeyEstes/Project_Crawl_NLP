@@ -1,0 +1,9 @@
+1	Hội	N	B-ORG	0	root
+2	Y_Học	N	I-ORG	1	nmod
+3	TP.	Ny	I-ORG	1	nmod
+4	HCM.Số	Np	I-ORG	1	nmod
+5	người	N	O	1	nmod
+6	truy_cập	V	O	5	nmod
+7	trong	E	O	6	tmp
+8	ngày	N	O	7	pob
+9	38	M	O	8	det

@@ -1,0 +1,4 @@
+1	Thu_hồi	V	O	0	root
+2	chứng_chỉ	N	O	1	dob
+3	hành_nghề	V	O	2	nmod
+4	dược	N	O	2	nmod

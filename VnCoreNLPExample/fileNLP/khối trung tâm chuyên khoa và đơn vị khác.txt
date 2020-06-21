@@ -1,0 +1,6 @@
+1	khối	N	O	0	root
+2	trung_tâm	N	O	1	nmod
+3	chuyên_khoa	N	O	2	nmod
+4	và	Cc	O	1	coord
+5	đơn_vị	N	O	4	conj
+6	khác	A	O	5	nmod

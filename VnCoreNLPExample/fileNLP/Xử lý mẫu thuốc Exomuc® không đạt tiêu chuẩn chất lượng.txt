@@ -1,0 +1,8 @@
+1	Xử_lý	V	O	0	root
+2	mẫu	N	O	1	dob
+3	thuốc	N	O	2	nmod
+4	Exomuc®	Np	O	2	nmod
+5	không	R	O	6	adv
+6	đạt	V	O	1	vmod
+7	tiêu_chuẩn	N	O	6	dob
+8	chất_lượng	N	O	7	nmod

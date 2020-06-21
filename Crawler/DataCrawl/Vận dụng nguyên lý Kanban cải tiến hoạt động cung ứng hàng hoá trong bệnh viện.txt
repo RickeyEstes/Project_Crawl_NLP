@@ -1,0 +1,39 @@
+Vận dụng nguyên lý Kanban cải tiến hoạt động cung ứng hàng hoá trong bệnh việnHoạt động cung ứng hàng hoá cho các khoa, phòng trong bệnh viện (hospital logistics) là một nhóm hoạt động quản trị không thể thiếu ở bất kỳ một bệnh viện nào, đóng góp quan trọng vào hiệu quả và chất lượng chăm sóc nhưng cũng sẽ gây lãng phí không nhỏ nếu chưa được quan tâm đúng mức và chưa được vận dụng các phương pháp quản lý chuỗi cung ứng hợp lý, trong đó phải nhắc đến nguyên lý Kanban của người Nhật đã được cả thế giới học tập và vận dụng.
+
+Nguyên tắc vận dụng nguyên lý Kanban vào hoạt động cung ứng hàng hoá trong bệnh viện
+
+Kanban dịch từ tiếng Nhật có nghĩa là “bảng thông tin”. Còn đúng chính xác thuật ngữ chuyên môn kinh tế thì phải là “Phương pháp quản lý Kanban ” (Kanban method ). Đây là một thuật ngữ bắt nguồn từ công ty chế tạo xe hơi Toyota. Kanban là công cụ kiểm soát sản xuất, thẻ Kanban có thể có nhiều màu sắc để chỉ định nguyên liệu và các công đoạn khác nhau. Đối với trạm công việc này kanban là một thẻ đặt hàng, còn đối với trạm kế tiếp nó trở thành một thẻ vận chuyển trong đó chỉ định rõ phải nhận bộ phận, chi tiết hay nguyên liệu nào từ trạm trước nó với số lượng bao nhiêu.
+
+Kanban là phương pháp quản lý công đoạn sản xuất thực thi bằng các bảng truyền đạt thông tin, các phiếu liên lạc giữa các công đoạn. Trong dây chuyền sản xuất không có chi tiết thiếu hay thừa, toàn xưởng sản xuất không có sản phẩm tồn kho, cũng như không có nguyên vật liệu tồn kho. Đúng chính xác giờ A thì chi tiết, linh kiện được ráp trên dây chuyền đến công đoạn A, ngay tại thời điểm linh kiện đến công đoạn A thì các bộ phận vệ tinh phải đưa chi tiết (hàng) vào đúng ngay giờ khắc và dây chuyền công đoạn đó, đưa đúng đủ số lượng cần thiết, không dư không thiếu và không thể lệch một phút, khi đến công đoạn B,C,D thì cũng như vậy cho đến khi hoàn thành sản phẩm hoàn chỉnh. Sản phẩm hoàn thành xong sẽ được giao cho khách hàng hoặc đưa xuống cảng tập trung để xuất khẩu ngay lập tức đúng với hợp đồng, vận đơn đặt hàng. Khôngcó sản phẩm tồn kho trong bãi sản xuất.
+
+Đối chiếu vào công tác cung ứng hàng hoá trong bệnh viện, tình trạng kho hàng hoá của một khoa bị hết hàng hoặc đang dư thừa một loại hàng hoá nào đó là hiện tượng không phải hiếm gặp, ngay ở các bệnh viện của các nước đã phát triển, nguyên nhân chính là do chuỗi cung ứng hàng hoá trong bệnh viện chưa được quan tâm đúng mức.
+
+Vận dụng nguyên lý Kanban vào quản lý kho hàng hoá tại các khoa trong bệnh viện là cách làm đơn giản nhưng rất hiệu quả đã được nhiều bệnh viện trên thế giới triển khai trong công tác cung ứng hàng hoá cho hoạt động chăm sóc người bệnh của các khoa, phòng trong bệnh viện. Có thể nói đây là một phương pháp quản lý tinh gọn (Lean) trực quan, dễ triển khai nhưng mang lại hiệu quả thiết thực trong công tác quản lý chuỗi cung ứng hàng hoá trong bệnh viện, đảm bảo các yêu cầu của quản lý tinh gọn đó là: đúng chủng loại, đúng số lượng, đúng thời gian đồng thời làm giảm nguy cơ kho hết hàng hoặc kho dư thừa hàng hoá gây lãng phí.
+
+Dưới đây là hình ảnh minh hoạ quản lý cung ứng hàng hoá tại một khoa lâm sàng theo nguyên lý Kanban hiện đang được nhiều bệnh viện triển khai:
+
+1) Sắp xếp hàng hoá trên kệ theo nguyên tắc 2 hộp Kanban (2 bin Kanban System) tại các khoa lâm sàng của bệnh viện, 2 hộp giống hệt nhau, cả 2 hộp đều chứa đầy các hàng hoá cùng một chủng loại và số lượng. Hộp 1 xếp ở phía trước, dùng trước; hộp 2 xếp ở phía sau, dùng sau.
+
+2) Khi hàng hoá cuối cùng trong hộp 1 được lấy ra để sử dụng thì hộp 1 cũng được lấy ra khỏi vị trí và đặt lên ngăn trên cùng của kệ hàng hoá ở vị trí “hộp trống”, đồng thời kéo hộp số 2 lên thay vào vị trí của hộp số 1. Hộp 1 khi đặt vào vị trí “hộp trống” sẽ là tín hiệu trực quan giúp nhân viên cung ứng hàng hoá của kho bệnh viện biết và sẽ bổ sung hàng hoá vào đúng theo chủng loại và số lượng ghi trên thẻ Kanban. Trong thời gian chờ bổ sung hàng hoá vào hộp 1 thì người điều dưỡng sẽ sử dụng hàng hoá đựng trong hộp 2.
+
+Hộp 1 khi hết hàng sẽ được lấy ra khỏi vị trí và đặt vào vị trí “hộp trống” ở ngăn kệ trên cùng
+
+Đồng thời, hộp thứ 2 ở phía sau hộp 1 sẽ được kéo lên đặt vào vị trí của hộp 1 để sẵn sàng cung cấp hàng hoá khi điều dưỡng cần
+
+3) Lưu ý:
+
+- Khi hàng hoá đã được lấy ra khỏi hộp nhưng vì lý do gì đó không sử dụng cần trả lại kệ hàng hoá, điều dưỡng không đặt vào vị trí cũ (khi lấy ra khỏi hộp) mà phải đặt vào ngăn trên cùng ở vị trí “hàng trả lại”.
+
+- Sau khi lấy hàng hoá từ hộp 1 và thấy trong hộp 1 còn đúng 1 cái thì không được lấy ra cho trống hộp 1 và kéo hộp 2 lên đồng thời đặt hàng hoá từ hộp 1 vào hộp 2.
+
+Không được lấy hàng từ hộp 1 đặt vào hộp 2, chỉ lấy hộp 1 ra khỏi vị trí khi hết hàng trong hộp
+
+- Sắp xếp chủng loại hàng hoá theo các màu khác nhau, danh mục hàng hoá cũng theo các màu tương ứng để điều dưỡng dễ tìm
+
+- Một số hàng hoá có kích thước lớn thì không dùng hộp, thay vào đó là dùng thẻ đính kèm theo hàng hoá, sau khi lấy hàng hoá ra khỏi vị trí thì điều dưỡng lấy thẻ đính kèm đặt vào ngăn trên cùng ở vị trí “thẻ yêu cầu”.
+
+Đặt thẻ đính kèm vào vị trí “thẻ yêu cầu” sau khi lấy hàng hoá kích thước lớn ra khỏi kệ
+
+(Tài liệu tham khảo: “Stocking Hospital Supply Rooms (Two-Bin Kanban), Gregory Schmidt M.D., http://www.gregoryschmidt.ca ; hình ảnh trích dẫn từ “2 bin training video”)
+
+SỞ Y TẾ TP.HCM

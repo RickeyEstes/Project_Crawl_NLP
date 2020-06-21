@@ -1,0 +1,7 @@
+1	Lịch	N	O	0	root
+2	công_tác	V	O	1	nmod
+3	tuần	N	O	2	tmp
+4	35	M	O	3	det
+5	của	E	O	1	nmod
+6	Lãnh_đạo	N	O	5	pob
+7	Bộ	Np	O	6	nmod

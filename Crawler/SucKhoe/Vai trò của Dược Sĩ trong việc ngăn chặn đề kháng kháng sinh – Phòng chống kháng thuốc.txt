@@ -1,0 +1,153 @@
+Vai trò của Dược Sĩ trong việc ngăn chặn đề kháng kháng sinh – Phòng chống kháng thuốc.Vai trò của Dược Sĩ trong việc ngăn chặn đề kháng kháng sinh
+
+Tóm tắt và giới thiệu
+
+Giới thiệu
+
+Thuốc kháng sinh và vacxin chắc chắn là một trong những khám phá quan trọng nhất trong lịch sử nhân loại. Việc sử dụng chúng đã cứu được vô số mạng sống từ các nhiễm trùng gây chết người trước kia. Thật không may, kháng sinh cũng là loại thuốc duy nhất khi sử dụng rộng rãi làm giảm lợi ích của chúng. Ngược lại với các thuốc làm thay đổi quá trình sinh hóa của con người, chẳng hạn như sự đông tụ dòng nước và nhịp tim, kháng sinh đang tham gia vào cuộc chiến với một kẻ thù đang chống lại nó. Vi khuẩn tự biến đổi để chống lại tác dụng của kháng sinh, cho phép chúng nhân lên và tiếp tục lây lan bệnh tật. Vấn đề này đã trở thành một trong những vấn đề sức khoẻ cấp bách/thiết nhất của quốc gia, và tầm quan trọng của nó đang gia tăng. Để chống lại kháng kháng sinh và bảo vệ các loại thuốc kỳ diệu của chúng ta , các dược sĩ phải am hiểu về vấn đề này và tích cực tham gia vào giải pháp ngăn chặn.
+
+Sự gia tăng đề kháng kháng sinh
+
+Theo Trung tâm Kiểm soát và Phòng ngừa dịch bệnh (CDC), gần 2 triệu người ở Hoa Kỳ bị nhiễm vi khuẩn trong suốt thời gian nằm viện mỗi năm và hơn 70% vi khuẩn gây ra những nhiễm trùng này kháng với ít nhất một trong các loại thuốc thường được sử dụng để điều trị chúng.1 Những vi khuẩn kháng thuốc này bao gồm không chỉ những vi khuẩn đã được biết như Staphylococcus aureus kháng methicillin (MRSA) và Pseudomonas aeruginosa, mà còn là những chủng Klebsiella pneumoniae đã phát triển đề kháng với tất cả beta-lactam có sẵn.2 Đối với một số sinh vật, bác sĩ lâm sàng đã buộc phải chuyển sang polymyxins, một loại kháng sinh cũ hơn đã bị bỏ trước đây, thay cho nhóm aminoglycosid “an toàn hơn”.3
+
+Kháng thuốc trong bối cảnh cộng đồng là có liên quan. Trong một nhóm nghiên cứu quốc gia, MRSA liên quan đến cộng đồng là nguyên nhân thường gặp nhất gây ra nhiễm trùng da ở những bệnh nhân đã đến phòng cấp cứu.4 Các mầm bệnh phổ biến được tìm thấy trong môi trường cộng đồng như Escherichia coli và Neisseria gonorrhoeae đã trở nên đề kháng với fluoroquinolones, các chất được coi là liệu pháp điều trị đầu tay cho các bệnh nhiễm trùng gây ra bởi các mầm bệnh trong quá khứ.5,6
+
+Giảm sự phát triển
+
+Có thể gây bất an hơn sự gia tăng kháng kháng sinh là sự suy giảm trong nghiên cứu và phát triển kháng sinh. Như năm 2009, không có loại kháng sinh mới nào được phát triển giai đoạn cuối và chỉ có tất cả 16 kháng sinh là đang phát triển giai đoạn cuối. Không phải tất cả 16 tác nhân này sẽ được chấp thuận, đã chứng minh qua thực tế là sáu trong số đó đã được FDA phê duyệt, chỉ có hai kháng sinh được chấp thuận (telavancin và ceftaroline). Các oxazolidinones (linezolid) vào năm 2000 và lipopeptides (daptomycin) vào năm 2003 là các loại kháng sinh hệ thống mới duy nhất được phát triển kể từ năm 1968.7
+
+Có rất nhiều nguyên nhân dẫn đến tình trạng thiếu phát triển kháng sinh. Kháng sinh thường chỉ được dùng trong vài ngày tại một thời điểm, điều này không đảm bảo lợi nhuận đáng kể cho các công ty dược phẩm. Khi kháng sinh được chấp thuận, xu hướng tự nhiên của nhiều bác sĩ là dự trữ chúng cho các bệnh nhiễm trùng đề kháng thuốc hoặc trường hợp nhiễm trùng nặng, điều này trớ trêu lại làm tệ thêm việc thoái giảm nền kinh tế cho việc đẩy mạnh phát triển kháng sinh . Ngoài ra, các thử nghiệm lâm sàng cho kháng sinh không dễ tiến hành. Vì thuốc kháng sinh phải được dùng cho hầu hết các bệnh nhiễm trùng, việc sử dụng kháng sinh trước đây sẽ làm giảm đáng kể lợi ích có thể đo được. Như vậy, vì nhiều sinh vật phức tạp có thể gây ra hầu hết các trường hợp nhiễm trùng, các công ty muốn phê duyệt kháng sinh mới thường phải bao gồm các kháng sinh khác kết hợp với thuốc mới trong các thử nghiệm lâm sàng, điều này có thể góp phần vào hiệu quả điều trị và làm cho khó đo lường hiệu quả của kháng sinh mới. Khó khăn trong việc tìm kiếm bệnh nhân bị nhiễm trùng gây ra bởi các vi sinh vật liên quan là mối quan tâm khác. Vấn đề này gần đây đã được chứng minh bằng một thử nghiệm của linezolid (Zyvox-Pfizer, Inc) trong bệnh viêm phổi do MRSA, nơi có khoảng 1.200 bệnh nhân được ghi danh và điều trị để tìm ra khoảng 400 người đủ tiêu chuẩn và số bệnh nhân được sàng lọc có thể cao hơn.8 Kháng sinh phải được nghiên cứu cho mỗi loại nhiễm trùng đặc hiệu, trong đó chỉ ra vấn đề kích cỡ mẫu nhỏ vì các trường hợp nhiễm trùng không mạn tính điển hình hoặc gần như là các bệnh phổ biến ví dụ bệnh tăng huyết áp.
+
+Điều tra ứng dụng lâm sàng trong điều trị vi khuẩn kháng thuốc thậm chí còn khó hơn nhiều. Việc tuyển chọn bệnh nhân là những người có mắc những vi sinh vật có khả năng đề kháng với sự kiểm soát hoạt động trong các nghiên cứu về kháng sinh mới là không đạo đức. Điều này thể hiện một mối lo ngại thực sự, vì đó là những chủng kháng thuốc đòi hỏi những lựa chọn mới. Các loại nghiên cứu mới cho sự chấp thuận thuốc thay thế có thể cần thiết để tăng tính sẵn có của các kháng sinh đối với những nhiễm trùng này.
+
+Xã hội đánh giá thấp kháng sinh
+
+Trong thế kỷ 21, hầu hết mọi người thiếu nhận thức về lịch sử xã hội trước khi kháng sinh trở nên phổ biến rộng rãi. Kháng sinh đã làm thay đổi nền y học, tuy nhiên trong kỷ nguyên mà phần lớn các bệnh nhiễm trùng do vi khuẩn thường được điều trị, điều này sẽ dễ dàng bị lãng quên. Nhiễm trùng dễ dàng điều trị ngày nay thường gây chết người trong thời kỳ tiền kháng sinh. Đánh giá các nghiên cứu có kiểm soát về các kháng sinh đầu tiên cho thấy có sự giảm tỷ lệ tử vong do viêm phổi mắc phải ở cộng đồng (CAP) từ 38% xuống 12% do sử dụng kháng sinh, tương ứng với số lượng cần điều trị để cứu sống bốn người.9 Ngay cả những bệnh nhân khỏe mạnh vẫn có tỷ lệ tử vong từ CAP là 10% trong thời kỳ tiền kháng sinh, cao hơn nhiều so với tỷ lệ dưới 1% với kháng sinh.9 Penicillin làm giảm tỉ lệ tử vong do viêm tế bào từ 11% xuống dưới 1%.10 Những nhiễm trùng này thường đáng lo ngại ở thời kỳ tiền kháng sinh nhưng hiện nay đang được điều trị thường xuyên.
+
+Kháng sinh miễn phí
+
+“Bạn không trả tiền cho các vi trùng. Tại sao trả tiền cho các kháng sinh?”. Đây là một trong những dòng từ khóa được sử dụng để quảng cáo cho các chương trình kháng sinh miễn phí được tìm thấy tại các nhà thuốc khác nhau cho phép bệnh nhân nhận thuốc kháng sinh thông thường miễn phí. Trong thời điểm kinh tế bất ổn, khái niệm nhà thuốc mở rộng sự rộng lượng đối với khách hàng bằng cách cho thuốc có vẻ mới mẻ. Tuy nhiên, nó có thể góp phần vào việc xã hội đánh giá thấp giá trị của kháng sinh. Bằng cách tạo ra kháng sinh sẵn có miễn phí cho bệnh nhân, giá trị cảm nhận của họ có thể bị giảm đi.
+
+Giá trị về kinh tế
+
+Vì thuốc kháng sinh có hiệu quả cao trong việc chữa trị nhiều bệnh gây chết người trước kia nên giá trị kinh tế của kháng sinh rất khó để đo lường. Trong ung thư, một loại thuốc kéo dài cuộc sống vài tháng được coi là thành công và có khả năng trở thành tiêu chuẩn chăm sóc, có thể với chi phí đáng kể. Một thuốc kháng sinh thành công trị nhiễm trùng và kéo dài cuộc sống vô thời hạn, nhưng giá mà người trả tiền sẵn sàng trả thấp hơn đáng kể. Chi phí mỗi đơn vị kháng sinh mới được chấp thuận có thể cao hơn ở các trạng thái hoặc giai đoạn bệnh khác nhau nhưng có thể được chứng minh bằng các khóa trị liệu ngắn hạn mà hầu hết các bệnh nhiễm trùng đòi hỏi. Ví dụ, bệnh nhân viêm xoang có thể dùng kháng sinh trong 5 đến 10 ngày, nhưng cùng một bệnh nhân có thể dùng thuốc giảm cholesterol hoặc thuốc chống tăng huyết áp trong suốt thời gian còn lại của cuộc đời. Những yếu tố cản trở kinh tế này ngăn cản việc phát triển thêm kháng sinh.
+
+Vai trò của Dược sĩ
+
+Vai trò của dược sĩ trong việc chống lại và ngăn chặn các bệnh truyền nhiễm là cần thiết vì các phác đồ kháng sinh và vaccin trở nên phức tạp hơn do dịch tễ học bệnh nhiễm trùng liên tục phát triển. Sự suy giảm trong phát triển thuốc đã làm cho việc bảo tồn các loại thuốc kháng sinh đang sẵn có hiện nay rất quan trọng, làm nổi bật vai trò của dược sĩ trong việc tối đa hoá lợi ích của các thuốc có sẵn. Trong khi đào tạo thêm về các bệnh truyền nhiễm có thể cần thiết cho vai trò của dược sĩ trong việc ngăn ngừa kháng kháng sinh, và những vấn đề còn tồn tại mà tất cả các dược sĩ đều có thể bao quát.
+
+Quản lý kháng sinh
+
+Các chương trình quản lý kháng sinh theo hướng dược sĩ (ASPs) đã tăng lên đáng kể trong thập kỷ qua. Sau khi có bằng chứng cho thấy các chương trình này cải thiện chăm sóc bệnh nhân, Hiệp hội bệnh truyền nhiễm Hoa Kỳ và Hiệp hội dịch tễ chăm sóc sức khỏe Hoa Kỳ đã xuất bản một hướng dẫn cho sự phát triển của các ASP chỉ rõ rằng một dược sĩ lâm sàng đã được đào tạo về bệnh truyền nhiễm là một thành viên nòng cốt thiết yếu.11,12 Khi sự đề kháng tăng lên và sự phát triển kháng sinh đã chậm lại, ASPs trở nên quan trọng để cải thiện kết quả lâm sàng, ngăn chặn sự đề kháng và giảm các tác dụng phụ như nhiễm Clostridium difficile.13 ASPs có nhiều hình thức, nhưng tất cả đều sử dụng cách tiếp cận nhóm để cải thiện việc sử dụng kháng sinh thông qua các phương tiện như can thiệp vào bệnh nhân, phát triển hướng dẫn và cải thiện toàn hệ thống (BẢNG 1). Theo thời gian, ASPs có thể trở thành tiêu chuẩn cho tất cả các bệnh viện và cơ sở chăm sóc dài hạn trên toàn quốc; tuy nhiên, tại thời điểm này chỉ có California đã phát triển một sáng kiến trên toàn tiểu bang để yêu cầu ASPs.14
+
+Bảng 1. Các ví dụ về những sáng kiến quản lý kháng sinh
+
+Các can thiệp trực tiếp
+
+Đánh giá lại nhu cầu tiếp tục dùng kháng sinh sau 48-72 giờ
+
+Dừng kháng sinh nếu nuôi cấy vi khuẩn là âm tính và không chắc là nhiễm trùng
+
+Dừng kháng sinh khi nhiễm trùng đã được giải quyết
+
+Sàng lọc các tương tác thuốc trong điều trị lặp lại
+
+Tối đa hóa các thông số PK/PD để tối ưu hóa liều kháng sinh
+
+Chuyển đổi liệu pháp cho kháng sinh thích hợp nhất dựa trên kết quả
+
+Giáo dục
+
+Cung cấp hướng dẫn hoặc lộ trình để điều trị kháng sinh theo kinh nghiệm một cách hợp lý
+
+Làm việc kết hợp với phòng thí nghiệm vi sinh để lựa chọn các công cụ chẩn đoán hoặc báo cáo tính nhạy cảm dựa trên các kháng sinh theo mẫu có sẵn và các mô hình nhạy cảm
+
+Hỗ trợ giải thích kết quả của các xét nghiệm chẩn đoán hoặc nuôi cấy vi sinh vật (sự xâm chiếm, sự truyền nhiễm với nhiễm trùng)
+
+Tránh dự phòng kháng sinh lâu dài hoặc mạn tính
+
+Giảm thiểu việc sử dụng kháng sinh phổ rộng
+
+Các chính sách/phương pháp
+
+Chế độ kháng sinh mẫu
+
+Sự ủy quyền trước
+
+PK/PD: dược động học/dược lực học.
+
+Nguồn: Tài liệu tham khảo 11, 17-19, 25.
+
+Các phương pháp khác nhau có thể được áp dụng cho ASPs, và các dược sĩ nói chung là các nhân viên chủ chốt theo dõi các bệnh nhân và can thiệp khi cần thiết. Trong khi một số các can thiệp này đòi hỏi phải có kiến ​​thức sâu về các bệnh truyền nhiễm, những can thiệp khác nằm trong phạm vi của thực hành dược tổng quát. Ví dụ, người ta đã báo cáo rằng liều dùng của Vancomycin có thể không phù hợp ở bệnh nhân béo phì.15 Từ khi có đề xuất rằng liều Vancomycin không đủ có thể liên quan đến việc thúc đẩy sự đề kháng ở Staphylococcus aureus, điều này được cho là cơ hội để các dược sĩ không chuyên khoa can thiệp. 16 Việc lựa chọn kháng sinh phức tạp hơn hoặc phương pháp tối ưu liều có thể được sử dụng bởi các dược sĩ với sự hiểu biết toàn diện về các xét nghiệm chẩn đoán hoặc dược động học và dược lực học của kháng sinh. Mỗi can thiệp là một cơ hội để cung cấp phản hồi và rèn luyện cho bác sĩ kê toa/ đơn, điều này rất quan trọng cho việc duy trì một chương trình quản lý và tiếp tục đẩy mạnh việc sử dụng kháng sinh. Hơn nữa, các dược sĩ thường thu thập và báo cáo dữ liệu về các can thiệp và mẫu kháng sinh sử dụng tại các ủy ban bệnh viện để đánh giá hiệu quả của chương trình, xác định các lĩnh vực cần cải thiện và tiếp tục hỗ trợ quản lý.
+
+Dược sĩ Cộng đồng là người hướng dẫn chuyên môn
+
+Là những người hướng dẫn chuyên môn, các dược sĩ cộng đồng có một số cơ hội quan trọng để can thiệp và ngăn ngừa việc sử dụng kháng sinh không cần thiết, điều này có liên quan mật thiết đến gia tăng sự kháng thuốc. Bệnh nhân thường đi đến nhà thuốc cộng đồng trước tiên để tìm lời khuyên về các bệnh nhiễm trùng và các thuốc OTC để làm giảm các triệu chứng của họ. Dược sĩ có thể tư vấn cho bệnh nhân nhiễm virus sự vô ích của các chất kháng khuẩn và khuyến cáo các sản phẩm OTC thích hợp để chăm sóc hỗ trợ. Tránh một chuyến đi không cần thiết đến văn phòng của bác sĩ có thể ngăn ngừa áp lực mà các bác sĩ có thể cảm thấy để kê đơn kháng sinh mà họ không tin là cần thiết. Tất nhiên, các dược sĩ nên chỉ dẫn bệnh nhân đến khám bác sĩ nếu nghi ngờ nhiễm trùng do vi khuẩn, bệnh nhân đang bị bệnh nặng hoặc phức tạp do các bệnh kèm theo, nhiễm trùng kéo dài hoặc dược sĩ không cảm thấy yên tâm khi nhận thấy có một loại virus cúm nhẹ đang hiện diện. Một nguồn thông tin hữu ích cho các dược sĩ về các điểm tư vấn này là trang web thông minh của CDC: nhận biết khi kháng sinh tác động.
+
+Tiêm chủng
+
+Dược sĩ có vai trò quan trọng thúc đẩy các loại vaccin hiện có. Vaccin có thể làm giảm việc sử dụng kháng sinh trực tiếp bằng cách ngăn ngừa nhiễm trùng ban đầu và gián tiếp bằng cách ngăn ngừa nhiễm trùng lần 2 do cùng loại vi khuẩn sau một loại bệnh có thể ngừa được bằng vắc xin ban đầu, như bệnh cúm.21 Dược sĩ có thể sàng lọc bệnh nhân và xác định những người cần tiêm chủng tại thời gian và địa điểm khác nhau: nhập viện đến cơ sở chăm sóc sức khoẻ; khám bệnh tại các hiệu thuốc cộng đồng; ở một độ tuổi cụ thể; đối với một số tình trạng mãn tính nhất định, phương pháp y tế hoặc phẫu thuật và vào các thời điểm nhất định trong năm.22 Dược sĩ cũng có thể quản lý vaccin trong môi trường cộng đồng ở mọi bang.23
+
+Giáo dục
+
+Có lẽ vai trò quan trọng nhất của dược sĩ trong việc ngăn chặn đề kháng kháng sinh là vai trò của một nhà giáo dục. Do nhiều quan niệm sai lầm về kháng sinh và vaccin, việc giải quyết các mối quan tâm của bệnh nhân và bác sĩ lâm sàng là cần thiết để tăng sự hiểu biết về việc sử dụng hợp lý các chất này. Một số cha mẹ do dự về việc tiêm chủng cho con của họ vì lo lắng về các phản ứng phụ, cả thực tế và tưởng tượng. Dược sĩ có thể giúp bệnh nhân tách biệt thực tế khỏi sự tưởng tượng về tiêm chủng. Họ cũng có thể giáo dục về đề kháng kháng sinh, hướng dẫn chuyên môn như đã đề cập trước đây và cung cấp nguồn lực cho việc ra quyết định lâm sàng, vì vậy cần phải có những lựa chọn thích hợp đối với kháng sinh.
+
+Giáo dục về thực hành kiểm soát nhiễm trùng cũng là một phương pháp quan trọng cho sự tham gia của dược sĩ. Dược sĩ có thể chủ động trong việc giáo dục cộng đồng về các biện pháp kiểm soát nhiễm trùng quan trọng như vệ sinh chung, vệ sinh bàn tay, quy ước khi ho, tiêm chủng và ở nhà khi ốm.24,25 Những chủ đề này dường như có ý nghĩa thông thường,nhưng những bệnh nhân hiểu biết về những thực hành kiểm soát nhiễm trùng cơ bản không nên được đánh giá quá cao . Các công cụ khác nhau có sẵn trực tuyến để hỗ trợ dược sĩ trong những nỗ lực này. Dược sĩ có thể truy cập cả tài liệu in và các mẹo về cách giao tiếp với bệnh nhân về nhiễm trùng đường hô hấp, sử dụng kháng sinh thích hợp và các chủ đề liên quan khác.20
+
+Kết luận
+
+Dược sĩ có trách nhiệm hỗ trợ trong cuộc chiến kháng kháng sinh. Họ có kiến thức và nguồn lực trong tầm tay để nâng cao nhận thức và hành động. Có nhiều cơ hội để dược sĩ trợ giúp trong chiến dịch này. Việc công nhận dược sĩ là thành viên chủ chốt của đội ngũ quản lý kháng sinh trong hệ thống y tế là một mốc quan trọng trong thực hành chống bệnh truyền nhiễm. Các dược sĩ cộng đồng đóng một vai trò quan trọng trong việc chống lại kháng kháng sinh như là những người thực hành ở tuyến đầu có thể giáo dục và tiêm chủng cho bệnh nhân.
+
+Nếu không có sự can thiệp đáng kể, chúng ta sẽ đi đến kết cục mà có 10 kháng sinh khác nhau có thể được sử dụng để điều trị nhiễm trùng E.coli nghiêm trọng. Nếu bây giờ chúng ta không xem nó là vấn đề của mình, chắc chắn đó sẽ là vấn đề của chúng ta sau này khi chúng ta được hỏi liệu kháng sinh nào có thể sử dụng cho bệnh nhiễm E.coli kháng tất cả các kháng sinh và câu trả lời là: không có kháng sinh nào cả.
+
+Tài liệu tham khảo
+
+Klevens RM, Edwards JR, Richards CL Jr, et al. Estimating health care-associated infections and deaths in U.S. hospitals, 2002. Public Health Rep. 2007;122(2):160-166.
+
+Boucher HW, Talbot GH, Bradley JS, et al. Bad bugs, no drugs: no ESKAPE! An update from the Infectious Diseases Society of America. Clin Infect Dis. 2009;48(1):1-12.
+
+Li J, Nation RL, Milne RW, et al. Evaluation of colistin as an agent against multi-resistant Gram-negative bacteria. Int J Antimicrob Agents. 2005;25(1):11-25.
+
+Moran GJ, Krishnadasan A, Gorwitz RJ, et al. Methicillin-resistant S. aureus infections among patients in the emergency department. N Engl J Med. 2006;355(7):666-674.
+
+Centers for Disease Control and Prevention (CDC). Update to CDC’s sexually transmitted diseases treatment guidelines, 2006: fluoroquinolones no longer recommended for treatment of gonococcal infections. MMWR Morb Mortal Wkly Rep. 2007;56(14):332-336.
+
+Zhanel GG, Hisanaga TL, Laing NM, et al. Antibiotic resistance in Escherichia coli outpatient urinary isolates: final results from the North American Urinary Tract Infection Collaborative Alliance (NAUTICA). Int J Antimicrob Agents. 2006;27(6):468-475.
+
+Spellberg B, Powers J, Brass E, et al. Trends in antimicrobial drug development: implications for the future. Clin Infect Dis. 2004;38(9):1279-1286.
+
+Kunkel M, Chastre JE, Kollef M, et al. Linezolid vs vancomycin in the treatment of nosocomial pneumonia proven due to methicillin-resistant Staphylococcus aureus. Presented at the 48th Annual Meeting of the Infectious Diseases Society of America; October 21-24, 2010; Vancouver, BC, Canada.
+
+Spellberg B, Talbot GH, Brass EP, et al. Position paper: recommended design features of future clinical trials of antibacterial agents for community-acquired pneumonia. Clin Infect Dis. 2008;47(suppl 3):S249-S265.
+
+Spellberg B, Talbot GH, Boucher HW, et al. Antimicrobial agents for complicated skin and skin-structure infections: justification of noninferiority margins in the absence of placebo-controlled trials. Clin Infect Dis. 2009;49(3):383-391.
+
+Dellit TH, Owens RC, McGowan JE Jr, et al. Infectious Diseases Society of America and the Society for Healthcare Epidemiology of America guidelines for developing an institutional program to enhance antimicrobial stewardship. Clin Infect Dis. 2007;44(2):159-177.
+
+Gross R, Morgan AS, Kinky DE, et al. Impact of a hospital-based antimicrobial management program on clinical and economic outcomes. Clin Infect Dis. 2001;33(3):289-295.
+
+Charani E, Cooke J, Holmes A. Antibiotic stewardship programmes–what’s missing? J Antimicrob Chemother. 2010;65(11):2275-2277.
+
+California Department of Public Health, State of California. The California antimicrobial stewardship program initiative. www.cdph.ca.gov/programs/hai/Pages/AntimicrobialStewardshipProgramInitiative.aspx. Accessed November 29, 2010.
+
+Hall RG, 2nd, Payne KD, Bain AM, et al. Multicenter evaluation of vancomycin dosing: emphasis on obesity. Am J Med. 2008;121(6):515-518.
+
+Rybak M, Lomaestro B, Rotschafer JC, et al. Therapeutic monitoring of vancomycin in adult patients: a consensus review of the American Society of Health-System Pharmacists, the Infectious Diseases Society of America, and the Society of Infectious Diseases Pharmacists. Am J Health-Syst Pharm. 2009;66(1):82-98.
+
+Bauer KA, West JE, Balada-Llasat JM, et al. An antimicrobial stewardship program’s impact with rapid polymerase chain reaction methicillin-resistant Staphylococcus aureus/S. aureus blood culture test in patients with S. aureus bacteremia. Clin Infect Dis. 2010;51(9):1074-1080.
+
+Forrest GN, Roghmann MC, Toombs LS, et al. Peptide nucleic acid fluorescent in situ hybridization for hospital-acquired enterococcal bacteremia: delivering earlier effective antimicrobial therapy. Antimicrob Agents Chemother. 2008;52(10):3558-3563.
+
+Mohr JF, Wagner A, Rex JH. Pharmacokinetic/pharmacodynamic modeling can help guide targeted antimicrobial therapy for nosocomial gram-negative infections in critically ill patients. Diagn Microbiol Infect Dis. 2004;48(2):125-130.
+
+Centers for Disease Control and Prevention. Get smart: know when antibiotics work. www.cdc.gov/getsmart/index.html. Accessed November 18, 2010.
+
+Kwong JC, Maaten S, Upshur RE, et al. The effect of universal influenza immunization on antibiotic prescriptions: an ecological study. Clin Infect Dis. 2009;49(5):750-756.
+
+American Society of Health System Pharmacists Council on Professional Affairs. ASHP guidelines on the pharmacist’s role in immunization. Am J Health Syst Pharm. 2003;60(13):1371-1377.
+
+American Pharmacists Association. States where pharmacists can immunize as of June 2009. www.pharmacist.com/AM/Template.cfm?Section= Pharmacist_Immunization_Center1&TEMPLATE=/CM/ContentDisplay.cfm&CONTENTID=21623. Accessed December 13, 2010.
+
+Society for Healthcare Epidemiology of America. Compendium of Strategies to Prevent Healthcare-Associated Infections in Acute Care Hospitals. www.shea-online.org/about/compendium.cfm. Accessed November 18, 2010.
+
+Centers for Disease Control and Prevention. 12 steps to prevent antimicrobial resistance among long-term care residents. www.cdc.gov/drugresistance/healthcare/ltc/12steps_ltc.htm. Accessed October 4, 2010

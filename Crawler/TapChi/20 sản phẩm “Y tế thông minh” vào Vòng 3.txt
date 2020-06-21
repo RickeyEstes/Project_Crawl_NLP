@@ -1,0 +1,55 @@
+20 sản phẩm “Y tế thông minh” vào Vòng 3.Từ 37 sản phẩm được chọn vào Vòng 2, Hội đồng bình chọn đã chọn ra 20 sản phẩm đạt điểm cao nhất để tiếp tục vào Vòng 3. Lễ công bố kết quả bình chọn Giải thưởng “Y tế thông minh” năm 2019 sẽ diễn ra vào ngày 14/12/2019.
+
+Từ ngày 21/10/2019 đến ngày 06/11/2019, Hội đồng bình chọn Giải thưởng “Y tế thông minh” đã đánh giá thực tế các sản phẩm được chọn vào Vòng 2. Thành phần tham dự Hội đồng Vòng 2 bao gồm: lãnh đạo Sở Y tế, lãnh đạo và chuyên viên các phòng chức năng, các chuyên gia của Ban Công nghệ Thông tin. Hội đồng đã tiến hành đánh giá thực tế 34 sản phẩm theo 6 trong 7 tiêu chí bình chọn (3 sản phẩm của Sở Y tế không tham gia bình chọn). Các 6/7 tiêu chí bình chọn được đánh giá tại Vòng 2 bao gồm: (1) Tính sáng tạo xuất phát từ yêu cầu của thực tiễn; (2) Nền tảng công nghệ của sản phẩm; (3) Giao diện của sản phẩm; (4) Phạm vi triển khai, duy trì ứng dụng; (5) Hiệu quả của ứng dụng sản phẩm; (6) Khả năng nhân rộng của sản phẩm.
+
+Qua đánh giá thực tế các sản phẩm tại Vòng 2, tuy có sản phẩm đã hoàn thiện và chính thức áp dụng, có sản phẩm còn trong giai đoạn thí điểm nhưng tất cả đều toát lên một đặc điểm chung đó là thể hiện tính sáng tạo xuất phát từ yêu cầu của thực tiễn, tính vượt khó, dám nghĩ dám làm và ít nhiều đều mang một hàm lượng công nghệ cao. Có thể nói, tất cả sản phẩm đã làm tăng thêm giá trị cho các dịch vụ chăm sóc sức khoẻ mà các bệnh viện cung ứng đến người dân. Hội đồng bình chọn đã thống nhất chọn ra 20 sản phẩm đạt điểm cao nhất để tiếp tục đánh giá tại Vòng 3.
+
+Vòng 3 sẽ chấm điểm tiêu chí thứ 7 còn lại trong tổng số 7 tiêu chí bình chọn đối với 20 sản phẩm. Tiêu chí thứ 7 là điểm được quy đổi từ số lượt xếp hạng của mỗi sản phẩm từ góc nhìn mỗi thành viên của Hội đồng về hiệu quả mang lại của sản phẩm. Thành phần Hội đồng bình chọn Vòng 3 bao gồm: Ban Giám đốc Sở Y tế, Lãnh đạo các phòng ban chức năng thuộc Sở Y tế; lãnh đạo Sở Thông tin và truyền thông, Sở Khoa học và Công nghệ, Hội Y tế Công cộng; Trung tâm Kỹ thuật điện toán - Trường Đại học Bác Khoa, Trường Đại học Khoa học Tự Nhiên; Trường Đại học Y khoa Phạm Ngọc Thạch; Trường Đại học Y Dược thành phố Hồ Chí Minh và các phóng viên đại diện của báo đài (Đài Truyền hình Quốc Hội, Đài Truyền hình Thành phố Hồ Chí Minh (HTV), Đài Truyền hình Việt Nam khu vực phía nam (VTV9), Báo Thanh niên, Báo Người Lao động).
+
+Kết quả xếp hạng chung cuộc (hạng 1, hạng 2, hạng 3) là dựa vào tổng số điểm của Vòng 2 (6 tiêu chí) và Vòng 3 (1 tiêu chí). Ngoài ra, căn cứ vào số lượt bình chọn của Vòng 3, Ban Tổ chức sẽ chọn ra 1 sản phẩm để trao giải thưởng triển vọng.
+
+Được sự đồng ý của UBNDTP, Hội đồng bình chọn sẽ công bố và trao Giải thưởng “Y tế thông minh” năm 2019 của Ngành Y tế thành phố vào ngày 14/12/2019, là ngày tổ chức Hội thảo quốc tế chuyên đề Y tế thông minh do UBNDTP tổ chức.
+
+Dưới đây là danh sách 20 sản phẩm vào Vòng 3 (theo thứ tự ABC):
+
+1. Các sản phẩm công nghệ phục vụ người bệnh từ “vườn ươm sáng tạo” của bệnh viện
+
+2. Đăng ký khám bệnh trực tuyến và các phương thức thanh toán không dùng tiền mặt
+
+3. Giải pháp điều hành thông minh mạng lưới cấp cứu ngoài bệnh viện
+
+4. Giải pháp thay thế CPU truyền thống bằng Raspberry Pi giúp tiết kiệm kinh phí và bảo vệ môi trường
+
+5. Hệ thống cảnh báo nguy cơ dinh dưỡng để can thiệp sớm
+
+6. Hệ thống nhắc kê đơn cho bác sĩ Nhi khoa
+
+7. Hệ thống phản ứng khẩn cấp giải quyết sự cố an ninh, trật tự trong bệnh viện: “Code grey”
+
+8. Mô hình “bệnh viện số”
+
+9. Phần mềm để người bệnh cùng kiểm tra thông tin trước mổ
+
+10. Phần mềm giám sát tuân thủ an toàn người bệnh trong phẫu thuật
+
+11. Phần mềm quản lý báo cáo sự cố: IRS
+
+12. Phần mềm quản lý sử dụng kháng sinh hạn chế
+
+13. Thân thiện hóa giọng đọc của máy khi gọi tên người bệnh
+
+14. Ứng dụng các thuật toán tiên tiến giúp xạ trị trúng đích
+
+15. Ứng dụng camera thông minh giám sát rửa tay
+
+16. Ứng dụng công nghệ làm tăng thêm giá trị của hệ thống xét nghiệm
+
+17. Ứng dụng công nghệ trí tuệ nhân tạo trong phẫu thuật nội soi: robot Da Vinci
+
+18. Ứng dụng công nghệ trí tuệ nhân tạo trong phẫu thuật ngoại thần kinh: robot Modus V Synaptive
+
+19. Ứng dụng IoT để quản lý và điều phối máy giúp thở giữa các khoa trong toàn bệnh viện
+
+20. Ứng dụng trí tuệ nhân tạo tiếp cận y học cá thể trong điều trị ung thư
+
+SỞ Y TẾ TP.HCM

@@ -1,0 +1,10 @@
+1	Ban_chấp_hành	N	O	0	root
+2	Hội	N	B-ORG	1	nmod
+3	Y_Học	N	I-ORG	2	nmod
+4	TP.	Ny	I-ORG	2	nmod
+5	HCMSố	Np	I-ORG	1	nmod
+6	người	N	O	1	nmod
+7	truy_cập	V	O	6	nmod
+8	trong	E	O	7	tmp
+9	ngày	N	O	8	pob
+10	28	M	O	9	det

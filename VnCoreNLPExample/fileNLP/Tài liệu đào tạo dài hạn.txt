@@ -1,0 +1,13 @@
+1	Tài_liệu	N	O	5	sub
+2	đào_tạo	V	O	1	nmod
+3	dài	A	O	2	vmod
+4	hạnĐang	Np	O	1	nmod
+5	xem	V	O	0	root
+6	kết_quả	N	O	5	dob
+7	từ	E	O	6	nmod
+8	1-8	M	O	7	dep
+9	trong	E	O	7	pmod
+10	tổng_số	N	O	9	pob
+11	8	M	O	12	det
+12	bản	N	O	10	nmod
+13	ghi	V	O	5	vmod

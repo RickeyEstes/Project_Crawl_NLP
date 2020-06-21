@@ -1,0 +1,8 @@
+1	Đục	N	O	5	sub
+2	thuỷ_tinh	N	O	1	nmod
+3	thể.Các	N	O	1	nmod
+4	câu	N	O	3	nmod
+5	hỏi	V	O	0	root
+6	về	E	O	5	vmod
+7	Đục	N	O	6	pob
+8	thuỷ_tinh_thể	N	O	7	nmod

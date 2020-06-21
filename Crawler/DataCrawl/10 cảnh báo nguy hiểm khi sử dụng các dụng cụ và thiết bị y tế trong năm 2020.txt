@@ -1,0 +1,123 @@
+10 cảnh báo nguy hiểm khi sử dụng các dụng cụ và thiết bị y tế trong năm 202010 cảnh báo nguy hiểm khi sử dụng các dụng cụ và thiết bị y tế trong năm 2020
+
+Viện ECRI (Emergency Care Research Institute) vừa công bố 10 cảnh báo nguy hiểm cần quan tâm trong năm 2020 khi sử dụng các dụng cụ và thiết bị y tế vì có thể gây mất an toàn và nguy hiểm cho bệnh nhân.
+
+1 Sử dụng sai bấm ghim phẫu thuật
+
+Máy bấm ghim phẫu thuật là thiết bị phức tạp đòi hỏi kỹ thuật tỉ mỉ để vận hành. Một số loại được sử dụng để ghim (kết dính) mô, trong khi một số khác được thiết kế tính năng cả ghim và cắt. Sử dụng không đúng có thể đem lại hậu quả, bệnh nhân đã bị xuất huyết trong phẫu thuật, tổn thương mô, chảy máu sau phẫu thuật đột ngột, các nguy hại khác.
+
+Mặc dù tỷ lệ biến cố khá thấp so với tần suất sử dụng máy bấm ghim, nhưng các vấn đề liên quan đến việc sử dụng và chức năng của máy bấm ghim phẫu thuật cũng được báo cáo. Trên thực tế, một phân tích gần đây của FDA đã đưa ra hơn 100.000 sự cố kể từ năm 2011, bao gồm 412 người chết, 11.181 người thươn tật nặng và 98.404 ảnh hưởng chức năng.
+
+Theo ECRI, hậu quả có thể bắt nguồn từ cách sử dụng ghim bấm phẫu thuật, các lỗi sử dụng bao gồm chọn kích thước ghim không chính xác, kẹp trên mô quá dày hoặc quá mỏng, hoặc kẹp vào một dụng cụ khác.
+
+Để tránh các lỗi như vậy, như đã nêu chi tiết trong các khuyến cáo, đòi hỏi phải đào tạo và làm quen với dụng cụ. Cụ thể, khuyến cáo nên thực hành với từng model cụ thể của máy bấm ghim.
+
+Một phân tích gần đây của FDA đã đưa ra hơn 100.000 sự cố kể từ năm 2011, bao gồm 412 người chết, 11.181 người thươn tật nặng và 98.404 ảnh hưởng chức năng.
+
+2 Nguy hiểm do sử dụng siêu âm tại giường ngoài tầm kiểm soát
+
+Việc thiếu sự giám sát liên quan đến việc sử dụng siêu âm tại giường (Point-of-Care Ultrasound - POCUS), bao gồm khi nào và phương thức sử dụng, có thể khiến bệnh nhân gặp nguy hiểm và các cơ sở y tế gặp phải rủi ro pháp lý.
+
+POCUS là sử dụng siêu âm bởi bác sĩ lâm sàng tại giường. Nó là một công cụ hiệu quả để chẩn đoán và hướng dẫn các can thiệp trong nhiều tình huống lâm sàng. POCUS thường có tính linh động cao, tương đối rẻ và dễ sử dụng, các tính năng này đã thúc đẩy việc áp dụng nhanh chóng và rộng rãi trong cơ sở y tế.
+
+Tuy nhiên, tại nhiều cơ sở y tế, các biện pháp để đảm bảo rằng người dùng POCUS được đào tạo, có kinh nghiệm và kỹ năng cần thiết khi đưa vào sử dụng chưa được thực hiện nghiêm ngặt. Do thiếu sự giám sát yêu cầu này đã làm tăng khả năng bệnh nhân bị ảnh hưởng bởi các vấn đề liên quan đến việc sử dụng thiết bị này.
+
+Những lo ngại về an toàn của bệnh nhân bao gồm POCUS không được bảo hành, chẩn đoán sai, sử dụng phương pháp không phù hợp và quá phụ thuộc vào POCUS khi chỉ định.
+
+Các chính sách và thủ tục cần giải quyết, bao gồm đào tạo và chứng nhận người dùng, tài liệu kiểm tra và lưu trữ dữ liệu, xây dựng quy trình kiểm soát tuân thủ quy định .
+
+Tại nhiều cơ sở y tế, các biện pháp để đảm bảo rằng người dùng POCUS được đào tạo, có kinh nghiệm và kỹ năng cần thiết đã không theo kịp việc đưa vào sử dụng.
+
+3 Nguy cơ lây nhiễm do sai sót trong quá trình kiểm soát nhiễm khuẩn tại cơ sở y tế và nha khoa
+
+Sự quan tâm không đầy đủ đến các quy trình khử trùng tại các cơ sở y tế, phòng nha và các cơ sở chăm sóc ngoại trú khác có thể khiến bệnh nhân tiếp xúc với các dụng cụ bị nhiễm khuẩn, hoặc khi cấy ghép. Như đã nhấn mạnh trong các phiên bản trước của danh sách 10 mối nguy hiểm hàng đầu, việc không làm sạch hoặc khử trùng các vật bị nhiễm một cách nghiêm túc và hiệu quả trước khi sử dụng có thể khiến bệnh nhân tiếp xúc với các loại virus gây bệnh.
+
+Mối quan tâm này tồn tại trong tất cả các cơ sở y tế, nơi bệnh nhân có thể tiếp xúc với các vật bị nhiễm khuẩn, đặc biệt là những trường hợp cần cấy ghép vào mô hoặc đưa vào mạch máu. Tuy nhiên, không phải tất cả các cơ sở y tế đều có bộ phận chuyên trách công tác kiểm soát nhiễm khuẩn (Infection Prevention and Control - IPC). Các cơ sở có thể thiếu quy trình khử trùng thường quy (ví dụ: các phòng khám sản phụ khoa, da liễu), phòng nha và các điểm tương tự không được khử trùng bởi bộ phận kiểm soát nhiễm khuẩn tập trung.
+
+ECRI đã quan sát thấy nhiều hoạt động kiểm soát nhiễm khuẩn không phù hợp liên quan. Mặc dù tỷ lệ ảnh hưởng vẫn chưa được công bố, nhưng tiềm ẩn của vấn đề này là nguy cơ gây mất an toàn cho bệnh nhân.
+
+Các biện pháp an toàn chính bao gồm chỉ định một nhân viên hoặc đơn vị đủ điều kiện để thực hiện IPC và đào tạo phù hợp, thực hiện kiểm tra định kỳ các thiết bị để bàn.
+
+Mặc dù tỷ lệ ảnh hưởng vẫn chưa được công bố, nhưng tiềm ẩn của vấn đề này là làm tăng nguy cơ tiềm tàng gây mất an toàn cho bệnh nhân.
+
+4 Rủi ro chạy thận nhân tạo với ống thông tĩnh mạch trung tâm (Central Venous Catheter - CVC)
+
+Gần đây, tại Mỹ đã công bố thúc đẩy tăng cường sử dụng điều trị tại nhà cho bệnh nhân mắc bệnh thận.
+
+Đối với nhiều bệnh nhân, chạy thận nhân tạo tại nhà có thể mang lại nhiều lợi ích lâu dài. Tuy nhiên, những bệnh nhân được chạy thận nhân tạo thông qua CVC, nguy cơ có thể lớn hơn lợi ích.
+
+CVC thường được đặt thông qua tĩnh mạch cổ (hoặc tĩnh mạch trung tâm lớn khác), tạo thành một con đường từ bên ngoài cơ thể đến tim. Do đó, dẫn đến nguy cơ bệnh nhân bị nhiễm trùng, đông máu, và tắc mạch do không khí nghiêm trọng.
+
+Tại cơ sở y tế, nhân viên y tế luôn chăm sóc ống thông đúng cách và giải quyết các nguy cơ kịp thời. Tuy nhiên, khi chăm sóc tại nhà, các thành viên gia đình hoặc những người chăm sóc khác có thể không được trang bị đầy đủ kiến thức để quản lý rủi ro hoặc ứng phó khi xảy ra sự cố do CVC. Khả năng ngày càng nhiều bệnh nhân với CVC để chạy thận nhân tạo tại nhà làm tăng mối lo ngại.
+
+Những bệnh nhân được chạy thận nhân tạo tại nhà thông qua CVC, nguy có thể lớn hơn lợi ích.
+
+5 Quy trình phẫu thuật robot chưa được thẩm định có thể khiến bệnh nhân gặp nguy hiểm
+
+Hệ thống robot phẫu thuật được sử dụng để hỗ trợ các bác sĩ phẫu thuật ngày càng mở rộng phạm vi - và liên tục phát triển – với các xâm lấn tối thiểu. Mặc dù việc sử dụng robot phẫu thuật theo những cách cải tiến hoặc các quy trình mới có thể giúp thúc đẩy thực hành lâm sàng, nhưng có thể dẫn đến thương tật hoặc biến chứng không mong muốn và có khả năng dẫn đến kết quả xấu lâu dài.
+
+Với cổ tay cơ học, robot phẫu thuật có thể mang lại lợi ích cho bác sĩ phẫu thuật như cải thiện sự khéo léo, cân bằng và giảm run. Tuy nhiên, các hệ thống này cũng có những hạn chế - chúng có thể không cung cấp phản hồi của cảm nhận khi tiếp xúc với mô. Trong một số trường hợp, các biến chứng từ quy trình phẫu thuật robot có thể không xuất hiện trong nhiều năm (năm 2019, FDA đã lưu ý đến khả năng biến chứng muộn liên quan đến việc sử dụng robot phẫu thuật cho một số ca phẫu thuật ung thư.)
+
+Các cơ sở y tế cần các quy trình chặt chẽ để phê duyệt áp dụng các quy trình mới đối với robot phẫu thuật, cũng như các chương trình toàn diện về đào tạo, chứng nhận bác sĩ phẫu thuật đặc biệt và nhân viên phòng mổ đối với các quy trình đó. Về phần mình, các bệnh nhân nên biết rằng phẫu thuật robot vốn dĩ không tốt hơn hoặc xấu hơn các phẫu thuật xâm lấn tối thiểu truyền thống khác.
+
+Các cơ sở y tế cần tuân thủ các quy trình phê duyệt áp dụng kỹ thuật mới đối với robot phẫu thuật, cũng như các chương trình toàn diện về đào tạo, chứng nhận bác sĩ phẫu thuật đặc biệt và nhân viên phòng mổ đối với các quy trình đó.
+
+6 Quá tải báo động, cảnh báo và thông báo
+
+Các bác sĩ lâm sàng phải phân tán sự tập trung của họ giữa nhiệm vụ chăm sóc bệnh nhân và đáp ứng tín hiệu nhắc từ các thiết bị y tế, hệ thống CNTT trong y tế. Khi số lượng thiết bị tạo báo động, cảnh báo và các thông báo tăng lên, nguy cơ bác sĩ lâm sàng sẽ trở nên quá tải, tiềm ẩn cho một sự cố lâm sàng.
+
+Vấn đề quá tải cảnh báo đã được biết đến. Tuy nhiên, điều quan trọng cần xem xét là gánh nặng cảnh báo - nghĩa là sự kết hợp giữa báo động, cảnh báo và thông báo từ tất cả các nguồn, không chỉ từ một thiết bị y tế.
+
+Thiết bị chăm sóc bệnh nhân báo âm thanh và các tín hiệu đèn. Điện thoại báo các cuộc gọi hoặc tin nhắn. Bệnh án điện tử hiển thị cảnh báo hỗ trợ quyết định lâm sàng. Và hệ thống gọi điều dưỡng thông báo rằng một bệnh nhân cần được chú ý.
+
+Cần có giải pháp để xem xét tất cả các nguồn này nhằm ngăn chặn tình trạng quá tải có thể làm mất tập trung hoặc làm giảm bớt sự tập trung của các bác sĩ lâm sàng, tất cả đều có thể dẫn đến bỏ lỡ cảnh báo và gây hại cho bệnh nhân. Ngoài việc thực hiện các biện pháp để giảm gánh nặng thông báo chung, các cơ sở y tế nên có các hoạt động giúp nhân viên phát triển các kỹ năng tư duy cần thiết để giảm thiểu quá tải nhận thức.
+
+Một cách tiếp cận toàn cầu là cần thiết để ngăn chặn quá tải nhận thức có thể dẫn đến bỏ lỡ cảnh báo và gây hại cho bệnh nhân.
+
+7 Rủi ro an ninh mạng trong kết nối chăm sóc sức khỏe tại nhà
+
+Các công nghệ theo dõi bệnh nhân từ xa đang ngày càng được sử dụng để theo dõi tại nhà nhằm giúp các bác sĩ lâm sàng xác định tình trạng bệnh nhân xấu đi trước khi họ phải nhập viện. Khi mạng kết nối công nghệ y tế này được triển khai tại nhà, các chính sách về an ninh mạng nhằm giải quyết các thách thức cũng phải được đưa ra.
+
+Giống như bất kỳ thiết bị y tế nào được kết nối mạng, các thiết bị được kết nối sử dụng tại nhà phải được bảo vệ chống lại các mối đe dọa có thể làm gián đoạn dữ liệu, thay đổi hoặc làm giảm hiệu suất của thiết bị, hoặc lộ thông tin sức khỏe được bảo mật. Ví dụ, một vấn đề an ninh mạng làm gián đoạn việc chuyển dữ liệu đến cơ sở y tế có thể dẫn đến chẩn đoán sai hoặc chậm trễ trong việc chăm sóc.
+
+Những thách thức bao gồm: việc triển khai có thể dựa vào mạng gia đình bệnh nhân, mà nhà cung cấp mạng không kiểm soát được; khó tiếp cận thiết bị, điều này có thể làm phức tạp việc khắc phục sự cố và cài đặt các bản cập nhật; và khó duy trì sự tuân thủ vận hành của bệnh nhân, đặc biệt nếu bệnh nhân thiếu thành thạo sử dụng thiết bị hoặc có những lo ngại không đáng có về rủi ro an ninh mạng.
+
+Các khuyến cáo bao gồm đánh giá bảo mật hệ thống trong quá trình mua sắm thiết bị và giải quyết các vấn đề về bảo mật trong quá trình cài đặt, cả tại nhà bệnh nhân và nhà mạng. Mục tiêu không chỉ là làm cho hệ thống giám sát hoạt động, mà là để nó hoạt động an toàn.
+
+Các thiết bị được kết nối sử dụng tại nhà phải được bảo vệ chống lại các mối đe dọa có thể làm gián đoạn dữ liệu, thay đổi hoặc làm giảm hiệu suất của thiết bị, hoặc lộ thông tin sức khỏe được bảo mật.
+
+8 Thiếu thông tin về thiết bị cấy ghép trong cơ thể bệnh nhân có thể gây nguy hiểm khi chụp MRI
+
+Bệnh nhân trước khi chụp cộng hưởng từ (MRI) phải được kiểm tra các thiết bị cấy ghép để tránh gây hại. Một số thiết bị cấy ghép có thể bị nóng, di chuyển hoặc trục trặc khi tiếp xúc với từ trường của hệ thống MRI. Do đó, nhân viên MRI phải xác định và tuân theo mọi chống chỉ định hoặc điều kiện an toàn của nhà sản xuất thiết bị cấy ghép.
+
+Thật không may, thông tin về thiết bị cấy ghép của bệnh nhân thường nằm rải rác trong các hồ sơ. Không có một vị trí duy nhất trong hồ sơ sức khoẻ điện tử (EHR) để lưu trữ thông tin thiết bị cấy ghép, các cơ sở y tế không có phương tiện để xác định loại và vị trí của thiết bị cấy ghép. Ngay cả khi khám sàng lọc, có thể không đáng tin cậy, vì bệnh nhân có thể không nhớ chi tiết về thiết bị cấy ghép hoặc có thể không ở trong tình trạng tốt để trả lời.
+
+Có thể gây hại trực tiếp cho bệnh nhân nếu việc chụp không đúng cách được tiến hành với thiết bị cấy ghép không rõ ràng. Ngoài ra, việc điều trị bệnh nhân có thể bị ảnh hưởng nếu việc chụp cần phải hoãn lại trong khi các cơ sở y tế xác định thông tin thiết bị cấy ghép.
+
+Các cơ sở y tế nên làm việc với nhà cung cấp EHR để tạo danh sách thiết bị cấy ghép được lưu trữ trong hồ sơ bệnh nhân. Tương tự như danh sách các dị ứng của bệnh nhân, danh sách thiết bị cấy ghép tập hợp tất cả thông tin liên quan tại một vị trí dễ truy cập
+
+Có thể gây hại trực tiếp cho bệnh nhân nếu việc chụp không đúng cách được tiến hành với sự có mặt của thiết bị cấy ghép không xác định.
+
+9 Lỗi dùng thuốc do khác biệt thời gian trong bệnh án điện tử
+
+Dùng thuốc không đủ liều hoặc trễ do có sự khác biệt giữa thời gian dùng thuốc trên toa của người kê đơn và thời gian được mặc định tự động từ danh sách do điều dưỡng xem. Tùy thuộc vào tình trạng bệnh của bệnh nhân và thuốc được kê đơn, những lỗi này có thể dẫn đến hậu quả lâm sàng đáng kể. Sự kết hợp giữa các vấn đề về giao diện mặc định và sử dụng trong hồ sơ bệnh án điện tử có thể dẫn đến sự khác biệt đó. Hãy xem xét tình huống sau đây:
+
+Vào cuối buổi sáng, bác sĩ nhập đơn thuốc mỗi ngày một lần và chỉ định bệnh nhân sẽ được tiêm liều đầu tiên vào sáng hôm đó. Tuy nhiên, thời gian mặc định được lập trình vào EHR cho các loại thuốc mỗi ngày một lần là 8:00 sáng. Vì đơn thuốc được kê sau thời gian trên, nên thuốc cho bệnh nhân đó sẽ không xuất hiện trong danh sách thực hiện của điều dưỡng cho đến sáng hôm sau, trừ khi người kê đơn biết về thời gian mặc định này để thay đổi cụ thể thời gian trong đơn thuốc.
+
+Lỗi thời gian dùng có thể ít hơn nếu hệ thống nhập đơn thuốc trên bệnh án điện tử hiển thị rõ ràng thời gian cho thuốc theo lịch, cho phép người kê đơn dễ dàng sửa đổi thời gian đó, bao gồm tùy chọn “ngay bây giờ” cho các loại thuốc cần được sử dụng sớm.
+
+Tùy thuộc vào tình trạng bệnh nhân mắc bệnh và thuốc được kê đơn, lỗi thời gian dùng thuốc có thể dẫn đến hậu quả lâm sàng đáng kể.
+
+10 Ốc vít và bu lông lỏng lẻo có thể dẫn đến hỏng thiết bị và thương tích nặng
+
+Các ốc vít, bu lông giữ các bộ phận của thiết bị y tế có thể bị lỏng theo thời gian khi sử dụng thường xuyên. Việc không sửa chữa hoặc thay thế các ốc vít bị lỏng hoặc mất, có thể dẫn đến hậu quả nghiêm trọng: thiết bị có thể bị lật, rơi, sập hoặc dịch chuyển trong quá trình sử dụng - bất kỳ trường hợp nào cũng có thể dẫn đến bệnh nhân, nhân viên y tế bị thương hoặc tử vong. Ngoài ra, hoạt động tại cơ sở y tế có thể bị cản trở, ảnh hưởng đến chăm sóc bệnh nhân và các thiết bị có thể hư hại.
+
+Trong hai năm qua, gần 20 báo cáo liên quan đến nhiều loại thiết bị y tế với ốc vít lỏng lẻo. Nhiều loại, từ xe đẩy trẻ em (khiến trẻ sơ sinh gặp nguy hiểm) đến các hệ thống chụp động mạch đồ sộ (có thể gây nguy hiểm cho bất kỳ ai bị rơi phải).
+
+Báo cáo này làm rõ sự khiếm khuyết của các thành phần đơn giản có thể để lại hậu quả nghiêm trọng. Như vậy, nó như một lời nhắc nhở rằng việc kiểm tra thiết bị là một yêu cầu quan trọng đối với an toàn người bệnh. Các kỹ sư nên kiểm tra tình trạng của tất cả các ốc vít cơ học trong quá trình kiểm tra, ngay cả trường hợp không được nêu trong hướng dẫn bào trì.
+
+Về phần mình, nhân viên y tế nên cảnh báo cho người có chức năng về bất kỳ chiếc ốc vít lỏng lẻo hoặc thiếu hụt nào, chuyển động của thiết bị không đều, hoặc tiếng ồn bất thường phát ra từ một thiết bị.
+
+Sự ảnh hưởng của thiết bị xe đẩy trẻ em (khiến trẻ sơ sinh gặp nguy hiểm) đến các hệ thống chụp động mạch đồ sộ (có thể gây ra hại cho bất kỳ ai bị rơi phải).
+
+SỞ Y TẾ TP.HCM

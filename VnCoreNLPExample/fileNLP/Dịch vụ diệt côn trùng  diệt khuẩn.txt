@@ -1,0 +1,6 @@
+1	Dịch_vụ	N	O	0	root
+2	diệt	V	O	1	nmod
+3	côn_trùng	N	O	2	dob
+4	,	CH	O	2	punct
+5	diệt	V	O	2	vmod
+6	khuẩn	N	O	5	dob

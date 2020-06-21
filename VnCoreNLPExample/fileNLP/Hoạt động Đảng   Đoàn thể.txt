@@ -1,0 +1,17 @@
+1	Hoạt_động	V	O	0	root
+2	Đảng	Np	O	1	dob
+3	-	CH	O	1	punct
+4	Đoàn	Nc	B-PER	1	sub
+5	thểTìm	Np	I-PER	4	nmod
+6	hiểu	V	O	1	vmod
+7	giải_pháp	N	O	11	sub
+8	định_vị	V	O	7	nmod
+9	chính_xác	A	O	8	vmod
+10	người	N	O	9	amod
+11	gọi	V	O	6	vmod
+12	số	N	O	11	dob
+13	911	M	O	12	det
+14	bằng	E	O	11	mnr
+15	điện_thoại_di_động	N	O	14	pob
+16	tại	E	O	12	loc
+17	Mỹ	Np	B-LOC	16	pob

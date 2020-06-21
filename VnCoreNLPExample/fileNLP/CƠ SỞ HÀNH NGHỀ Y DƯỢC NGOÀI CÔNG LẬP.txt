@@ -1,0 +1,5 @@
+1	CƠ_SỞ	Ny	O	0	root
+2	HÀNH_NGHỀ	Ny	O	1	nmod
+3	Y_DƯỢC	Ny	O	1	nmod
+4	NGOÀI	Ny	O	1	nmod
+5	CÔNG_LẬP	Ny	O	1	nmod

@@ -1,0 +1,4 @@
+1	Sơ_đồ	N	O	0	root
+2	tổ_chức	V	O	1	nmod
+3	chương_trình	N	O	2	dob
+4	vắc_xin	N	O	3	nmod

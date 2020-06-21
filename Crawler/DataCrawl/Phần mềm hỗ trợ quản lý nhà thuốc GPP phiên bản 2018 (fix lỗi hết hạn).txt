@@ -1,0 +1,17 @@
+Phần mềm hỗ trợ quản lý nhà thuốc GPP phiên bản 2018 (fix lỗi hết hạn)Hướng dẫn:
+
+Tải về tập tin đính kèm phía dưới. Giải nén vào cùng một thư mục. Sau đó chạy file setup.exe để tiến hành cài đặt.
+
+Lưu ý: Phần mềm không có chức năng sao lưu, phục hồi. Do đó, người dùng cần lưu ý khi cài đặt lại máy hoặc phần mềm.
+
+(Để có thể lấy lại dữ liệu cũ, trước khi cài đặt phần mềm mới chép file dữ liệu cũ tùy theo phiên bản sử dụng
+
+TH1: Nếu dùng phiên bản năm 2015 trở về trước: chép file QLNTHUOC_GPP.Gok trong Program files (Program files(x86))\SoftSolution\GPP\ vào nơi khác. Đổi tên file QLNTHUOC_GPP.Gok thành QLGDP.SSP.
+
+TH2: Dùng phiên bản năm 2018: chép file QLGDP.SSP trong Program files (Program Files (x86)\SoftSolution\SS-iPharm) vào nơi khác.
+
+Sau khi cài đặt lại phần mềm, chép đè file cũ lên file mới tạo sau khi cài đặt).
+
+Tải phần mềm tại đây
+
+SỞ Y TẾ TP.HCM

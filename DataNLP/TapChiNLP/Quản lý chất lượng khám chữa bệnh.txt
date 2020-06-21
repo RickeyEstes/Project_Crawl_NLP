@@ -1,0 +1,16 @@
+1	Quản_lý	V	O	0	root
+2	chất_lượng	N	O	1	dob
+3	khám_chữa	V	O	1	vmod
+4	bệnh.Tìm	N	O	3	dob
+5	hiểu	V	O	1	vmod
+6	giải_pháp	N	O	5	vmod
+7	định_vị	V	O	6	nmod
+8	chính_xác	A	O	7	vmod
+9	người	N	O	8	amod
+10	gọi	V	O	5	vmod
+11	số	N	O	10	dob
+12	911	M	O	11	det
+13	bằng	E	O	10	mnr
+14	điện_thoại_di_động	N	O	13	pob
+15	tại	E	O	11	loc
+16	Mỹ	Np	B-LOC	15	pob

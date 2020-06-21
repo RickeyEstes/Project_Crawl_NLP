@@ -1,0 +1,8 @@
+1	Ung_thư	N	O	5	sub
+2	bàng	N	O	1	nmod
+3	quang.Các	N	O	1	nmod
+4	câu	N	O	3	nmod
+5	hỏi	V	O	0	root
+6	về	E	O	5	vmod
+7	Ung_thư	Np	O	6	pob
+8	bàng_quang	V	O	5	vmod

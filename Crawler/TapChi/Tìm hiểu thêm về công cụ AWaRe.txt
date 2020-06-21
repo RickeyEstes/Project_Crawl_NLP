@@ -1,0 +1,33 @@
+Tìm hiểu thêm về công cụ AWaRe.TCYTTG vừa phát động chiến dịch toàn cầu tăng cường sử dụng công cụ AWaRe, công cụ này hoàn toàn có thể áp dụng ở mọi cơ sở điều trị. AWaRe là viết tắt của Access, Watch và Reserve, là 3 cách tiếp cận chọn lựa kháng sinh theo hướng hợp lý, tránh lạm dụng các kháng sinh thuộc nhóm ưu tiên khi chưa thật sự cần thiết, công cụ này vừa giúp ngăn chặn tình trạng đề kháng kháng sinh gia tăng, vừa hạn chế chi phí điều trị nhưng vẫn đảm bảo hiệu quả điều trị.
+
+Phân loại kháng sinh của TCYTTG theo công cụ AWaRe như sau:
+
+Nhóm tiếp cận (Access) – là kháng sinh thuộc nhóm thứ nhất hoặc thứ hai để điều trị theo kinh nghiệm các hội chứng nhiễm trùng thông thường dựa trên đánh giá có hệ thống các bằng chứng có sẵn, an toàn và không làm nặng thêm tình trạng kháng thuốc. Tất cả các kháng sinh thuộc nhóm Access là một phần của danh sách thuốc thiết yếu (EML), có nghĩa là các kháng sinh này nên có sẵn rộng rãi trong tất cả các cơ sở khám, chữa bệnh và vẫn phải nỗ lực để đảm bảo sử dụng phù hợp. Nhiều kháng sinh nhóm penicillin thuộc về nhóm này.
+
+Nhóm theo dõi (Watch) – là kháng sinh có nguy cơ cao tác động tiêu cực đến tình trạng kháng thuốc. Một số kháng sinh nhóm Watch cũng được đưa vào danh sách thuốc thiết yếu vì chúng là lựa chọn hiệu quả nhất cho một số các hội chứng lâm sàng được xác định rõ, nhưng việc sử dụng chúng phải được theo dõi chặt chẽ và chỉ định hạn chế Fluoroquinolones, không may được sử dụng phổ biến trong nhiều cơ sở y tế, thuộc nhóm Watch và chủ nên sử dụng khi không còn lựa chọn thứ nhất hoặc thứ hai.
+
+Nhóm dự trữ (Reserve) – là kháng sinh cho những chọn lựa cuối cùng, có hoạt tính chống lại vi khuẩn kháng đa kháng (MDR) hoặc kháng rộng (XDR), đại diện cho một nguồn lực có giá trị và không thể làm mới thêm được, nên được sử dụng một cách tiết kiệm nhất có thể. Một số loại kháng sinh mới (ví dụ: ceftazidime-avibactam) sẽ thuộc nhóm này, nhưng cũng có một số loại kháng sinh cũ hơn cũng nằm trong nhóm này (ví dụ: polymyxin).
+
+Nhóm kháng sinh không được khuyến khích sử dụng - loại thứ tư này chủ yếu bao gồm các kháng sinh kết hợp, loại này đã có trong bản cập nhật thuốc thiết yếu năm 2019. Một số loại kháng sinh được kết hợp với liều cố định nhất định, không có bất kỳ chỉ định hợp lý nào trong điều trị bệnh truyền nhiễm ở người và có thể ảnh hưởng tiêu cực đến tình trạng kháng thuốc và an toàn cho bệnh nhân.
+
+Có thể tóm lược các nhóm kháng sinh theo công cụ AWaRe như sau:
+
+Nhóm tiếp cận - Access:
+
+- Bao gồm các kháng sinh được liệt kê trong danh sách chọn lựa đầu tiên và lựa chọn thứ hai cho điều trị theo kinh nghiệm các bệnh lý nhiễm trùng phổ biến nhất.
+
+- Nhóm kháng sinh này phải được cung cấp rộng rãi trên toàn cầu với chất lượng, liều lượng, thời gian, công thức và giá cả phù hợp.
+
+Nhóm theo dõi - Watch:
+
+- Bao gồm các kháng sinh được xem là có mối quan tâm độc tính cao hơn và khả năng kháng thuốc.
+
+- Nhóm kháng sinh này đòi hỏi phải phát triển các công cụ quản lý ở cấp địa phương, quốc gia và toàn cầu.
+
+Nhóm dự trữ - Reserve:
+
+- Bao gồm các kháng sinh mới và là những kháng sinh lựa chọn điều trị cuối cùng
+
+- Nhóm kháng sinh này phải được bảo vệ và được ưu tiên trong các chương trình quản lý kháng sinh cấp quốc gia và quốc tế ở cường độ cao để bảo vệ hiệu quả của chúng.
+
+Sở Y tế TP.HCM

@@ -1,0 +1,13 @@
+1	ASEAN-Australia	Nc	O	3	sub
+2	Health_Security_Fellowship	Np	B-PER	1	nmod
+3	opportunityThứ	V	O	0	root
+4	ba	M	O	8	det
+5	,	CH	O	3	punct
+6	ngày	N	O	3	tmp
+7	1	M	O	6	det
+8	tháng	N	O	6	nmod
+9	11	M	O	8	det
+10	năm	N	O	8	nmod
+11	2016	M	O	10	det
+12	|	CH	O	8	punct
+13	11:25:17	M	O	6	det

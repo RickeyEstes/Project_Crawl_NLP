@@ -1,0 +1,16 @@
+1	Vấn_đề	N	O	8	sub
+2	răng	N	O	1	nmod
+3	miệng	N	O	1	nmod
+4	thời_kỳ	N	O	1	nmod
+5	COVID	Ny	O	4	nmod
+6	–	CH	O	4	punct
+7	Làm_sao	X	O	8	x
+8	an_toàn	A	O	0	root
+9	cho	E	O	8	amod
+10	người	N	O	9	pob
+11	bệnh.Số	N	O	10	nmod
+12	người	N	O	10	nmod
+13	truy_cập	V	O	8	amod
+14	trong	E	O	13	tmp
+15	ngày	N	O	14	pob
+16	38	M	O	15	det

@@ -1,0 +1,3 @@
+1	Thông_tin	N	O	3	sub
+2	dự_án	N	O	1	nmod
+3	đầu_tư	V	O	0	root

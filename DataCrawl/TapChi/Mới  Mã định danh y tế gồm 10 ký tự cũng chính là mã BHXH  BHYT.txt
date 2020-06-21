@@ -1,0 +1,29 @@
+Mới: Mã định danh y tế gồm 10 ký tự cũng chính là mã BHXH, BHYT.Mới: Mã định danh y tế gồm 10 ký tự cũng chính là mã BHXH, BHYT
+
+Suckhoedoisong.vn -Mã định danh y tế gồm 10 ký tự số, là số định danh cá nhân của người tham gia BHXH, BHYT. Mỗi người dân chỉ được cấp một mã định danh y tế duy nhất và tồn tại suốt đời.
+
+Bộ Y tế vừa ban hành Quyết định số 2153/QĐ-BYT ban hành quy chế xác lập, sử dụng và quản lý mã định danh y tế. Theo đó, Mã số BHXH sẽ được sử dụng làm mã định danh y tế.
+
+Theo đó, mã số BHXH sẽ được sử dụng làm mã định danh y tế để xác định danh tính một cá nhân tham gia dịch vụ chăm sóc sức khỏe. Mỗi người dân chỉ được cấp một mã định danh y tế duy nhất và mỗi mã định danh y tế chỉ được cấp cho một người dân và tồn tại suốt đời.
+
+Các cơ sở y tế sử dụng mã định danh y tế để liên kết thông tin sức khỏe của người dân với Bệnh án điện tử, Hồ sơ sức khỏe điện tử và các phần mềm thông tin y tế khác. Mã định danh y tế có những đặc tính cơ bản: sẵn sàng, nhận diện, liên thông, ánh xạ và xác thực.
+
+Ảnh minh hoạ
+
+Mã định danh y tế gồm mười ký tự số là số định danh cá nhân của người tham gia BHXH, BHYT theo quy định tại Quyết định số 1263/QĐ-BHXH ngày 21/11/2014 của Tổng Giám đốc BHXH Việt Nam ban hành và quy định quản lý, sử dụng hệ thống danh mục dùng chung, chỉ tiêu báo cáo ngành BHXH.
+
+Bộ dữ liệu thông tin định danh gồm: Mã số BHXH, họ tên, ngày sinh, giới tính, mã tỉnh/huyện/xã nơi đăng ký khai sinh, mã thẻ BHYT (nếu người dân có tham gia BHYT).
+
+Các cơ sở y tế tra cứu mã số BHXH của người dân trên Cổng thông tin điện tử BHXH Việt Nam hoặc Cổng tiếp nhận dữ liệu Hệ thống thông tin giám định BHYT. Khi trích chuyển dữ liệu khám chữa bệnh của người bệnh, các cơ sở khám bệnh, chữa bệnh sử dụng mã định danh y tế và các thông tin liên quan để liên kết các thông tin của người bệnh.
+
+Theo Quyết định, BHXH Việt Nam phối hợp với Bộ Y tế (Cục Công nghệ thông tin) cấp và quản lý mã số BHXH của người dân bảo đảm an toàn, bảo mật thông tin của người dân. Cung cấp đầy đủ thông tin tra cứu mã số BHXH và thông tin định danh liên quan của người dân phục vụ công tác khám bệnh, chữa bệnh.
+
+Đồng thời, xây dựng cơ chế, giải pháp nhằm đảm bảo tính riêng tư trong quá trình cung cấp, lưu giữ, sử dụng thông tin định danh của người dân.
+
+Các cơ sở y tế có trách nhiệm quản lý mã định danh y tế của người bệnh bảo đảm tính riêng tư, an toàn và bảo mật thông tin; bảo đảm an toàn, bảo mật thông tin mạng đối với thông tin do mình xử lý.
+
+Việc sử dụng một mã định danh nền tảng để chia sẻ dữ liệu cho các hệ thống khác nhau trong cùng một quốc gia, sẽ tạo điều kiện tổng hợp dữ liệu dễ dàng hơn, có thể được sử dụng để lập kế hoạch và nghiên cứu. Tương tự, ở một quốc gia nơi nhiều cơ quan sử dụng mã định danh chung giúp dễ dàng xác minh hoặc kiểm tra chéo các thuộc tính của người bệnh trên các hệ thống cho nhiều mục đích khác nhau, việc sử dụng mã định danh quốc gia trong lĩnh vực BHYT cho phép sao chép nhanh chóng đăng ký chăm sóc sức khỏe trên toàn quốc.
+
+Thái Bình
+
+Nguồn tin : Báo SỨC KHỎE & ĐỜI SỐNG Online

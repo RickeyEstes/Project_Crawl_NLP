@@ -1,0 +1,10 @@
+1	Ung_thư	N	O	3	sub
+2	đại	A	O	1	nmod
+3	trực	V	O	0	root
+4	tràng.Các	N	O	3	dob
+5	câu	N	O	4	nmod
+6	hỏi	V	O	4	nmod
+7	về	E	O	4	nmod
+8	Ung_thư	Np	O	7	pob
+9	đại	V	O	6	vmod
+10	trực_tràng	A	O	9	vmod

@@ -1,0 +1,3 @@
+1	VĂN_BẢN	Ny	B-PER	0	root
+2	CHỈ_ĐẠO	Ny	I-PER	1	nmod
+3	ĐIỀU_HÀNH	Np	I-PER	1	nmod

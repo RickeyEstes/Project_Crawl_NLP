@@ -1,0 +1,15 @@
+1	100	M	O	2	det
+2	CÂU	Ny	O	0	dob
+3	HỎI_ĐÁP	Ny	O	2	nmod
+4	VỀ	Ny	O	2	nmod
+5	DỊCH_BỆNH	Ny	O	2	nmod
+6	COVID-19	Ny	O	2	nmod
+7	.	CH	O	2	punct
+1	HỌC_VIỆN	Ny	O	3	sub
+2	QUÂN	Ny	O	1	nmod
+3	YSố	V	O	0	root
+4	người	N	O	3	dob
+5	truy_cập	V	O	4	nmod
+6	trong	E	O	5	tmp
+7	ngày	N	O	6	pob
+8	520	M	O	7	det

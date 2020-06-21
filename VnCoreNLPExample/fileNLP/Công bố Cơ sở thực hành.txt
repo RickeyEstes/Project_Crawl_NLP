@@ -1,0 +1,3 @@
+1	Công_bố	N	O	3	sub
+2	Cơ_sở	N	O	1	nmod
+3	thực_hành	V	O	0	root

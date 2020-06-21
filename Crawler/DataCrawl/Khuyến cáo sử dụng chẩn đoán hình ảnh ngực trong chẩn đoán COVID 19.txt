@@ -1,0 +1,49 @@
+Khuyến cáo sử dụng chẩn đoán hình ảnh ngực trong chẩn đoán COVID-19Ngày 11/06/2020, TCYTTG đã chính thức phát hành khuyến cáo về việc sử dụng chẩn đoán hình ảnh trong chẩn đoán và quản lý bệnh nhân COVID-19.
+
+COVID-19 biểu hiện với các triệu chứng hô hấp không đặc hiệu với mức độ nghiêm trọng khác nhau và có thể cần phải hỗ trợ hô hấp nâng cao. Chẩn đoán xác định COVID-19 bằng xét nghiệm xác định RNA của vi rút qua phản ứng chuỗi polymerase sao chép ngược (RT-PCR) đã chính thức được TCYTTG khuyến cáo.
+
+Chẩn đoán hình ảnh ngực là một phần của công việc chẩn đoán bệnh nhân nghi ngờ hoặc có thể mắc bệnh COVID-19 khi xét nghiệm RT-PCR không có sẵn, hoặc khi kết quả xét nghiệm bị trì hoãn hoặc kết quả xét nghiệm ban đầu âm tính nhưng bệnh nhân có triệu chứng gợi ý COVID-19. Chẩn đoán hình ảnh ngực cũng được xem xét để bổ sung cho đánh giá lâm sàng và các thông số xét nghiệm trong việc quản lý bệnh nhân đã được chẩn đoán COVID-19.
+
+Trước khi ban hành hướng dẫn này, đã có một số quốc gia thành viên yêu cầu TCYTTG tư vấn về vai trò của hình ảnh ngực ở những bệnh nhân nghi ngờ hoặc được xác nhận COVID-19. TCYTTG đã đánh giá về thực hành chẩn đoán hình ảnh ở những bệnh nhân nghi ngờ hoặc được xác nhận COVID-19 trên toàn thế giới đã tìm thấy các biến thể rộng. Điều này thúc đẩy TCYTTG phát triển một hướng dẫn toàn cầu về việc sử dụng hình ảnh ngực trong việc ứng phó với đại dịch COVID-19.
+
+Khuyến cáo sử dụng chẩn đoán hình ảnh ngực trong chẩn đoán COVID-19, TCYTTG đã đưa 6 tình huống cụ thể:
+
+Tình huống 1: Đối với những người tiếp xúc với bệnh nhân COVID-19 nhưng không có triệu chứng, TCYTTG khuyến cáo không sử dụng chẩn đoán hình ảnh ngực để chẩn đoán COVID-19. Sử dụng RT-PCR để chẩn đoán xác định.
+
+(Khuyến cáo có điều kiện, dựa vào kinh nghiệm)
+
+Tình huống 2:
+
+- Đối với bệnh nhân có triệu chứng nghi COVID-19, TCYTTG khuyến cáo không sử dụng chẩn đoán hình ảnh ngực trong công việc chẩn đoán COVID-19 khi xét nghiệm RT-PCR sẵn có và cho kết quả kịp thời. Sử dụng RT-PCR để chẩn đoán xác định.
+
+(Khuyến cáo có điều kiện, dựa vào một số chứng cứ khoa học mức độ thấp)
+
+- Đối với bệnh nhân có triệu chứng nghi COVID-19, TCYTTG khuyến cáo sử dụng chẩn đoán hình ảnh ngực trong công việc chẩn đoán COVID-19 khi:
+
+(1) Xét nghiệm RT-PCR không sẵn có;
+
+(2) Xét nghiệm RT-PCR sẵn có nhưng trả kết quả chậm;
+
+(3) Kết quả RT-PCR ban đầu âm tính nhưng lâm sàng vẫn nghi ngờ COVID-19.
+
+(Khuyến cáo có điều kiện, dựa vào một số chứng cứ khoa học mức độ thấp)
+
+Tình huống 3: Đối với bệnh nhân nghi ngờ hoặc xác định COVID-19, hiện chưa nhập viện và có triệu chứng nhẹ, TCYTTG đề nghị sử dụng chẩn đoán hình ảnh ngực ngoài việc đánh giá lâm sàng và xét nghiệm để quyết định nhập viện và xuất viện.
+
+(Khuyến cáo có điều kiện, dựa vào kinh nghiệm)
+
+Tình huống 4: Đối với bệnh nhân nghi ngờ hoặc xác định COVID-19, hiện chưa nhập viện và có triệu chứng từ trung bình đến nặng, TCYTTG đề nghị sử dụng chẩn đoán hình ảnh ngực ngoài việc đánh giá lâm sàng và xét nghiệm để quyết định nhập viện vào phòng bệnh thường hay nhập viện điều trị tích cực (ICU).
+
+(Khuyến cáo có điều kiện, dựa vào bằng chứng khoa học mức độ rất thấp)
+
+Tình huống 5: Đối với bệnh nhân nghi ngờ hoặc xác định COVID-19, hiện chưa nhập viện và có triệu chứng từ trung bình đến nặng, TCYTTG đề nghị sử dụng chẩn đoán hình ảnh ngực ngoài việc đánh giá lâm sàng và xét nghiệm để thông tin cho công tác quản lý điều trị.
+
+(Khuyến cáo có điều kiện, dựa vào bằng chứng khoa học mức độ rất thấp)
+
+Tình huống 6: Đối với bệnh nhân xác định COVID-19 và nhập viện điều trị, có triệu chứng ổn định, TCYTTG đề nghị không sử dụng thêm chẩn đoán hình ảnh ngực ngoài đánh giá lâm sàng và/hoặc xét nghiệm để quyết định về việc xuất viện.
+
+(Khuyến cáo có điều kiện, dựa vào kinh nghiệm)
+
+Toàn văn Khuyến cáo của TCYTTG (đính kèm)
+
+SỞ Y TẾ TP.HCM

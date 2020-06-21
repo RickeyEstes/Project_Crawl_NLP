@@ -1,0 +1,10 @@
+1	Cập_nhật	V	O	0	root
+2	Thông_tin	N	O	1	dob
+3	về	E	O	2	nmod
+4	dịch_bệnh	N	O	3	pob
+5	viêm	N	O	4	nmod
+6	đường	N	O	5	nmod
+7	hô_hấp	N	O	6	nmod
+8	cấp	N	O	6	nmod
+9	COVID	Ny	O	8	nmod
+10	.	CH	O	1	punct

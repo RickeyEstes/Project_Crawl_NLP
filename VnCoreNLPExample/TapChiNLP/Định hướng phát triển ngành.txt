@@ -1,0 +1,15 @@
+1	Định_hướng	N	O	4	sub
+2	phát_triển	V	O	1	nmod
+3	ngành.Tìm	Np	O	1	nmod
+4	hiểu	V	O	0	root
+5	giải_pháp	N	O	4	dob
+6	định_vị	V	O	5	nmod
+7	chính_xác	A	O	6	vmod
+8	người	N	O	7	amod
+9	gọi	V	O	4	vmod
+10	số	N	O	9	dob
+11	911	M	O	10	det
+12	bằng	E	O	9	mnr
+13	điện_thoại_di_động	N	O	12	pob
+14	tại	E	O	10	loc
+15	Mỹ	Np	B-LOC	14	pob

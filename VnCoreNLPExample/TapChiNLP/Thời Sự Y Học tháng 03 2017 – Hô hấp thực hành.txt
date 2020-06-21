@@ -1,0 +1,13 @@
+1	Thời_Sự	N	O	6	sub
+2	Y_Học	Np	O	1	nmod
+3	tháng	N	O	1	nmod
+4	03/2017	M	O	3	det
+5	–	CH	O	1	punct
+6	Hô_hấp	V	O	0	root
+7	thực	A	O	6	vmod
+8	hành.Số	N	O	6	dob
+9	người	N	O	8	nmod
+10	truy_cập	V	O	8	nmod
+11	trong	E	O	10	tmp
+12	ngày	N	O	11	pob
+13	38	M	O	12	det

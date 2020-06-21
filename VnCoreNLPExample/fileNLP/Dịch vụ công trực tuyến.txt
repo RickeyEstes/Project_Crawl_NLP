@@ -1,0 +1,16 @@
+1	Dịch_vụ	N	O	3	sub
+2	công	N	O	1	nmod
+3	trực	V	O	0	root
+4	tuyếnTìm	N	O	3	dob
+5	hiểu	V	O	4	nmod
+6	giải_pháp	N	O	5	vmod
+7	định_vị	V	O	6	nmod
+8	chính_xác	A	O	7	vmod
+9	người	N	O	8	amod
+10	gọi	V	O	3	vmod
+11	số	N	O	10	dob
+12	911	M	O	11	det
+13	bằng	E	O	10	mnr
+14	điện_thoại_di_động	N	O	13	pob
+15	tại	E	O	10	loc
+16	Mỹ	Np	B-LOC	15	pob

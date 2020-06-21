@@ -1,0 +1,4 @@
+1	Lãnh_đạo	N	O	3	sub
+2	qua	V	O	1	nmod
+3	các	L	O	4	det
+4	thời_kỳ	N	O	0	root

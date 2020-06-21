@@ -1,0 +1,51 @@
+Virus viêm gan C hợp tác với protein miễn dịch để tránh sự phòng vệ của thuốc kháng vi-rútVirus viêm gan C hợp tác với protein miễn dịch để tránh sự phòng vệ của thuốc kháng vi-rút
+
+Theo nghiên cứu mới, bằng cách phát hiện ra một mẹo mà virus viêm gan C sử dụng để trốn tránh hệ thống miễn dịch, các nhà khoa học đã xác định được một hệ thống phòng thủ chống vi-rút mới có thể được sử dụng để điều trị nhiều bệnh nhiễm vi-rút.
+
+
+
+
+
+
+
+Theo một nghiên cứu mới được công bố hôm nay trên eLife, bằng cách phát hiện ra một mẹo mà virus viêm gan C sử dụng để trốn tránh hệ thống miễn dịch, các nhà khoa học đã xác định được một hệ thống phòng thủ chống vi-rút mới có thể được sử dụng để điều trị nhiều bệnh nhiễm vi-rút .
+
+
+
+
+
+Virus có nhiều chiến lược để tránh hệ thống phòng thủ miễn dịch. Họ thường làm điều này bằng cách chiếm quyền điều khiển protein của hệ thống miễn dịch. Một loại protein miễn dịch thường được các virus nhắm đến, bao gồm HIV, viêm gan C và coronavirus SARS, được gọi là cyclophilin A (CypA). Hiểu cách CypA được sử dụng bởi virus có thể giúp các nhà khoa học phát triển các loại thuốc có tác dụng chống lại tất cả chúng, bao gồm cả virus SARS-CoV-2 gây ra đại dịch COVID-19.
+
+
+
+
+
+"Trước đây, các thử nghiệm lâm sàng đã chỉ ra rằng việc ngăn chặn CypA làm giảm khả năng của virus viêm gan C tái tạo và tăng cường đáp ứng miễn dịch", tác giả chính Che Colpitts, Trợ lý Giáo sư Khoa học Y sinh và Phân tử tại Đại học Queen, Kingston, Canada giải thích. "Chúng tôi đặt ra để hiểu làm thế nào CypA giúp viêm gan C trốn tránh hệ thống miễn dịch."
+
+
+
+
+
+
+
+
+
+Trong các thí nghiệm, nhóm nghiên cứu đã sử dụng các tế bào ung thư gan người nhiễm viêm gan C có và không có hệ thống miễn dịch bẩm sinh hoạt động. Hệ thống miễn dịch bẩm sinh quét cơ thể các mối đe dọa tiềm ẩn như virus hoặc vi khuẩn và kích hoạt phản ứng. Các nhà khoa học đã sử dụng một công cụ gọi là RNA kẹp tóc ngắn để chọn lọc im lặng CypA và thấy rằng điều này ngăn chặn virus chỉ nhân lên trong các tế bào gan với hệ thống miễn dịch bẩm sinh hoạt động. Họ cũng chỉ ra rằng các loại thuốc được gọi là chất ức chế cyclophilin giúp ngăn chặn virus khỏi CypA đồng thời ngăn chặn và ngăn chặn nó nhân lên.
+
+
+
+
+
+CypA được biết là gắn vào một protein miễn dịch gọi là protein kinase R (PKR), ảnh hưởng đến khả năng phát hiện virus của nó. Vì vậy, nhóm nghiên cứu đã sử dụng một công cụ chỉnh sửa gen có tên CRISPR / Cas9 để cắt gen PKR trong tế bào gan người với hệ thống miễn dịch bẩm sinh đang hoạt động. Trong các tế bào không có PKR, các chất ức chế cyclophilin ít có khả năng ngăn chặn virus sinh sản. Điều này xảy ra vì PKR không có ở đó để xác định virus và kích hoạt hệ thống phòng thủ chống vi-rút.
+
+
+
+
+
+"Những phát hiện này tiết lộ một cơ chế phòng chống vi-rút mới giúp ngăn chặn sự phát triển của vi-rút", tác giả cao cấp Greg Towers, Giáo sư về Virus học phân tử tại Đại học College London, Vương quốc Anh cho biết. "Điều này mở ra cơ hội phát triển các loại thuốc chống vi-rút nhắm mục tiêu CypA có thể được sử dụng để chống lại nhiều loại vi-rút hiện không thể điều trị được."
+
+
+
+
+
+Nguồn : Tài liệu được cung cấp bởi eLife .

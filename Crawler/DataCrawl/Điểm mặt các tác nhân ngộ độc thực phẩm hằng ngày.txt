@@ -1,0 +1,27 @@
+Điểm mặt các tác nhân ngộ độc thực phẩm hằng ngày.Thực phẩm là một hỗn hợp của nhiều hợp chất phức tạp có tác dụng nuôi dưỡng cơ thể con người nhưng đôi khi lại chứa đựng những mối nguy gây ảnh hưởng đến sức khỏe và tính mạng của con người.
+
+Một vài thực phẩm chứa các hợp chất tự nhiên được xem là độc hại như salonine trong khoai tây, hợp chất chứa cyanide trong khoai mì, tetrodotoxin trong cá nóc… Đồng thời thực phẩm còn có thể được xem là một phương tiện truyền tải các tác nhân gây bệnh hoặc ngộ độc cho người như dư lượng thuốc bảo vệ thực vật, các hóa chất, các vi khuẩn và các độc tố của chúng.
+
+Phần lớn các vụ ngộ độc thực phẩm là do tác nhân vi sinh. Trong đó, đa số là các vi khuẩn như sau:
+
+- E. coli được xem là chủng vi sinh vật phổ biến trong đường ruột con người cũng như những động vật máu nóng khác. Chúng thường có mặt trong phân và sống trong nước nên được dùng để làm tiêu chí đánh giá mức độ nhiễm khuẩn có nguồn gốc từ phân cho nước và thực phẩm. E.coli có nhiều dòng khác nhau và là nguyên nhân của các hội chứng viêm đại tràng xuất huyết, hội chứng huyết tan kèm urê máu hoặc các hội chứng gây tiêu chảy.
+
+Đây là các vi khuẩn có nguồn gốc từ phân lây nhiễm vào nguồn nước và từ đó lây nhiễm vào thực phẩm, chủ yếu là các thực phẩm tươi sống như rau quả tươi, nước ép trái cây, các món sushi, thịt xay nấu tái, lạp xưởng tươi, mayonnaise, sữa tươi. Gia súc được xem là nguồn lây nhiễm quan trọng vì thế các loại thịt tươi sống như thịt heo, thịt gà, thịt cừu… thường hay nhiễm E. coli. Trong quá trình chế biến cần phải nấu thật chín thức ăn để có thể tiêu diệt chúng.
+
+- Staphyllococcus aureus gây ngộ độc cho người bằng các độc tố do chúng sinh ra trong thực phẩm. Các triệu chứng thường nhẹ và diễn ra trong thời gian ngắn nên ít được ghi nhận hơn so với các ngộ độc khác. Độc tố của Staphyllococcus aureus rất khó bị phân giải bởi các men tiêu hóa và bền với nhiệt độ do vậy chỉ khi đun sôi thật kỹ thức ăn thì mới có thể vô hoạt hóa độc tố này. Trong quá trình nấu thức ăn, có thể sẽ tiêu diệt được vi khuẩn Staphyllococcus aureus nhưng độc tố của chúng vẫn chưa bị bất hoạt nên thức ăn dù không có chứa vi khuẩn nhưng người ăn vẫn bị ngộ độc do độc tố vẫn còn.
+
+Các Staph. aureus hiện diện trong mũi và họng của người và lây nhiễm vào thực phẩm do người chế biến ho và hắt hơi. Thường gặp nhất là các sản phẩm chế biến từ thịt, các thức ăn của tiệc buffet, các sản phẩm chế biến từ sữa (từ bò bị bệnh viêm vú) như phô-mai, bánh kem, bánh nhân kem…
+
+- Bacillus cereus và các chủng Bacillus khác có thể tồn tại khắp nơi trong môi trường như trong đất, nước và các thực vật, do vây chúng cũng được xem là thành phần phổ biến của hệ vi sinh đường ruột ở người. Các thực phẩm bị nhiễm thường là các sản phẩm có nhiều tinh bột như cơm, mỳ ống, nuôi, các loại bánh từ bột nhào… Tuy nhiên thông thường số lượng của chúng không nhiều đến mức gây ngộ độc.
+
+- Clostridium perfringens: Khi hiện diện với một số lượng lớn, chúng có thể sống sót ở độ acid của dạ dày và đi xuống ruột non, tại đây chúng trở thành bào tử tiết ra độc tố gây ngộ độc và được đặc trưng bởi các triệu chứng buồn nôn, đau bụng, tiêu chảy nhưng không gây sốt.
+
+Các thực phẩm được chế biến từ các nguyên liệu có chứa bào tử Clostridium perfringens, mặc dầu được nấu chín nhưng một số bào tử còn sống sót, chúng sẽ phát triển do thực phẩm được bảo quản trong những điều kiện không phù hợp như được giữ ở nhiệt độ phòng, làm lạnh chậm. Sản phẩm sau đó được tiêu dùng nguội hoặc được hâm nóng nhưng không đủ để tiêu diệt vi khuẩn do vậy chúng vào đến ruột và sản sinh độc tố. Như vậy ngộ độc thường xảy ra trên các thức ăn nhanh, được chế biến và bảo quản trong thời gian dài ở điều kiện không phù hợp. Thường gặp trên các sản phẩm chế biến từ thịt. Hầu hết các vụ ngộ độc do C. perfringens xảy ra ở các bếp ăn tập thể ở các trường học, khu công nghiệp…
+
+Vi sinh vật có thể bị tiêu diệt khi thực phẩm được nấu kỹ hoặc qua các chế độ tiệt trùng; tuyệt đối không để thức ăn lâu ở nhiệt độ phòng.
+
+Ngoài ra chén bát và các dụng cụ nhà bếp như dao, thớt cần được rửa sạch và phơi khô để đảm bảo không bị vấy nhiễm vi sinh.
+
+Đặc biệt là nên thường xuyên làm vệ sinh tủ lạnh vì trong đó vi sinh vật được mang đến từ nhiều nguồn khác nhau và mặc dù ở nhiệt độ này chúng không phát triển nhưng vẫn tồn tại và lây nhiễm sang các thực phẩm khác được cất giữ sau khi nấu chín và mang ra ăn liền.
+
+Nguồn: Trung tâm Truyền thông - Giáo dục Sức khỏe TP.HCM

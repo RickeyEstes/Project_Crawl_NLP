@@ -1,0 +1,13 @@
+1	Bảo_vệ	V	O	0	root
+2	sức_khoẻ	N	O	1	dob
+3	và	Cc	O	2	coord
+4	sắc_diện	N	O	3	conj
+5	thời_kỳ	N	O	4	nmod
+6	Covid-19	Ny	O	5	nmod
+7	.	CH	O	1	punct
+1	Số	N	O	3	sub
+2	người	N	O	1	nmod
+3	truy_cập	V	O	0	root
+4	trong	E	O	3	tmp
+5	ngày	N	O	4	pob
+6	38	M	O	5	det

@@ -1,0 +1,29 @@
+Bộ Y tế Khai Trương Cổng Dịch Vụ Công.Cổng Dịch vụ công Bộ Y tế là cổng tích hợp thông tin về dịch vụ công trực tuyến, về qui trình, thời gian, kết quả giải quyết thủ tục hành chính trên cơ sở tích hợp và chia sẻ dữ liệu với Hệ thống thông tin một cửa điện tử của Bộ Y tế.
+
+Năm 2014, Bộ Y tế bắt đầu thực hiện cung cấp những dịch vụ công mức độ 4 đầu tiên về cấp giấy tiếp nhận bản công bố hợp quy và giấy xác nhận công bố phù hợp quy định an toàn thực phẩm; cấp giấy chứng nhận cơ sở đủ điều kiện vệ sinh an toàn thực phẩm.
+
+Sau 05 năm triển khai, đến nay Bộ Y tế đã xây dựng và đưa vào vận hành trên 60 dịch vụ công trực tuyến mức độ 3, mức độ 4 trong các lĩnh vực: An toàn thực phẩm, Dược phẩm và Mỹ phẩm, Trang thiết bị Y tế, Khoa học công nghệ, Khám chữa bệnh, Môi trường Y tế, … với khoảng gần 400 hồ sơ được tiếp nhận/ngày.
+
+Sáng ngày 13/11/2019 tại Hà Nội, Bộ Y tế tổ chức Lễ Khai trương Cổng Dịch vụ công Bộ Y tế. PGS.TS.Nguyễn Thị Kim Tiến, Bộ trưởng Bộ Y tế, Trưởng Ban Bảo vệ Chăm sóc sức khỏe Trung ương chủ trì buổi Lễ.
+
+Tham dự Lễ Khai trương, có TS.Trương Quốc Cường, Thứ trưởng Bộ Y tế; PGS.TS.Nguyễn Trường Sơn, Thứ trưởng Bộ Y tế; đại diện Lãnh đạo Cục Tin học hóa, Bộ Thông tin và Truyền thông; Cục Kiểm soát thủ tục hành chính, Văn phòng Chính phủ. Lãnh đạo và chuyên viên các Vụ, Cục, đơn vị của Bộ Y tế; đại diện một số Lãnh đạo Sở Y tế các tỉnh/thành phố: Hà Nội, Bắc Ninh, Quảng Ninh, Hải Phòng, Vĩnh Phúc, Phú Thọ, Hà Nam, Nam Định và các cơ quan báo chí của Trung ương và Hà Nội dự và đưa tin.
+
+Phát biểu tại buổi Lễ, PGS.TS.Nguyễn Thị Kim Tiến, Bộ trưởng Bộ Y tế, Trưởng Ban Bảo vệ Chăm sóc sức khỏe Trung ương cho biết, thực hiện Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính và Nghị quyết số 17/NQ-CP ngày 07/3/2019 của Chính phủ về một số nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn 2019 – 2020, định hướng đến 2025, Bộ Y tế đã khẩn trương xây dựng Cổng Dịch vụ công Bộ Y tế theo nguyên tắc tập trung, thống nhất để tiếp nhận, giải quyết thủ tục hành chính, cung cấp dịch vụ công trực tuyến thuộc thẩm quyền giải quyết của Bộ Y tế; kết nối, tích hợp với Cổng Dịch vụ công quốc gia, sẵn sàng kết nối với Cổng Dịch vụ công các Bộ/Ngành, các Tỉnh/Thành phố trực thuộc Trung ương.
+
+Cổng Dịch vụ công Bộ Y tế cũng tuân thủ khung Kiến trúc Chính phủ điện tử Việt Nam, Kiến trúc Chính phủ điện tử Bộ Y tế; các tiêu chuẩn, quy chuẩn liên quan; có khả năng kết nối, chia sẻ thông tin với các hệ thống thông tin khác của các cơ quan nhà nước; có khả năng tiếp nhận, kết nối, chia sẻ thông tin với tổ chức, cá nhân có nhu cầu thực hiện thủ tục hành chính thông qua các phương tiện điện tử, truyền thông, mạng xã hội.
+
+Về vai trò của dịch vụ công trực tuyến, Bộ trưởng Bộ Y tế Nguyễn Thị Kim Tiến cho biết: đối với việc xây dựng Chính phủ điện tử, cải cách hành chính, nâng cao hiệu quả quản lý điều hành, minh bạch hóa hoạt động của cơ quan nhà nước, phục vụ tốt hơn người dân, doanh nghiệp thì việc xây dựng các dịch vụ công trực tuyến đóng vai trò quan trọng.
+
+Tuy nhiên, do nhiều lý do khách quan nên các dịch vụ công trực tuyến của Bộ Y tế chưa được xây dựng thành hệ thống tích hợp, thống nhất; người dân, doanh nghiệp vẫn phải sử dụng nhiều tài khoản truy cập vào các địa chỉ Internet khác nhau để thực hiện các dịch vụ công trực tuyến; các dữ liệu đã có trên hệ thống khó sử dụng lại được. “Việc này cũng chưa tạo thuận lợi tốt cho công tác quản lý của Ngành” – Bộ trưởng Bộ Y tế Nguyễn Thị Kim Tiến nhấn mạnh.
+
+Để giải quyết những tồn tại nêu trên và thực hiện chỉ đạo của Chính phủ tại Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính, Bộ Y tế đã phối hợp với các đơn vị liên quan của Bộ Thông tin và Truyền thông, Văn phòng Chính phủ xây dựng và hoàn thiện Cổng Dịch vụ công Bộ Y tế.
+
+Cổng Dịch vụ công Bộ Y tế đi vào hoạt động sẽ cho phép công dân/ doanh nghiệp dễ dàng tiến hành nộp hồ sơ trực tuyến, tự tra cứu và biết được tình trạng giải quyết thủ tục hành chính của mình mà không phải đến tận nơi cơ quan giải quyết thủ tục hành chính. Đồng thời, công dân/doanh nghiệp có thể giám sát chất lượng các dịch vụ công một cách công khai, minh bạch, thông qua phản hồi, đánh giá quá trình giải quyết thủ tục hành chính của mình.
+
+Ngoài ra, Cổng Dịch vụ công Bộ Y tế còn giúp cải tiến, nâng cấp và đơn giản hóa quy trình giải quyết thủ tục hành chính, nhằm từng bước cải thiện sự phục vụ công dân/doanh nghiệp với chất lượng và hiệu quả tốt nhất; đồng thời tiết kiệm được chi phí do tập trung quản lý tại một hệ thống duy nhất.
+
+Hiện nay, Bộ Y tế là một trong ba Bộ tiên phong kết nối Cổng Dịch vụ công cấp Bộ với Cổng Dịch vụ công Quốc gia, Cổng dịch vụ công các Bộ Ngành và đã thử nghiệm kết nối với Cổng Dịch vụ công địa phương (tỉnh Bắc Ninh). Đồng thời, Cổng Dịch vụ công Bộ Y tế cũng sẽ được liên thông, kết nối với Hệ thống thông tin một cửa điện tử của Bộ Y tế, Cổng Một cửa Quốc gia và tới các địa phương trong cả nước trong lộ trình tiếp theo.
+
+Đường links truy cập vào Cổng dịch vụ công Bộ Y tế theo địa chỉ sau:
+
+https://dichvucong.moh.gov.vn

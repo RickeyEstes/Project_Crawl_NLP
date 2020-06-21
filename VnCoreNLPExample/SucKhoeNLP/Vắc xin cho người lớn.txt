@@ -1,0 +1,11 @@
+1	Vắc-xin	N	O	2	sub
+2	cho	E	O	0	root
+3	người	N	O	2	dob
+4	lớn.Các	V	O	3	nmod
+5	câu	N	O	4	dob
+6	hỏi	V	O	5	nmod
+7	về	E	O	5	nmod
+8	Vắc-xin	Np	O	7	pob
+9	cho	E	O	2	pmod
+10	người	N	O	9	pob
+11	lớn	A	O	10	nmod

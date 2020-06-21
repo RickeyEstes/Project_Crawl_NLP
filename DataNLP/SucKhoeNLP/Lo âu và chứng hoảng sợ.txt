@@ -1,0 +1,12 @@
+1	Lo_âu	V	O	0	root
+2	và	Cc	O	1	coord
+3	chứng	V	O	2	conj
+4	hoảng	V	O	3	vmod
+5	sợ.Các	N	O	3	dob
+6	câu	N	O	5	nmod
+7	hỏi	V	O	5	nmod
+8	về	E	O	5	nmod
+9	Lo_âu	Np	O	8	pob
+10	và	Cc	O	5	coord
+11	chứng	N	O	10	conj
+12	hoảng_sợ	V	O	5	nmod

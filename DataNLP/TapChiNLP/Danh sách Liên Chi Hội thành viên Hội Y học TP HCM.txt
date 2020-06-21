@@ -1,0 +1,13 @@
+1	Danh_sách	N	O	0	dob
+2	Liên_Chi	Np	O	1	nmod
+3	Hội	Np	O	1	nmod
+4	thành_viên	N	O	3	nmod
+5	Hội	N	B-ORG	4	nmod
+6	Y_học	N	I-ORG	5	nmod
+7	TP.	Ny	I-ORG	5	nmod
+8	HCM.Số	Np	I-ORG	3	nmod
+9	người	N	O	3	nmod
+10	truy_cập	V	O	9	nmod
+11	trong	E	O	10	tmp
+12	ngày	N	O	11	pob
+13	38	M	O	12	det
